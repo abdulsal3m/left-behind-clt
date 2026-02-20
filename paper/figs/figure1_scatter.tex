@@ -1,0 +1,63 @@
+% Figure 1 — Scatterplot: Mean Score vs. Mean Response Time
+\begin{figure}[t]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=\columnwidth,
+    height=5.5cm,
+    xlabel={Mean Response Time (s)},
+    ylabel={Mean Score (\%)},
+    xmin=0, xmax=40,
+    ymin=0, ymax=100,
+    grid=both,
+    grid style={line width=0.1pt, draw=gray!20},
+    major grid style={line width=0.2pt, draw=gray!40},
+    legend style={
+        at={(0.02,0.02)},
+        anchor=south west,
+        font=\scriptsize,
+        draw=gray!50,
+        fill=white,
+        fill opacity=0.9,
+    },
+    tick label style={font=\scriptsize},
+    label style={font=\small},
+    every axis plot/.append style={only marks, mark size=2pt},
+]
+% English-First (blue circles)
+\addplot[color=engfirst, mark=*, mark options={fill=engfirst}]
+    coordinates {(7.2,92.2)(11.8,88.2)(11.0,87.1)(25.4,87.3)(14.7,86.7)};
+\addlegendentry{English-First}
+% Bilingual (orange squares)
+\addplot[color=bilingual, mark=square*, mark options={fill=bilingual}]
+    coordinates {(6.4,91.2)(17.4,79.2)(18.4,81.3)(29.1,75.3)(30.5,79.7)};
+\addlegendentry{Bilingual}
+% Multilingual (green triangles)
+\addplot[color=multilingual, mark=triangle*, mark options={fill=multilingual}]
+    coordinates {(10.1,82.3)(22.9,15.7)(14.5,4.7)(13.8,4.3)};
+\addlegendentry{Multilingual}
+% Labels — English-First
+\node[font=\tiny,color=engfirst,anchor=south] at (axis cs:7.2,93.5) {C1};
+\node[font=\tiny,color=engfirst,anchor=south west] at (axis cs:12.2,88.2) {C2};
+\node[font=\tiny,color=engfirst,anchor=north east] at (axis cs:10.5,86.5) {C3};
+\node[font=\tiny,color=engfirst,anchor=south] at (axis cs:25.4,88.5) {C4};
+\node[font=\tiny,color=engfirst,anchor=north] at (axis cs:14.7,85.5) {C5};
+% Labels — Bilingual
+\node[font=\tiny,color=bilingual,anchor=south east] at (axis cs:5.8,91.8) {C1};
+\node[font=\tiny,color=bilingual,anchor=north east] at (axis cs:16.8,78.2) {C2};
+\node[font=\tiny,color=bilingual,anchor=south west] at (axis cs:19.0,81.3) {C3};
+\node[font=\tiny,color=bilingual,anchor=south] at (axis cs:29.1,76.5) {C4};
+\node[font=\tiny,color=bilingual,anchor=north west] at (axis cs:31.0,79.7) {C5};
+% Labels — Multilingual
+\node[font=\tiny,color=multilingual,anchor=west] at (axis cs:11.0,82.3) {C1};
+\node[font=\tiny,color=multilingual,anchor=west] at (axis cs:23.8,15.7) {C2};
+\node[font=\tiny,color=multilingual,anchor=north west] at (axis cs:15.2,4.7) {C4};
+\node[font=\tiny,color=multilingual,anchor=south west] at (axis cs:14.5,3.0) {C5};
+% Outlier annotation
+\draw[->,thick,color=multilingual,dashed] (axis cs:37,22) -- (axis cs:39.5,20.5);
+\node[font=\tiny,color=multilingual,anchor=east,align=right] at (axis cs:37,23) {C3: 192s, 20\%\\(off-scale)};
+\end{axis}
+\end{tikzpicture}
+\caption{Mean score vs.\ mean response time by model category and condition. The Multilingual C3 point (191.9s, 20.0\%) is off-scale and annotated.}
+\label{fig:scatter}
+\end{figure}

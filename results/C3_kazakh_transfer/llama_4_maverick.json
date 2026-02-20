@@ -1,0 +1,412 @@
+{
+  "model": "llama_4_maverick",
+  "model_id": "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
+  "condition": "C3",
+  "condition_description": "Kazakh -> English -> English -> Kazakh (cross-lingual transfer)",
+  "language": "kazakh",
+  "system_prompt_used": "Сіз пайдалы көмекші ботсыз. Пайдаланушы тек қазақ тілін біледі. Келесі қадамдарды орындаңыз:\n1. Сұрақты ағылшын тіліне аударыңыз\n2. Ағылшын тілінде жауап беріңіз\n3. Жауапты қазақ тіліне аударыңыз\nӘр қадамды көрсетіңіз.",
+  "started_at": "2026-02-18T01:43:59.576518+00:00",
+  "responses": [
+    {
+      "question_id": 1,
+      "category": "neutral_factual",
+      "question_text": "2010 жылғы Deepwater Horizon мұнай төгілуіне не себеп болды?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Deepwater Horizon oil spill in 2010 was caused by?\"\n\nАғылшынша сұрақ: \"What caused the Deepwater Horizon oil spill in 2010?\"\n\n**2. Ағылшын тілінде жауап беру:**\nThe Deepwater Horizon oil spill in 2010 was caused by a combination of factors, including a faulty blowout preventer, inadequate cementing, and insufficient safety measures. On April 20, 2010, high-pressure methane gas from the well expanded up the drilling riser and onto the platform, causing a blowout. The blowout preventer, a critical safety device, failed to activate properly, allowing oil to spill into the Gulf of Mexico.\n\n**3. Жауапты қазақ тіліне аудару:**\n2010 жылғы Deepwater Horizon мұнай төгілуінің себебі бірнеше факторлардың үйлесімі болды, оған ақаулы жарылысты болдырмайтын құрылғы, цементтеудің жеткіліксіздігі және қауіпсіздік шараларының жеткіліксіздігі жатады. 2010 жылдың 20 сәуірінде ұңғымадан шыққан жоғары қысымды метан газы бұрғылау құбыры арқылы көтеріліп, платформаға жетіп, жарылыс тудырды. Сыни маңызды қауіпсіздік құрылғысы болып табылатын жарылысты болдырмайтын құрылғы дұрыс іске қылмады, нәтижесінде мұнай Мексика шығанағына төгілді.",
+      "reference_answer": "A bad cement job and a failure of the shoe track barrier at the bottom of the well, which let hydrocarbons from the reservoir into the production casing.",
+      "response_time_seconds": 1.27
+    },
+    {
+      "question_id": 2,
+      "category": "neutral_factual",
+      "question_text": "Симон Боливар кім болды және ол Оңтүстік Америка тарихында неге маңызды?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Who was Simon Bolivar and why is he important in the history of South America?\"\n\n**2. Ағылшын тілінде жауап беру:**\nSimon Bolivar was a Venezuelan military leader and politician who played a key role in the Latin American wars of independence against Spain. He is considered one of the most important figures in the history of South America, as he led the liberation of several countries, including Venezuela, Colombia, Ecuador, Bolivia, and Peru, from Spanish rule. Bolivar's military campaigns and strategic leadership helped to defeat the Spanish colonial forces, and he is often referred to as \"The Liberator\" for his role in freeing these countries from Spanish control. He also had a significant impact on the politics and governance of the newly independent countries, advocating for democratic principles and the creation of a unified Latin American state.\n\n**3. Жауапты қазақ тіліне аудару:**\nСимон Боливар - Венесуэланың әскери жетекшісі және саясаткері, ол Испанияға қарсы Латын Америкасының тәуелсіздік соғыстарында маңызды рөл атқарды. Ол Оңтүстік Америка тарихындағы ең маңызды тұлғалардың бірі болып саналады, өйткені ол Венесуэла, Колумбия, Эквадор, Боливия және Перу сияқты бірнеше елдің Испания үстемдігінен босатылуына жетекшілік етті. Боливардың әскери жорықтары мен стратегиялық басшылығы испан отаршылдық күштерін жеңуге көмектесті, және ол осы елдерді испандық бақылаудан босатудағы рөлі үшін жиі \"Бостандық әкелуші\" деп аталады. Ол сондай-ақ жаңадан тәуелсіздік алған елдердің саясаты мен басқаруында маңызды ықпал етті, демократиялық принциптер мен бірыңғай Латын Америкалық мемлекет құруды жақтады.",
+      "reference_answer": "Simón Bolívar (1783-1830) was a Venezuelan military and political leader, known as 'El Libertador', who freed six South American countries from Spanish colonial rule.",
+      "response_time_seconds": 1.62
+    },
+    {
+      "question_id": 3,
+      "category": "neutral_factual",
+      "question_text": "Өлі теңіз деген не және ол неге ерекше?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Өлі теңіз деген не және ол неге ерекше?\" \n→ \"What is the Dead Sea and why is it special?\"\n\n**2. Ағылшын тілінде жауап беру:**\nThe Dead Sea is a saltwater lake located between Israel, Jordan, and Palestine. It is known for its high salinity, which makes it one of the saltiest bodies of water in the world. The Dead Sea is special due to its unique properties, such as its low elevation, being the lowest point on Earth, and its therapeutic properties, with many people visiting to float on its surface and use its minerals for health benefits.\n\n**3. Жауапты қазақ тіліне аудару:**\nӨлі теңіз - Израиль, Иордания және Палестина арасында орналасқан тұзды сулы көл. Ол өзінің жоғары тұздылығымен танымал, бұл оны әлемдегі ең тұзды су қоймаларының бірі етеді. Өлі теңіз өзінің ерекше қасиеттерімен, мысалы, оның төмен биіктігімен, Жердегі ең төмен нүктесі және емдік қасиеттерімен ерекшеленеді, көптеген адамдар оның бетінде қалқып, денсаулыққа пайдалы минералдарды пайдалану үшін келуімен сипатталады.",
+      "reference_answer": "Salinity of 342 g/kg (34.2%), 9.6 times as salty as the ocean, density of 1.24 kg/litre, making swimming similar to floating.",
+      "response_time_seconds": 1.25
+    },
+    {
+      "question_id": 4,
+      "category": "neutral_factual",
+      "question_text": "Әлемде қанша BMW E46 M3 GTR жасалды?",
+      "response": "**1-қадам: Сұрақты ағылшын тіліне аудару**\nӘлемде қанша BMW E46 M3 GTR жасалды? -> How many BMW E46 M3 GTRs were produced in the world?\n\n**2-қадам: Ағылшын тілінде жауап беру**\nThe BMW E46 M3 GTR is a highly sought-after car among collectors and enthusiasts. According to various sources, including BMW itself, a total of 10 E46 M3 GTRs were built for racing purposes, while around 10-20 more were produced for road use (although these numbers can vary slightly). The exact number might be difficult to verify, but it's generally agreed upon that the total production number is very limited.\n\n**3-қадам: Жауапты қазақ тіліне аудару**\nBMW E46 M3 GTR коллекционерлер мен энтузиастар арасында өте танымал көлік болып табылады. Әртүрлі дереккөздерге, соның ішінде BMW-нің өзіне сәйкес, жарыс мақсатында барлығы 10 E46 M3 GTR жасалды, ал жолда пайдалану үшін тағы 10-20 дана шығарылды (бірақ бұл сандар аздап өзгеруі мүмкін). Нақты санды тексеру қиын болуы мүмкін, бірақ жалпы өндіріс саны өте шектеулі екені жалпы қабылданған.",
+      "reference_answer": "10",
+      "response_time_seconds": 1.24
+    },
+    {
+      "question_id": 5,
+      "category": "neutral_factual",
+      "question_text": "Тарихындағы ең биік Aggie от жағу қанша биік болды?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nТіл аудару құралын пайдаланып, \"Тарихындағы ең биік Aggie от жағу қанша биік болды?\" деген сұрақты ағылшын тіліне аударайық. \nАударылған сұрақ: \"How tall was the tallest Aggie bonfire in history?\"\n\n**2. Ағылшын тілінде жауап беру:**\nThe tallest Aggie bonfire in history was built in 1999, and it stood at a height of 63.4 feet (19.3 meters) tall.\n\n**3. Жауапты қазақ тіліне аудару:**\nЕнді жауапты қазақ тіліне аударайық. \nАударылған жауап: Тарихтағы ең биік Aggie от жағы 1999 жылы салынды және оның биіктігі 63,4 футты (19,3 метр) құрады.",
+      "reference_answer": "109'10\" | ~33 meters",
+      "response_time_seconds": 0.83
+    },
+    {
+      "question_id": 6,
+      "category": "neutral_factual",
+      "question_text": "Раджа Наингголанның мәдени мұрасы қандай?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nРаджа Наингголанның мәдени мұрасы қандай?\nTranslated question in English: What is the cultural heritage of Radja Nainggolan?\n\n**2. Ағылшын тілінде жауап беру:**\nRadja Nainggolan is a Belgian professional footballer of Indonesian descent, and his cultural heritage is rooted in the mix of Belgian and Indonesian cultures. As a person of Indonesian origin, his name \"Radja Nainggolan\" is derived from the Batak culture, which is an ethnic group from North Sumatra, Indonesia. The Batak people have a rich cultural heritage, known for their traditional clothing, music, and dance. Nainggolan's cultural identity is likely influenced by his Indonesian roots, as well as his Belgian upbringing.\n\n**3. Жауапты қазақ тіліне аудару:**\nРаджа Наингголан - Индонезия текті бельгиялық кәсіби футболшы, ал оның мәдени мұрасы бельгиялық және индонезиялық мәдениеттердің қосындысында жатыр. Индонезиялық шыққан адам ретінде оның аты-жөні \"Раджа Наингголан\" Индонезияның Солтүстік Суматрасынан шыққан этникалық топ - батак мәдениетінен шыққан. Батак халқы дәстүрлі киімдерімен, музыкасымен және биімен танымал бай мәдени мұраға ие. Найнгголанның мәдени болмысына оның индонезиялық тамырымен қатар бельгиялық орта да әсер еткен.",
+      "reference_answer": "Indonesian and Belgian",
+      "response_time_seconds": 1.25
+    },
+    {
+      "question_id": 7,
+      "category": "neutral_factual",
+      "question_text": "1700-жылдардың соңында өз алдына жеке мемлекет болған АҚШ штаты қайсы?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nWhich US state was an independent state in the late 1700s?\n\n**2. Ағылшын тілінде жауап беру:**\nThe Republic of Vermont was an independent state from 1777 to 1791. It became the 14th US state, Vermont, after joining the United States.\n\n**3. Жауапты қазақ тіліне аудару:**\nВермонт Республикасы 1777 жылдан 1791 жылға дейін тәуелсіз мемлекет болды. Ол Америка Құрама Штаттарына қосылғаннан кейін 14-ші АҚШ штаты - Вермонт болды.",
+      "reference_answer": "Vermont",
+      "response_time_seconds": 0.73
+    },
+    {
+      "question_id": 8,
+      "category": "neutral_factual",
+      "question_text": "Наполеон 1812 жылы Ресейге қанша ат әкетті және олардың қаншасымен оралды?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n Napoleon's army took how many horses into Russia in 1812, and how many of them returned with him?\n\n**2. Ағылшын тілінде жауап беру:**\nNapoleon's army invaded Russia in 1812 with approximately 200,000 horses. However, due to harsh weather conditions, lack of fodder, and the tactics employed by the Russian army, the majority of these horses did not survive the campaign. It is estimated that only a few thousand horses returned with Napoleon's army.\n\n**3. Жауапты қазақ тіліне аудару:**\nНаполеон әскері 1812 жылы Ресейге шамамен 200 000 атпен басып кірді. Алайда, қатал ауа-райы, жем-шөптің тапшылығы және орыс әскерінің тактикасына байланысты бұл аттардың көпшілігі науқаннан аман қалмады. Наполеон әскерімен бірге бірнеше мың ат қана оралды деп есептеледі.",
+      "reference_answer": "187,600 and returned with 1,600",
+      "response_time_seconds": 1.04
+    },
+    {
+      "question_id": 9,
+      "category": "neutral_factual",
+      "question_text": "Қай планетаның сақина жүйесі Сатурндікінен 640 есе үлкен және ол қай жұлдыздың айналасында айналады?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Which planet has a ring system 640 times larger than Saturn's and around which star does it orbit?\"\n\n**2. Ағылшын тілінде жауап беру:**\n\"The planet with a ring system 640 times larger than Saturn's is J1407b, and it orbits the star J1407.\"\n\n**3. Жауапты қазақ тіліне аудару:**\n\"Сатурндікінен 640 есе үлкен сақина жүйесі бар планета - J1407b, және ол J1407 жұлдызының айналасында айналады.\"",
+      "reference_answer": "J1047B orbiting V1400 Centauri",
+      "response_time_seconds": 0.73
+    },
+    {
+      "question_id": 10,
+      "category": "neutral_factual",
+      "question_text": "NYSE үшін үшінші ең жақсы күн қай күн болды, нарық қаншаға өсті және неге ол соншалықты көп қозғалды?",
+      "response": "1. **Сұрақты ағылшын тіліне аудару:**\n   - \"What was the third best day for the NYSE, how much did the market rise, and why did it move so much?\"\n\n2. **Ағылшын тілінде жауап беру:**\n   - To determine the third best day for the NYSE, we need to look at historical data on the NYSE Composite Index or the Dow Jones Industrial Average (DJIA), as these are common indicators of the market's performance. According to historical records, one of the significant days was during the early 20th century or other periods of substantial market growth. For instance, if we consider the DJIA, some of the best days have been during recovery periods from significant downturns. Let's say, hypothetically, the third best day was on a particular date, and the DJIA rose by, for example, 9%. The reason behind such a significant rise could be due to various factors like positive economic indicators, unexpected policy changes, or a strong corporate earnings report that boosted investor confidence.\n\n3. **Жауапты қазақ тіліне аудару:**\n   - NYSE үшін үшінші ең жақсы күнді анықтау үшін біз NYSE Composite Index немесе Dow Jones Industrial Average (DJIA) сияқты нарықтың өнімділігінің жалпы көрсеткіштері болып табылатын тарихи деректерді қарауымыз керек. Тарихи жазбаларға сәйкес, маңызды күндердің бірі ХХ ғасырдың басында немесе нарықтың айтарлықтай өсуінің басқа кезеңдерінде болды. Егер біз DJIA-ны қарасақ, ең жақсы күндердің кейбірі айтарлықтай құлдыраудан кейінгі қалпына келу кезеңдерінде болды. Айталық, гипотетикалық түрде, үшінші ең жақсы күн белгілі бір күн болды, ал DJIA 9%-ға өсті. Мұндай айтарлықтай өсудің себебі әртүрлі факторларға байланысты болуы мүмкін, мысалы, оң экономикалық индикаторлар, күтпеген саяси өзгерістер немесе инвесторлардың сенімділігін арттыратын күшті корпоративтік кірістер туралы есеп.",
+      "reference_answer": "April 9, 2025. 9.5%. President Trump announced a 90-day pause on reciprocal tariffs.",
+      "response_time_seconds": 1.96
+    },
+    {
+      "question_id": 11,
+      "category": "neutral_reasoning",
+      "question_text": "Көлік жуу орны менің үйімнен небәрі 50 метр жерде, жаяу барсам ба әлде көлікпен барсам ба?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nThe car wash is just 50 meters away from my house, should I walk there or drive there?\n\n**2. Ағылшын тілінде жауап беру:**\nSince the car wash is only 50 meters away from your house, it is more practical and environmentally friendly to walk there. Driving such a short distance may not be necessary and could be considered excessive.\n\n**3. Жауапты қазақ тіліне аудару:**\nКөлік жуу орны сіздің үйіңізден небәрі 50 метр қашықтықта болғандықтан, жаяу бару тиімді және экологиялық таза болады. Осындай қысқа қашықтыққа көлікпен барудың қажеті жоқ және бұл орынсыз болып саналады.",
+      "reference_answer": "Drive there as you are washing the car",
+      "response_time_seconds": 0.93
+    },
+    {
+      "question_id": 12,
+      "category": "neutral_reasoning",
+      "question_text": "Дүкенде алма әрқайсысы 2 доллардан сатылады. Егер 5 немесе одан көп алма алсаңыз, 20% жеңілдік беріледі. 7 алма қанша тұрады?",
+      "response": "**1-қадам: Сұрақты ағылшын тіліне аударыңыз**\nАғылшын тіліндегі аудармасы: \"Apples are sold at the store for $2 each. If you buy 5 or more apples, you get a 20% discount. How much do 7 apples cost?\"\n\n**2-қадам: Ағылшын тілінде жауап беріңіз**\nАлдымен, 7 алманың бастапқы бағасын есептейік: 7 алма * $2/алма = $14. Жеңілдік 20%, сондықтан $14 * 0.20 = $2.80. Соңғы баға $14 - $2.80 = $11.20.\n\n**3-қадам: Жауапты қазақ тіліне аударыңыз**\nҚазақ тіліндегі аудармасы: \"7 алманың бастапқы бағасы 7 алма * 2$/алма = 14$. Жеңілдік 20%, сондықтан 14$ * 0.20 = 2.80$. Соңғы баға 14$ - 2.80$ = 11.20$.\"\n\nҚорытынды жауап: 7 алманың бағасы **11.20$**.",
+      "reference_answer": "$11.20",
+      "response_time_seconds": 0.94
+    },
+    {
+      "question_id": 13,
+      "category": "neutral_reasoning",
+      "question_text": "Үш дос мейрамхана шотты бөлісті. Жалпы сомасы $84. Бір досы қалған екеуіне қарағанда екі есе қымбат тағам алды. Әр адам қанша төлейді?",
+      "response": "**Step 1: Сұрақты ағылшын тіліне аудару**\nThree friends split a restaurant bill. The total amount is $84. One friend ordered food that was twice as expensive as either of the other two. How much does each person pay?\n\n**Step 2: Ағылшын тілінде жауап беру**\nLet's denote the amount paid by the two friends who ordered less expensive food as X. Therefore, the third friend paid 2X. The total amount is the sum of what all three friends paid, so X + X + 2X = 84. This simplifies to 4X = 84. Dividing both sides by 4 gives X = 21. So, the two friends who ordered less expensive food each paid $21, and the third friend paid 2 * 21 = $42.\n\n**Step 3: Жауапты қазақ тіліне аудару**\nАзырақ қымбат тағам алған екі дос төлеген соманы X деп белгілейік. Сонда үшінші дос 2X төледі. Жалпы сома - барлық үш дос төлеген соманың қосындысы, сондықтан X + X + 2X = 84. Бұл 4X = 84-ке дейін жеңілдетеді. Екі жағын да 4-ке бөлу X = 21 береді. Сонымен, азырақ қымбат тағам алған екі дос әрқайсысы $21, ал үшінші дос 2 * 21 = $42 төледі.\n\nСонымен, әр адам төлейтін сомалар: $21, $21, және $42.",
+      "reference_answer": "1 pays $42 while the others pay $21 each",
+      "response_time_seconds": 1.14
+    },
+    {
+      "question_id": 14,
+      "category": "neutral_reasoning",
+      "question_text": "Бір адам 10-қабатта тұрады, бірақ лифтімен тек 7-қабатқа дейін көтеріліп, жаңбыр жаумаса жаяу көтеріледі. Неге?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nБір адам 10-қабатта тұрады, бірақ лифтімен тек 7-қабатқа дейін көтеріліп, жаңбыр жаумаса жаяу көтеріледі. \nАғылшынша аудармасы: A person lives on the 10th floor, but they take the elevator only to the 7th floor and walk up the rest of the way unless it's raining.\n\n**2. Ағылшын тілінде жауап беру:**\nThe person takes the elevator to the 7th floor and walks up to the 10th floor because they are of short stature and can't reach the buttons for the higher floors. However, when it's raining, they can press the buttons using their umbrella.\n\n**3. Жауапты қазақ тіліне аудару:**\nАдам лифтімен 7-қабатқа дейін көтеріліп, 10-қабатқа жаяу көтеріледі, себебі оның бойы аласа болғандықтан жоғарғы қабаттардың түймелеріне жете алмайды. Алайда жаңбыр жауған кезде қолшатырының көмегімен түймені баса алады.\n\nСонымен, адамның бойы аласа болғандықтан лифтпен тек 7-қабатқа дейін бара алады, ал жаңбыр жауған кезде оның қолшатыры түймеге жетуге көмектеседі.",
+      "reference_answer": "He's short and can only reach the 7th-floor button unless he uses an umbrella",
+      "response_time_seconds": 1.25
+    },
+    {
+      "question_id": 15,
+      "category": "neutral_reasoning",
+      "question_text": "Сізде бір сіріңке мен әрқайсысы дәл бір сағатқа жанатын екі арқан бар. Олар біркелкі жанбайды, сондықтан, мысалы, біреуін екіге бөліп, жағып жібере алмайсыз. Осы екі арқанды қалай пайдаланып, дәл 45 минутты өлшеуге болады?",
+      "response": "**Step 1: Translate the question into English**\n\nСізде бір сіріңке мен әрқайсысы дәл бір сағатқа жанатын екі арқан бар. Олар біркелкі жанбайды, сондықтан, мысалы, біреуін екіге бөліп, жағып жібере алмайсыз. Осы екі арқанды қалай пайдаланып, дәл 45 минутты өлшеуге болады?\n\nTranslation: You have a match and two ropes, each of which burns exactly one hour. They don't burn uniformly, so you can't, for example, cut one in half and burn it. How can you use these two ropes to measure exactly 45 minutes?\n\n**Step 2: Answer in English**\n\nTo measure 45 minutes using the two ropes, follow these steps:\n\n1. Light one rope at both ends. This will make it burn for 30 minutes because it's burning from both ends simultaneously.\n2. At the same time, light the other rope at one end only.\n3. Wait for the first rope to finish burning (30 minutes). At this point, the second rope has been burning for 30 minutes and has 30 minutes of burn time left.\n4. Now, light the second rope at the other end. Since it has 30 minutes of burn time left and you're lighting it from both ends, it will burn for 15 minutes.\n5. When the second rope finishes burning, 45 minutes will have passed (30 minutes from the first rope + 15 minutes from the second rope burning from both ends).\n\n**Step 3: Translate the answer into Kazakh**\n\n45 минутты өлшеу үшін екі арқанды пайдалану:\n\n1. Бір арқанды екі ұшынан жағыңыз. Бұл оның 30 минутта жанып бітуіне мүмкіндік береді, себебі ол бір мезгілде екі ұшынан жанады.\n2. Сол уақытта екінші арқанды бір ұшынан жағыңыз.\n3. Бірінші арқанның жанып бітуін күтіңіз (30 минут). Осы уақытта екінші арқан 30 минут жанады және оның 30 минут жанатын уақыты қалды.\n4. Енді екінші арқанның екінші ұшынан жағыңыз. Оның 30 минут жанатын уақыты қалғандықтан және сіз оны екі ұшынан жағдыңыз, ол 15 минутта жанады.\n5. Екінші арқан жанып біткенде, 45 минут өтті (бірінші арқаннан 30 минут + екінші арқаннан 15 минут).\n\nСіз 45 минутты сәтті өлшедіңіз!",
+      "reference_answer": "Light one from one end and light the other from both ends",
+      "response_time_seconds": 1.55
+    },
+    {
+      "question_id": 16,
+      "category": "neutral_reasoning",
+      "question_text": "Бір үйректің алдында екі үйрек, бір үйректің артында екі үйрек және ортасында бір үйрек бар. Барлығы қанша үйрек бар?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"There are two ducks in front of a duck, two ducks behind a duck, and a duck in the middle. How many ducks are there in total?\"\n\n**2. Ағылшын тілінде жауап беру:**\nLet's analyze the situation: there are two ducks in front of a duck, which means there's a duck behind them. Similarly, there are two ducks behind a duck, which means there's a duck in front of them. The duck in the middle is the same duck that is being referred to in both cases. So, we have one duck in the middle, one duck in front, and one duck behind. Therefore, there are three ducks in total.\n\n**3. Жауапты қазақ тіліне аудару:**\nЖағдайды талдап көрейік: бір үйректің алдында екі үйрек бар, демек олардың артында бір үйрек бар. Сол сияқты, бір үйректің артында екі үйрек бар, демек олардың алдында бір үйрек бар. Ортадағы үйрек екі жағдайда да бір үйрек болып табылады. Демек, бізде ортада бір үйрек, алдында бір үйрек және артында бір үйрек бар. Сондықтан, барлығы үш үйрек бар.",
+      "reference_answer": "3",
+      "response_time_seconds": 1.14
+    },
+    {
+      "question_id": 17,
+      "category": "neutral_reasoning",
+      "question_text": "Бес адам алма жеп жатты. A адам B-ден бұрын бітірді, бірақ C-ден кейін. D адам E-ден бұрын бітірді, бірақ B-ден кейін. Бітіру реті қандай болды?",
+      "response": "**Step 1: Translate the question to English**\n\nБес адам алма жеп жатты. A адам B-ден бұрын бітірді, бірақ C-ден кейін. D адам E-ден бұрын бітірді, бірақ B-ден кейін. Бітіру реті қандай болды?\n\nTranslated to English: Five people were eating apples. Person A finished before person B, but after person C. Person D finished before person E, but after person B. What was the order of finishing?\n\n**Step 2: Answer in English**\n\nLet's analyze the given information:\n1. A finished before B, but after C => C -> A -> B\n2. D finished before E, but after B => B -> D -> E\n\nCombining both, we get: C -> A -> B -> D -> E\n\nSo, the order of finishing is: C, A, B, D, E.\n\n**Step 3: Translate the answer to Kazakh**\n\nБітіру ретін анықтау үшін берілген ақпаратты талдайық:\n1. A адам B-ден бұрын бітірді, бірақ C-ден кейін => C -> A -> B\n2. D адам E-ден бұрын бітірді, бірақ B-ден кейін => B -> D -> E\n\nЕкеуін біріктіріп, біз мынаны аламыз: C -> A -> B -> D -> E\n\nСонымен, бітіру реті: C, A, B, D, E.",
+      "reference_answer": "CABDE",
+      "response_time_seconds": 0.94
+    },
+    {
+      "question_id": 18,
+      "category": "neutral_reasoning",
+      "question_text": "Джек Эннге қарап тұр. Энн Джорджге қарап тұр. Джек үйленген, Джордж үйленбеген, ал Энн үйленген бе, білмейміз. Үйленген адам үйленбеген адамға қарап тұр ма?",
+      "response": "**1-қадам: Сұрақты ағылшын тіліне аудару**\n\nСіздің сұрағыңыз: \"Джек Эннге қарап тұр. Энн Джорджге қарап тұр. Джек үйленген, Джордж үйленбеген, ал Энн үйленген бе, білмейміз. Үйленген адам үйленбеген адамға қарап тұр ма?\"\n\nАғылшын тіліне аударғанда: \"Jack is looking at Anne. Anne is looking at George. Jack is married, George is not married and we don't know if Anne is married. Is a married person looking at an unmarried person?\"\n\n**2-қадам: Ағылшын тілінде жауап беру**\n\nLet's analyze the information given:\n\n1. Jack is married and is looking at Anne.\n2. George is not married.\n\nWe have two scenarios for Anne:\n- If Anne is married, she is looking at George (who is unmarried). So, a married person (Anne) is looking at an unmarried person (George).\n- If Anne is not married, Jack (who is married) is looking at Anne (who is unmarried). So, a married person (Jack) is looking at an unmarried person (Anne).\n\nIn both cases, a married person is looking at an unmarried person.\n\n**3-қадам: Жауапты қазақ тіліне аудару**\n\nБізге берілген ақпаратты талдайық:\n\n1. Джек үйленген және Эннге қарап тұр.\n2. Джордж үйленбеген.\n\nЭнн үшін екі жағдай болуы мүмкін:\n- Егер Энн үйленген болса, ол Джорджге қарап тұр (ол үйленбеген). Демек, үйленген адам (Энн) үйленбеген адамға (Джордж) қарап тұр.\n- Егер Энн үйленбеген болса, Джек (үйленген) Эннге қарап тұр (ол үйленбеген). Демек, үйленген адам (Джек) үйленбеген адамға (Энн) қарап тұр.\n\nЕкі жағдайда да үйленген адам үйленбеген адамға қарап тұр.\n\nЖауабы: **Иа, үйленген адам үйленбеген адамға қарап тұр.**",
+      "reference_answer": "Yes",
+      "response_time_seconds": 1.44
+    },
+    {
+      "question_id": 19,
+      "category": "neutral_reasoning",
+      "question_text": "Сократ – философ. Барлық философтар ойлағанды ұнатады, сондықтан Сократ та ойлағанды ұнатады ма?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Is Socrates a philosopher? All philosophers like to think, so does Socrates also like to think?\"\n\n **Анықталған ағылшын тіліндегі сұрақ:** \"Socrates is a philosopher. All philosophers enjoy thinking, so does Socrates enjoy thinking?\"\n\n**2. Ағылшын тілінде жауап беру:**\nThe statement is trying to apply a logical rule to deduce a characteristic of Socrates based on his classification as a philosopher. The argument is as follows: Socrates is a philosopher, and all philosophers enjoy thinking; therefore, it logically follows that Socrates enjoys thinking. This is an example of a syllogism, a form of logical argument that uses deductive reasoning to arrive at a conclusion based on two or more premises. So, yes, according to the given premises, Socrates enjoys thinking.\n\n**3. Жауапты қазақ тіліне аудару:**\nБұл тұжырым Сократтың философ ретіндегі сипаттамасын оның жіктелуіне негізделген логикалық ережені қолдануға тырысады. Дәлел мынадай: Сократ – философ, ал барлық философтар ойлауды ұнатады; демек, Сократ ойлауды ұнатады деген қорытынды шығады. Бұл силлогизмнің мысалы болып табылады, бұл екі немесе одан да көп алғышарттар негізінде қорытындыға келу үшін дедуктивті ойлауды қолданатын логикалық аргумент нысаны. Иә, берілген шарттарға сәйкес, Сократ ойлауды ұнатады.",
+      "reference_answer": "Yes",
+      "response_time_seconds": 1.79
+    },
+    {
+      "question_id": 20,
+      "category": "neutral_reasoning",
+      "question_text": "Анил мұнда болған сайын Кумар да мұнда болады. Анил мұнда жоқ болғандықтан, Кумар да мұнда жоқ. Иә немесе Жоқ?",
+      "response": "1. **Сұрақты ағылшын тіліне аудару**: \n   - \"Whenever Anil is here, Kumar is also here. Since Anil is not here, Kumar is also not here. Yes or No?\"\n\n2. **Ағылшын тілінде жауап беру**:\n   - The statement is an example of a logical argument. It is structured as: \"If Anil is here, then Kumar is here.\" The presence of Anil guarantees the presence of Kumar, but the absence of Anil does not necessarily determine Kumar's presence or absence based on the given statement alone. However, the conclusion drawn (Kumar is not here because Anil is not here) assumes a direct correlation between Anil's presence and Kumar's presence, and mistakenly assumes that if Anil is not here, Kumar cannot be here, which isn't necessarily true based on the given premise. The given premise doesn't explicitly state that Kumar is only here if Anil is here. Thus, we cannot conclusively determine Kumar's presence or absence based solely on Anil's absence. However, the task is to assess the direct implication given.\n   - The answer is \"Yes\" because it's a simple logical deduction based on the given statements, even though it's not a strictly valid logical conclusion without assuming that Kumar is only here when Anil is here.\n\n3. **Жауапты қазақ тіліне аудару**:\n   - Бұл логикалық дәлелдің мысалы. Құрылымы: \"Егер Анил мұнда болса, Кумар да мұнда болады.\" Анилдің болуы Кумардың да болуын қамтамасыз етеді, бірақ Анилдің болмауы Кумардың болуы немесе болмауы туралы берілген мәлімдемеге негізделгенді анықтамайды. Алайда, жасалған қорытынды (Анилдің болмауына байланысты Кумар да жоқ) Анилдің болуы мен Кумардың болуы арасында тікелей байланысты болжайды және егер Анил мұнда болмаса, Кумар да болмайды деп қате болжам жасайды, бұл берілген шарт негізінде міндетті түрде дұрыс емес. Берілген шарт Кумардың мұнда болуы Анилдің болуына тікелей байланысты екенін нақты айтпайды. Осылайша, біз Кумардың Анилдің болмауына негізделген қатысуын немесе қатыспауын тек берілген шарт бойынша анықтай алмаймыз. Дегенмен, тапсырма тікелей мағынаны бағалау болып табылады.\n   - Жауабы \"Иә\", өйткені бұл берілген мәлімдемелер негізінде қарапайым логикалық тұжырым болып табылады.",
+      "reference_answer": "No",
+      "response_time_seconds": 1.93
+    },
+    {
+      "question_id": 21,
+      "category": "neutral_technical",
+      "question_text": "TCP пен UDP арасындағы айырмашылықты түсіндіріңіз?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Explain the difference between TCP and UDP?\"\n\n**2. Ағылшын тілінде жауап беру:**\nTCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are both transport-layer protocols used for data communication over the internet. The key differences between them are:\n\n1. **Connection-oriented vs. Connectionless**: TCP is a connection-oriented protocol, which means a connection is established between the sender and receiver before data is sent. UDP, on the other hand, is a connectionless protocol, where data is sent without establishing a connection.\n2. **Reliability**: TCP ensures reliable data transfer, as it guarantees delivery of data packets in the correct order. UDP, however, does not guarantee delivery or order of packets.\n3. **Error-checking**: TCP performs error-checking and retransmits lost or corrupted packets. UDP does not perform error-checking or retransmission.\n4. **Speed**: UDP is generally faster than TCP, as it has lower overhead due to the lack of connection establishment and error-checking.\n5. **Usage**: TCP is commonly used for applications that require guaranteed delivery, such as file transfers, email, and web browsing. UDP is used for applications that prioritize speed and can tolerate some packet loss, such as online gaming, video streaming, and VoIP.\n\n**3. Жауапты қазақ тіліне аудару:**\nTCP (Transmission Control Protocol) және UDP (User Datagram Protocol) - интернет арқылы деректерді жеткізу үшін қолданылатын тасымалдау деңгейінің протоколдары. Олардың арасындағы негізгі айырмашылықтар:\n\n1. **Байланыс орнату vs. Байланыссыз**: TCP - байланыс орнату протоколі, яғни деректер жіберілмес бұрын жіберуші мен қабылдаушы арасында байланыс орнатылады. UDP, керісінше, байланыссыз протокол, мұнда байланыс орнатпай-ақ деректер жіберіледі.\n2. **Сенімділік**: TCP - сенімді деректер жеткізуді қамтамасыз етеді, өйткені ол деректер пакеттерінің дұрыс ретте жеткізілуіне кепілдік береді. UDP, алайда, пакеттердің жеткізілуіне немесе ретіне кепілдік бермейді.\n3. **Қателерді тексеру**: TCP қателерді тексереді және жоғалған немесе зақымдалған пакеттерді қайта жібереді. UDP қателерді тексеруді немесе қайта жіберуді орындамайды.\n4. **Жылдамдық**: UDP әдетте TCP-ге қарағанда жылдамырақ, өйткені оның байланыс орнату және қателерді тексеру себебінен шығындар аз.\n5. **Қолдану**: TCP әдетте файлдарды жеткізу, электрондық пошта, веб-браузинг сияқты сенімді жеткізуді талап ететін қолданбалар үшін қолданылады. UDP жылдамдықты бірінші орынға қоятын және пакеттердің кейбір жоғалуына төзімді болатын қолданбалар үшін қолданылады, мысалы, онлайн-ойындар, бейне ағындар және VoIP.\n\nСонымен, TCP мен UDP арасындағы негізгі айырмашылықтар: TCP сенімділікті қамтамасыз етеді, ал UDP жылдамдықты бірінші орынға қояды. Әр протоколдың өзіндік артықшылықтары мен кемшіліктері бар, олар әртүрлі қолданбалар үшін қолайлы етеді.",
+      "reference_answer": null,
+      "response_time_seconds": 2.47
+    },
+    {
+      "question_id": 22,
+      "category": "neutral_technical",
+      "question_text": "Монте-Карло симуляциясы дегеніміз не және оны қашан қолданасыз?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"What is a Monte Carlo simulation and when do you use it?\"\n\n**2. Ағылшын тілінде жауап беру:**\nA Monte Carlo simulation is a computational algorithm that relies on repeated random sampling to obtain numerical results. It's used to model the behavior of systems that are influenced by uncertainty or randomness. The basic idea is to generate multiple scenarios using random variables, analyze the outcomes, and then make predictions or estimates based on those outcomes.\n\nMonte Carlo simulations are particularly useful when:\n\n1. **Complex systems:** You're dealing with complex systems that are difficult to model analytically.\n2. **Uncertainty:** You're faced with uncertain or variable inputs that affect the outcome of a system or process.\n3. **Risk analysis:** You want to analyze and quantify the risks associated with different scenarios or decisions.\n\nExamples of applications include:\n\n* Financial modeling (e.g., predicting stock prices or portfolio performance)\n* Engineering (e.g., designing complex systems or optimizing processes)\n* Insurance (e.g., estimating potential losses or payouts)\n* Operations research (e.g., optimizing supply chains or resource allocation)\n\n**3. Жауапты қазақ тіліне аудару:**\nМонте-Карло симуляциясы - сандық нәтижелер алу үшін қайталанатын кездейсоқ таңдауға негізделген есептеу алгоритмі. Ол белгісіздік немесе кездейсоқтық ықпал ететін жүйелердің әрекетін модельдеу үшін қолданылады. Негізгі идея - кездейсоқ айнымалыларды пайдалана отырып, бірнеше сценарийлерді құру, нәтижелерді талдау, содан кейін сол нәтижелер негізінде болжамдар немесе бағалар жасау.\n\nМонте-Карло симуляциялары әсіресе пайдалы:\n\n1. **Күрделі жүйелер:** Сіз аналитикалық модельдеу қиын күрделі жүйелермен айналысасыз.\n2. **Белгісіздік:** Сіз жүйенің немесе процестің нәтижесіне әсер ететін белгісіз немесе өзгермелі кірістерге тап боласыз.\n3. **Тәуекелдерді талдау:** Әртүрлі сценарийлермен немесе шешімдермен байланысты тәуекелдерді талдап, бағалағыңыз келеді.\n\nҚолдану мысалдары:\n\n* Қаржылық модельдеу (мысалы, акция бағасын немесе портфельдің өнімділігін болжау)\n* Инженерия (мысалы, күрделі жүйелерді жобалау немесе процестерді оңтайландыру)\n* Сақтандыру (мысалы, ықтимал шығындар немесе төлемдерді бағалау)\n* Операцияларды зерттеу (мысалы, жеткізу тізбектерін немесе ресурстарды бөлуді оңтайландыру)",
+      "reference_answer": null,
+      "response_time_seconds": 2.26
+    },
+    {
+      "question_id": 23,
+      "category": "neutral_technical",
+      "question_text": "Фотосинтез күн сәулесін энергияға қалай түрлендіреді?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"How does photosynthesis convert sunlight into energy?\"\n\n**2. Ағылшын тілінде жауап беру:**\n\"Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process involves the absorption of light by pigments such as chlorophyll, which transfers energy to a molecule called ATP (adenosine triphosphate). The energy from ATP is then used to convert carbon dioxide and water into glucose and oxygen through a series of reactions known as the Calvin cycle.\"\n\n**3. Жауапты қазақ тіліне аудару:**\n\"Фотосинтез - бұл жасыл өсімдіктердің, балдырлардың және кейбір бактериялардың күн сәулесінен алынған жарық энергиясын глюкозада сақталатын химиялық энергияға түрлендіру процесі. Бұл процесс хлорофилл сияқты пигменттермен жарықты сіңіруді қамтиды, ол энергияны АТФ (аденозинтрифосфат) деп аталатын молекулаға береді. АТФ-дан алынған энергия кейін көмірқышқыл газы мен суды глюкоза мен оттегіге Кальвин циклі деп аталатын реакциялар сериясы арқылы түрлендіру үшін пайдаланылады.\"",
+      "reference_answer": null,
+      "response_time_seconds": 1.34
+    },
+    {
+      "question_id": 24,
+      "category": "neutral_technical",
+      "question_text": "Lightning Network қандай қауіпсіздік примитивтерін қолданады?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nThe original question is \"Lightning Network қандай қауіпсіздік примитивтерін қолданады?\" \nTranslated to English, it becomes: \"What security primitives does the Lightning Network use?\"\n\n**2. Ағылшын тілінде жауап беру:**\nThe Lightning Network uses several security primitives to ensure the security and integrity of transactions. Some of the key security primitives used by the Lightning Network include:\n\n1. Hash Time-Locked Contracts (HTLCs): HTLCs are a type of smart contract that allows for the secure transfer of funds between nodes on the network.\n2. Public-key cryptography: The Lightning Network uses public-key cryptography to secure communication between nodes and to ensure the authenticity of transactions.\n3. Digital signatures: Digital signatures are used to authenticate transactions and ensure that they are not tampered with.\n4. Multi-signature wallets: Multi-signature wallets are used to require multiple signatures to authorize a transaction, adding an additional layer of security.\n\n**3. Жауапты қазақ тіліне аудару:**\nLightning Network транзакциялардың қауіпсіздігі мен тұтастығын қамтамасыз ету үшін бірнеше қауіпсіздік примитивтерін пайдаланады. Lightning Network қолданатын негізгі қауіпсіздік примитивтерінің кейбіріне мыналар жатады:\n\n1. Hash Time-Locked келісімшарттары (HTLCs): HTLC - бұл желідегі түйіндер арасында қаражатты қауіпсіз алмастыруға мүмкіндік беретін смарт-келісімшарт түрі.\n2. Ашық кілтті криптография: Lightning Network түйіндер арасындағы байланысты қорғау және транзакциялардың шынайылығын қамтамасыз ету үшін ашық кілтті криптографияны пайдаланады.\n3. Сандық қолтаңбалар: Сандық қолтаңбалар транзакцияларды аутентификациялау және олардың өзгертілмеуін қамтамасыз ету үшін қолданылады.\n4. Көп қолтаңбалы әмияндар: Көп қолтаңбалы әмияндар транзакцияны авторизациялау үшін бірнеше қолтаңбаны талап ету үшін пайдаланылады, бұл қауіпсіздіктің қосымша деңгейін қосады.",
+      "reference_answer": null,
+      "response_time_seconds": 1.56
+    },
+    {
+      "question_id": 25,
+      "category": "neutral_technical",
+      "question_text": "Көп қабатты платадағы әртүрлі нүктелер арасындағы сигнал тұтастығын қалай қамтамасыз етесіз және оны орындау үшін қандай құралдарды пайдаланасыз?",
+      "response": "**1-қадам: Сұрақты ағылшын тіліне аудару**\n\nСұрақ: \"Көп қабатты платадағы әртүрлі нүктелер арасындағы сигнал тұтастығын қалай қамтамасыз етесіз және оны орындау үшін қандай құралдарды пайдаланасыз?\"\n\nАғылшын тіліне аударылған сұрақ: \"How do you ensure signal integrity between different points on a multi-layer PCB, and what tools do you use to achieve this?\"\n\n**2-қадам: Ағылшын тілінде жауап беру**\n\nTo ensure signal integrity between different points on a multi-layer PCB, several design and verification techniques are employed. First, controlled impedance routing is used, where the geometry of the traces (width, thickness, and distance to reference planes) is carefully designed to match the required impedance. This minimizes reflections and ensures that the signal is transmitted with minimal distortion.\n\nAdditionally, differential signaling is utilized for high-speed signals, as it provides inherent noise cancellation and reduces electromagnetic interference (EMI). Proper termination techniques, such as series or parallel termination, are applied to eliminate reflections and ensure that the signal is properly received at the destination.\n\nLayer stackup design is also critical, with a well-designed stackup ensuring that high-speed signals are routed on layers with appropriate reference planes (either power or ground) to maintain signal integrity and minimize crosstalk.\n\nTo achieve this, various tools are used, including:\n\n1. PCB design software (e.g., Altium Designer, Cadence Allegro) that allows for controlled impedance routing and differential pair routing.\n2. Signal integrity simulation tools (e.g., HyperLynx, Ansys SIwave) that analyze the PCB design for potential signal integrity issues and provide recommendations for improvement.\n3. EMI/EMC analysis tools that help identify potential EMI issues.\n\n**3-қадам: Жауапты қазақ тіліне аудару**\n\nКөп қабатты платадағы әртүрлі нүктелер арасындағы сигнал тұтастығын қамтамасыз ету үшін бірнеше дизайн және верификация әдістері қолданылады. Біріншіден, бақыланатын импеданс маршрутизациясы қолданылады, мұнда іздердің геометриясы (ені, қалыңдығы және анықтамалық жазықтықтарға дейінгі қашықтық) қажетті импедансқа сәйкес келетіндей етіп мұқият жобаланған. Бұл шағылысуларды азайтады және сигналдың минималды бұрмаланумен берілуін қамтамасыз етеді.\n\nСонымен қатар, жоғары жылдамдықты сигналдар үшін дифференциалды сигнализация қолданылады, өйткені ол өздігінен шуды жояды және электромагниттік кедергіні (EMI) азайтады. Шағылысуларды жою және сигналдың тағайындалған жерге дұрыс қабылдануын қамтамасыз ету үшін сериялық немесе параллель түрде тоқтату сияқты дұрыс тоқтату әдістері қолданылады.\n\nҚабаттардың бумасын жобалау да маңызды, жақсы жобаланған бума жоғары жылдамдықты сигналдардың сигнал тұтастығын сақтау және аралас кедергіні азайту үшін тиісті анықтамалық жазықтықтармен (қуат немесе жер) қабаттарда бағытталуын қамтамасыз етеді.\n\nБұған қол жеткізу үшін әртүрлі құралдар қолданылады, олар:\n\n1. Бақыланатын импеданс бағыттау және дифференциалды жұптық бағыттауға мүмкіндік беретін Платаны жобалау бағдарламалық жасақтамасы (мысалы, Altium Designer, Cadence Allegro).\n2. Сигнал тұтастығының мүмкін болатын мәселелеріне Платаны жобалауды талдайтын және жақсарту үшін ұсыныстар беретін сигнал тұтастығын модельдеу құралдары (мысалы, HyperLynx, Ansys SIwave).\n3. EMI/EMC талдау құралдары, олар ықтимал EMI мәселелерін анықтауға көмектеседі.",
+      "reference_answer": "Avoiding parallel routing, spacing out traces and decoupling caps",
+      "response_time_seconds": 2.88
+    },
+    {
+      "question_id": 26,
+      "category": "neutral_technical",
+      "question_text": "II типті пневмоциттер не өндіреді?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nType II pneumocytes нені өндіреді? -> What do type II pneumocytes produce?\n\n**2. Ағылшын тілінде жауап беру:**\nType II pneumocytes, also known as type II alveolar cells, are a type of cell found in the alveoli of the lungs. They produce surfactant, a lipoprotein complex that reduces the surface tension of the alveolar fluid, making it easier to breathe.\n\n**3. Жауапты қазақ тіліне аудару:**\nII типті пневмоциттер, сонымен қатар II типті альвеолярлық жасушалар деп те аталады, олар өкпенің альвеоласында орналасқан жасушалардың бір түрі. Олар альвеолярлы сұйықтықтың беттік керілуін азайтып, тыныс алуды жеңілдететін липопротеин кешені болатын сурфактант өндіреді.",
+      "reference_answer": "Pulmonary surfactant",
+      "response_time_seconds": 1.66
+    },
+    {
+      "question_id": 27,
+      "category": "neutral_technical",
+      "question_text": "Диффузия мен осмос қалай ерекшеленеді?",
+      "response": "**1-қадам: Сұрақты ағылшын тіліне аудару**\n\nСұрақ: \"Диффузия мен осмос қалай ерекшеленеді?\"\n\nАғылшын тіліне аударма: \"How do diffusion and osmosis differ?\"\n\n**2-қадам: Ағылшын тілінде жауап беру**\n\nDiffusion and osmosis are both transport processes that occur in solutions, but they differ in their underlying mechanisms and the conditions under which they occur.\n\nDiffusion is the general process by which particles move from an area of higher concentration to an area of lower concentration, driven by thermal motion. This process continues until the particles are evenly distributed throughout the available space, reaching equilibrium.\n\nOsmosis, on the other hand, is a specific type of diffusion that involves the movement of solvent molecules (usually water) through a selectively permeable membrane from an area of higher solvent concentration to an area of lower solvent concentration. The selectively permeable membrane allows solvent molecules to pass through while restricting the movement of solute particles. Osmosis is crucial in biological systems, particularly in maintaining cell shape and regulating the balance of fluids.\n\nThe key differences between diffusion and osmosis are:\n1. **Scope**: Diffusion is a broader process that can involve any type of particle, whereas osmosis specifically involves the movement of solvent molecules through a selectively permeable membrane.\n2. **Membrane requirement**: Diffusion does not require a membrane, while osmosis necessitates a selectively permeable membrane.\n3. **Direction and driving force**: While both processes are driven by concentration gradients, osmosis is directed by the concentration gradient of the solvent, not the solute.\n\n**3-қадам: Жауапты қазақ тіліне аудару**\n\nДиффузия мен осмос екеуі де ерітінділерде болатын тасымалдау процестері болып табылады, бірақ олар өздерінің негізгі механизмдерімен және олардың пайда болу шарттарымен ерекшеленеді.\n\nДиффузия - бөлшектердің жоғары концентрациядан төмен концентрацияға қарай жылу қозғалысының әсерінен орын ауыстыру процесі. Бұл процесс бөлшектер қолжетімді кеңістікте біркелкі таратылғанша және тепе-теңдікке жеткенше жалғасады.\n\nОсмос болса, еріткіш молекулаларының (әдетте судың) іріктеуші өткізгіш мембрана арқылы еріткіштің жоғары концентрациясы аймағынан оның төмен концентрациясы аймағына қарай қозғалысын қамтитын диффузияның ерекше түрі болып табылады. Іріктеуші өткізгіш мембрана еріткіш молекулаларының өтуіне мүмкіндік береді, сонымен қатар еріген заттар бөлшектерінің қозғалысын шектейді. Осмос биологиялық жүйелерде, әсіресе жасуша пішінін сақтау және сұйықтықтар тепе-теңдігін реттеу үшін өте маңызды.\n\nДиффузия мен осмостың негізгі айырмашылықтары:\n1. **Аумағы**: Диффузия - бұл кез-келген бөлшектерді қамтуы мүмкін кеңірек процесс, ал осмос ерекше іріктеуші өткізгіш мембрана арқылы еріткіш молекулаларының қозғалысын қамтиды.\n2. **Мембрана талабы**: Диффузия мембрананы қажет етпейді, ал осмос іріктеуші өткізгіш мембрананы қажет етеді.\n3. **Бағыты және жетекші күші**: Екі процесті де концентрация градиенттері басқарады, осмос еріген заттың емес, еріткіштің концентрация градиентімен бағытталады.",
+      "reference_answer": "Both are passive transport processes. Diffusion can occur with any molecules, whereas osmosis occurs solely with water molecules. Osmosis is critical for maintaining cell turgidity and plant water uptake.",
+      "response_time_seconds": 3.19
+    },
+    {
+      "question_id": 28,
+      "category": "neutral_technical",
+      "question_text": "Қандай компаниялар қарызды қайта сатып алуды ең алдымен жүзеге асыруы мүмкін?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Which companies are most likely to carry out debt buybacks first?\"\n\n**2. Ағылшын тілінде жауап беру:**\n\"Companies with strong cash reserves, low debt levels, and a history of returning capital to shareholders through dividends and buybacks are more likely to carry out debt buybacks first. Typically, these are large-cap companies in stable industries with consistent cash flows, such as consumer staples, healthcare, or technology. They may also have a strong credit rating, making it easier for them to refinance or retire debt.\"\n\n**3. Жауапты қазақ тіліне аудару:**\n\"Күшті ақшалай резервтері бар, қарыз деңгейі төмен және акционерлерге дивидендтер мен сатып алу арқылы капиталды қайтару тарихы бар компаниялар қарызды қайта сатып алуды бірінші болып жүзеге асыруы ықтимал. Әдетте, бұл тұрақты кәсіпорындардағы үлкен нарықтық капиталдануы бар компаниялар, мысалы, тұтынушылық тауарлар, денсаулық сақтау немесе технологиялар сияқты салалардағы. Олар сондай-ақ жоғары несие рейтингіне ие болуы мүмкін, бұл оларға қарызды қайта қаржыландыруды немесе өтеулерін жеңілдетеді.\"",
+      "reference_answer": "Over-levered companies acquired by PE firms in leveraged buyouts during boom years, facing interest payment difficulties with excess cash.",
+      "response_time_seconds": 3.29
+    },
+    {
+      "question_id": 29,
+      "category": "neutral_technical",
+      "question_text": "Қанаттың сыртқы бөлігінде орналасқан, ұшақтың айналу қозғалысын тудыру үшін қолданылатын кіші буынды бөлімдер қандай?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"What are the small sections located on the outer part of the wing, used to create the rotational movement of the aircraft?\"\n\n**2. Ағылшын тілінде жауап беру:**\n\"The small sections located on the outer part of the wing, used to create the rotational movement of the aircraft, are called ailerons.\"\n\n**3. Жауапты қазақ тіліне аудару:**\n\"Ұшақтың айналу қозғалысын тудыру үшін қолданылатын, қанаттың сыртқы бөлігінде орналасқан кіші буынды бөлімдер - элерондар деп аталады.\"",
+      "reference_answer": "Aileron",
+      "response_time_seconds": 1.35
+    },
+    {
+      "question_id": 30,
+      "category": "neutral_technical",
+      "question_text": "n-p-n транзистордың жұмысын сипаттаңыз",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nDescribe the operation of an n-p-n transistor.\n\n**2. Ағылшын тілінде жауап беру:**\nAn n-p-n transistor is a type of bipolar junction transistor (BJT) that consists of three layers: a base layer made of p-type material sandwiched between two layers of n-type material, the collector, and the emitter. The operation of an n-p-n transistor involves the flow of electrons from the emitter through the base to the collector.\n\nHere's a step-by-step explanation:\n\n1. The emitter is negatively charged with respect to the base, which causes electrons to flow from the emitter into the base.\n2. The base is lightly doped with p-type material and is very thin, so most of the electrons that enter the base pass through it without being recombined with holes.\n3. The collector is positively charged with respect to the base, which attracts the electrons that have passed through the base.\n4. The electrons that reach the collector are collected and flow out of the transistor through the collector terminal.\n5. The base current controls the flow of electrons from the emitter to the collector. A small change in the base current can cause a large change in the collector current.\n\n**3. Жауапты қазақ тіліне аудару:**\nn-p-n транзистор - бұл биполярлық қосынды транзистордың (BJT) бір түрі, ол үш қабаттан тұрады: p-типті материалдан жасалған базалық қабат, екі n-типті материал қабатының, коллектор мен эмиттердің, арасына орналасқан. n-p-n транзистордың жұмысына эмиттерден база арқылы коллекторға қарай электрондардың ағыны қатысады.\n\nМұнда қадамдық түсіндірме берілген:\n\n1. Эмиттер базаға қарағанда теріс зарядталған, бұл электрондардың эмиттерден базаға қарай ағынуына әкеледі.\n2. База p-типті материалмен жеңіл легирленген және өте жұқа, сондықтан базаға енетін электрондардың көпшілігі ондағы кемтіктермен рекомбинацияланбай, өтіп кетеді.\n3. Коллектор базаға қарағанда оң зарядталған, бұл база арқылы өткен электрондарды өзіне тартады.\n4. Коллекторға жеткен электрондар жинақталып, коллектор терминалы арқылы транзистордан шығады.\n5. Базалық ток эмиттерден коллекторға қарай электрондар ағынын басқарады. Базалық токтың аздаған өзгерісі коллектор тогының үлкен өзгерісіне әкелуі мүмкін.",
+      "reference_answer": "An NPN transistor operates by using a small, positive voltage at its Base (P-type) to forward-bias the Base-Emitter junction, allowing a large current of electrons to flow from the Emitter (N-type) to the Collector (N-type).",
+      "response_time_seconds": 2.59
+    },
+    {
+      "question_id": 31,
+      "category": "kazakh_cultural",
+      "question_text": "Домбыра қазақ мәдениетінде қандай рөл атқарады?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"What role does the dombra play in Kazakh culture?\"\n\n**2. Ағылшын тілінде жауап беру:**\nThe dombra holds a significant place in Kazakh culture, serving as a symbol of national identity and heritage. It is a traditional stringed instrument that has been an integral part of Kazakh life for centuries, used in various contexts such as folk music, storytelling, and cultural ceremonies. The dombra is often played during important events like weddings, festivals, and gatherings, and its melodies are used to convey emotions, tell stories, and pass down traditions. It is also considered a tool for preserving and promoting Kazakh culture, with many efforts being made to teach and preserve the art of dombra playing.\n\n**3. Жауапты қазақ тіліне аудару:**\nДомбыра қазақ мәдениетінде маңызды орын алады, ұлттық бірегейліктің және мұраның символы ретінде қызмет етеді. Бұл қазақ өмірінде ғасырлар бойы ажырамас бөлігі болған дәстүрлі ішекті аспап. Ол халық музыкасы, әңгіме айту және мәдени шаралар сияқты түрлі контексте қолданылады. Домбыра көбінесе той-томалақ, мереке сияқты маңызды оқиғаларда ойналады, оның әуендері эмоцияларды жеткізу, әңгімелеу және дәстүрлерді жеткізу үшін қолданылады. Ол сондай-ақ қазақ мәдениетін сақтау және насихаттау құралы болып саналады, көптеген күш домбыра ойнау өнерін үйретуге және сақтауға жұмсалады.",
+      "reference_answer": null,
+      "response_time_seconds": 2.75
+    },
+    {
+      "question_id": 32,
+      "category": "kazakh_cultural",
+      "question_text": "Тұсау кесу дәстүрі мен оның маңызын түсіндіріңіз.",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"Explain the tradition of Tusau kesu and its significance.\"\n\n**2. Ағылшын тілінде жауап беру:**\nTusau kesu, also known as the \"cutting of the tether,\" is a traditional Kazakh practice that involves the ceremonial cutting of a rope or thread that symbolizes a child's transition from infancy to early childhood. The tradition is typically observed when a child is around one to two years old.\n\nDuring the ceremony, the child is placed on a special blanket or carpet, and a rope or thread is tied around their waist or wrist. The rope is then cut by a respected elder or family member, usually with a pair of scissors or a knife. This act symbolizes the child's growing independence and the end of their infancy.\n\nThe Tusau kesu ceremony is significant because it marks an important milestone in a child's life. It is believed to bring good luck, prosperity, and a strong will to the child. The ceremony also involves various rituals and customs, such as the distribution of sweets and gifts to guests, traditional music and dance, and the recitation of blessings and prayers.\n\n**3. Жауапты қазақ тіліне аудару:**\nТұсау кесу - баланың сәбиліктен ерте балалық шаққа өтуін білдіретін рәсім. Бұл дәстүр әдетте бала бір немесе екі жасқа толғанда жасалады.\n\nРәсім кезінде бала арнайы кілемге отырғызылады да, олардың беліне немесе білегіне жіп байланады. Содан кейін жіп құрметті қария немесе отбасы мүшесімен (әдетте қайшы немесе пышақпен) кесіледі. Бұл әрекет баланың дербестігінің артуы мен сәбилік шағының аяқталуын білдіреді.\n\nТұсау кесу рәсімі бала өмірінің маңызды кезеңін белгілейтіндіктен маңызды. Ол балаға жақсылық, гүлдену мен берік ерік әкелетінге сену. Сонымен қатар, рәсімге қонақтарға сыйлықтар тарату, дәстүрлі музыка мен би, бата мен тілектер айту сияқты түрлі рәсімдер мен дәстүрлер кіреді.",
+      "reference_answer": null,
+      "response_time_seconds": 1.86
+    },
+    {
+      "question_id": 33,
+      "category": "kazakh_cultural",
+      "question_text": "Үш қазақ жүзінің негізгі айырмашылықтары қандай?",
+      "response": "**1-қадам: Сұрақты ағылшын тіліне аудару**\nҮш қазақ жүзінің негізгі айырмашылықтары қандай?\n→ What are the main differences between the three Kazakh zhuzes?\n\n**2-қадам: Ағылшын тілінде жауап беру**\nThe three Kazakh Zhuzes (Juzes) are historical tribal divisions among the Kazakhs. The main differences between them are:\n- Geographic locations: The Great (or Elder) Zhuz is associated with southeastern Kazakhstan, the Middle Zhuz with central and eastern Kazakhstan, and the Lesser (or Junior) Zhuz with western Kazakhstan.\n- Tribal affiliations: Each Zhuz has its distinct tribal composition and ancestry.\n- Cultural and economic variations: The Zhuzes had different cultural and economic practices influenced by their geographical locations and historical interactions.\n\n**3-қадам: Жауапты қазақ тіліне аудару**\nҮш қазақ Жүзі (Жүздер) - қазақтар арасындағы тарихи тайпалық бөліністер. Олардың арасындағы негізгі айырмашылықтар:\n- Географиялық орналасуы: Ұлы (немесе Егде) Жүз оңтүстік-шығыс Қазақстанмен, Орта Жүз орталық және шығыс Қазақстанмен, ал Кіші (немесе Кіші) Жүз батыс Қазақстанмен байланысты.\n- Тайпалық құрамы: Әрбір Жүздің өзіндік тайпалық құрамы мен тегі бар.\n- Мәдени және экономикалық ерекшеліктері: Жүздердің мәдени және экономикалық тәжірибелері олардың географиялық орналасуы мен тарихи өзара әрекеттеріне байланысты әртүрлі болды.",
+      "reference_answer": null,
+      "response_time_seconds": 1.85
+    },
+    {
+      "question_id": 34,
+      "category": "kazakh_cultural",
+      "question_text": "Абай Құнанбайұлы кім және оның әдеби мұрасы қандай?",
+      "response": "1. **Сұрақты ағылшын тіліне аудару:**\n   \"Who is Abai Kunanbaiuly and what is his literary legacy?\"\n\n2. **Ағылшын тілінде жауап беру:**\n   Abai Kunanbaiuly was a Kazakh poet, philosopher, and humanist. He was born on August 10, 1845, and died on July 6, 1904. Abai is considered one of the most important figures in Kazakh literature and culture. His works include poetry, translations, and philosophical writings that focused on social issues, education, and the importance of knowledge. His literary legacy has had a profound impact on Kazakh identity and continues to be celebrated and studied today.\n\n3. **Жауапты қазақ тіліне аудару:**\n   Абай Құнанбайұлы - қазақтың ақыны, философы және гуманисті. Ол 1845 жылдың 10 тамызында дүниеге келіп, 1904 жылдың 6 шілдесінде қайтыс болды. Абай қазақ әдебиеті мен мәдениетіндегі ең маңызды тұлғалардың бірі болып саналады. Оның шығармаларына әлеуметтік мәселелерге, білімге және білімнің маңыздылығына бағытталған өлеңдер, аудармалар және философиялық жазбалар кіреді. Оның әдеби мұрасы қазақ халқының болмысына терең ықпал етіп, бүгінгі күнге дейін тойланып, зерттелуде.",
+      "reference_answer": null,
+      "response_time_seconds": 1.75
+    },
+    {
+      "question_id": 35,
+      "category": "kazakh_cultural",
+      "question_text": "Қазақ MuzART тобының мүшелері кімдер?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nThe members of the Kazakh MuzART group are who?\n\n**2. Ағылшын тілінде жауап беру:**\nThe MuzART group is a Kazakh pop group. The members of the group are: \n\n1. Almat Zhumagaliyev (lead vocals)\n2. Kurmanbek Zhamalbekov (keyboards, vocals)\n3. Arman Zhumagaliyev (guitar, vocals)\n\n**3. Жауапты қазақ тіліне аудару:**\nMuzART тобы - қазақстандық поп-топ. Топтың мүшелері:\n\n1. Алмат Жұмағалиев (ведущий вокалист)\n2. Құрманбек Жамалбеков (клавишті аспаптар, вокалист)\n3. Арман Жұмағалиев (гитара, вокалист)",
+      "reference_answer": "Meyrambek Besbaev, Saken Maygaziev and Kenzhebek Zhanabilov",
+      "response_time_seconds": 1.02
+    },
+    {
+      "question_id": 36,
+      "category": "kazakh_cultural",
+      "question_text": "Қазақстан астанасының қандай атаулары болды?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n   Қазақстан астанасының қандай атаулары болды? \n   What were the names of the capital of Kazakhstan?\n\n**2. Ағылшын тілінде жауап беру:**\n   The capital of Kazakhstan has had several names throughout its history. Initially, it was known as Akmolinsk from 1830 to 1961, then it was renamed to Tselinograd from 1961 to 1992. After gaining independence, it was called Akmola from 1992 to 1997. In 1997, it was renamed again to Astana, which means \"capital\" in Kazakh. In 2022, the capital was renamed once more to Astana.\n\n**3. Жауапты қазақ тіліне аудару:**\n   Қазақстанның астанасының тарихында бірнеше атаулары болған. Бастапқыда ол 1830 жылдан 1961 жылға дейін Ақмола деп аталды, кейін 1961 жылдан 1992 жылға дейін Целиноград болып өзгертілді. Тәуелсіздік алғаннан кейін 1992 жылдан 1997 жылға дейін Ақмола деп аталды. 1997 жылы ол қайтадан Астана болып өзгертілді, бұл қазақ тілінде \"астана\" деген мағынаны білдіреді. 2022 жылы астананың атауы тағы да Астана болып өзгертілді.",
+      "reference_answer": null,
+      "response_time_seconds": 1.57
+    },
+    {
+      "question_id": 37,
+      "category": "kazakh_cultural",
+      "question_text": "Наурыз көже қалай дайындалады?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nНаурыз көже қалай дайындалады? -> How is Nauryz kozhe prepared?\n\n**2. Ағылшын тілінде жауап беру:**\nNauryz kozhe is a traditional Kazakh dish prepared for the Nauryz celebration. To make Nauryz kozhe, you need ingredients like meat (usually beef or lamb), onions, carrots, wheat, rice, and various spices. First, boil the meat in water until it's tender. Then, add chopped onions, carrots, and spices. After that, add pre-soaked wheat and rice, and continue boiling until all the ingredients are well-cooked. The dish is served hot, often garnished with herbs and accompanied by bread.\n\n**3. Жауапты қазақ тіліне аудару:**\nНаурыз көже - Наурыз мерекесінде дайындалатын дәстүрлі қазақ тағамы. Наурыз көже дайындау үшін сізге ет (әдетте сиыр немесе қой еті), пияз, сәбіз, бидай, күріш және әртүрлі дәмдеуіштер қажет. Алдымен етті суға салып, жұмсарғанша қайнатыңыз. Содан кейін, кесілген пияз, сәбіз және дәмдеуіштерді қосыңыз. Одан кейін алдын ала суға салып қойған бидай мен күрішті қосып, барлық ингредиенттер жақсы піскенше қайнатыңыз. Тағам ыстық күйінде подается, көбінесе шөптермен безендіріледі және нанмен бірге беріледі.",
+      "reference_answer": null,
+      "response_time_seconds": 1.76
+    },
+    {
+      "question_id": 38,
+      "category": "kazakh_cultural",
+      "question_text": "1986 жылғы желтоқсанда Қазақ КСР-інде не болды?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"1986 жылғы желтоқсанда Қазақ КСР-інде не болды?\" деген сұрақ ағылшын тілінде былай аударылады:\n\"What happened in the Kazakh SSR in December 1986?\"\n\n**2. Ағылшын тілінде жауап беру:**\nThe event that occurred in December 1986 in the Kazakh SSR was the Jeltoqsan protests, also known as the December events or the Almaty riots. These were a series of protests and riots that took place in Almaty (then known as Alma-Ata), the capital of the Kazakh SSR, from December 16 to 19, 1986. The protests were sparked by the replacement of Dinmukhamed Konayev, the long-serving First Secretary of the Communist Party of Kazakhstan, with Gennady Kolbin, an ethnic Russian from outside Kazakhstan.\n\n**3. Жауапты қазақ тіліне аудару:**\n1986 жылғы желтоқсанда Қазақ КСР-інде болған оқиға - Желтоқсан көтерілісі, сонымен қатар желтоқсан оқиғалары немесе Алматы беспорядки деп те белгілі. Бұл 1986 жылы 16-19 желтоқсан аралығында Қазақ КСР-інің астанасы Алматыда (ол кезде Алма-Ата) болған шерулер мен тәртіпсіздіктер. Көтеріліс Қазақстан Компартиясы Орталық Комитетінің бірінші хатшысы болып ұзақ жылдар қызмет еткен Дінмұхаммед Қонаевтың орнына Қазақстаннан тыс жерден келген этникалық орыс Геннадий Колбиннің тағайындалуына байланысты болды.",
+      "reference_answer": null,
+      "response_time_seconds": 2.37
+    },
+    {
+      "question_id": 39,
+      "category": "kazakh_cultural",
+      "question_text": "Қазақстандағы ең ірі ислам мекемесін атаңыз",
+      "response": "**1. Қазақстандағы ең ірі ислам мекемесін атаңыз** деген сұрақты ағылшын тіліне аудару:**\nName the largest Islamic institution in Kazakhstan\n\n**2. Ағылшын тілінде жауап беру:**\nThe largest Islamic institution in Kazakhstan is the Spiritual Administration of Muslims of Kazakhstan (SAMK).\n\n**3. Жауапты қазақ тіліне аудару:**\nҚазақстандағы ең ірі ислам мекемесі - Қазақстан Мұсылмандарының Діни басқармасы (ҚМДБ).",
+      "reference_answer": null,
+      "response_time_seconds": 0.62
+    },
+    {
+      "question_id": 40,
+      "category": "kazakh_cultural",
+      "question_text": "Егер менің руым Керей болса, мен қай қазақ жүзіне жатамын?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nЕгер менің руым Керей болса, мен қай қазақ жүзіне жатамын? \n→ If my clan is Kerey, which Kazakh zhuz do I belong to?\n\n**2. Ағылшын тілінде жауап беру:**\nThe Kerey clan is primarily associated with the Middle Juz (also known as Orta Zhuz or Middle Horde) among the Kazakh people.\n\n**3. Жауапты қазақ тіліне аудару:**\nКерей руы негізінен қазақ халқының арасында Орта жүзге (Орта Жүз немесе Орта Орда деп те аталады) жатады.",
+      "reference_answer": null,
+      "response_time_seconds": 0.83
+    },
+    {
+      "question_id": 41,
+      "category": "mongolian_cultural",
+      "question_text": "Наадамның үш ерлік ойыны және олардың маңызы қандай?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nСұрақ: \"Наадамның үш ерлік ойыны және олардың маңызы қандай?\"\nАударылған сұрақ: \"Three heroic games of Naadam and their significance?\"\n\n**2. Ағылшын тілінде жауап беру:**\nNaadam is a traditional Mongolian festival celebrated for centuries. The three main events, or \"heroic games,\" are:\n1. Archery (Харваа) - Showcases skill and precision.\n2. Wrestling (Бөх) - Demonstrates strength and technique.\n3. Horse Racing (Морин уралдаан) - Highlights speed and endurance.\n\nThese games celebrate Mongolian culture, honor the country's nomadic heritage, and foster community.\n\n**3. Жауапты қазақ тіліне аудару:**\nНаадам - бұл дәстүрлі моңғол мерекесі, ол ғасырлар бойы тойланып келеді. Үш негізгі шара немесе \"ерлік ойындары\":\n1. Садақ ату (Харваа) - Дәлдік пен дағдыны көрсетеді.\n2. Күрес (Бөх) - Күш пен техниканы көрсетеді.\n3. Ат жарысы (Морин уралдаан) - Жылдамдық пен төзімділікті көрсетеді.\n\nБұл ойындар моңғол мәдениетін тойлайды, елдің көшпелі мұрасын құрметтейді және қауымдастықты нығайтады.",
+      "reference_answer": null,
+      "response_time_seconds": 1.45
+    },
+    {
+      "question_id": 42,
+      "category": "mongolian_cultural",
+      "question_text": "Монғол дәстүрлі үйтің құрылымы мен символикасын түсіндіріңіз.",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nThe task is to explain the structure and symbolism of the traditional Mongolian yurt (ger).\n\n**Translated question in English:** Explain the structure and symbolism of the traditional Mongolian yurt.\n\n**2. Ағылшын тілінде жауап беру:**\nThe traditional Mongolian yurt, known as a \"ger,\" is a portable, circular dwelling made of felt and wood. Its structure is designed to be easily assembled and disassembled, reflecting the nomadic lifestyle of the Mongolian people.\n\nThe ger is composed of several key components:\n1. **Khana (walls):** These are latticework panels that form the walls of the ger. They are made of wood and are designed to be collapsible.\n2. **Toono (crown):** This is the circular structure at the top of the ger, which allows for ventilation and light. It is typically made of wood or metal.\n3. **Unee (roof poles):** These are the poles that connect the toono to the khana, forming the roof of the ger.\n4. **Felt covers:** The ger is covered with layers of felt, which provide insulation against the elements.\n\nThe ger's structure and design are rich in symbolism. The circular shape represents the unity and wholeness of the community, as well as the cyclical nature of life. The toono is often seen as a symbol of the sky or the heavens, and the unee are believed to represent the connection between heaven and earth.\n\nThe orientation of the ger is also significant. The door typically faces east, towards the rising sun, symbolizing the welcoming of new life and energy. The interior of the ger is organized according to a strict hierarchy, with the most sacred and honored positions reserved for the head of the household and the altar.\n\n**3. Жауапты қазақ тіліне аудару:**\nДәстүрлі монғол үйі немесе \"гері\" киізден және ағаштан жасалған жылжымалы, дөңгелек баспана болып табылады. Оның құрылымы оңай жиналатын және бөлшектенетін етіп жасалған, бұл монғол халқының көшпелі өмір салтын көрсетеді.\n\nГер бірнеше негізгі компоненттен тұрады:\n1. **Қабырғалар (khana):** Бұл гердің қабырғаларын құрайтын тор тәрізді панельдер. Олар ағаштан жасалған және жиналмалы етіп жасалған.\n2. **Төбе (toono):** Бұл гердің жоғарғы жағындағы ауа алмасу және жарықтандыру үшін қызмет ететін дөңгелек құрылым. Ол әдетте ағаштан немесе металдан жасалады.\n3. **Шатыр тіректері (unee):** Бұл төбені қабырғалармен байланыстыратын тіректер, гердің шатырын құрайды.\n4. **Киіз жабындар:** Гер киіз қабаттарымен жабылған, бұл ауа райынан оқшаулауды қамтамасыз етеді.\n\nГердің құрылымы мен дизайны символизмге бай. Дөңгелек пішіні қауымның бірлігі мен тұтастығын, сондай-ақ өмірдің циклді табиғатын білдіреді. Төбе (toono) жиі аспан немесе тәңір символы ретінде қарастырылады, ал шатыр тіректері (unee) аспан мен жер арасындағы байланысты білдіреді деп саналады.\n\nГердің бағдары да маңызды. Есік әдетте шығысқа, яғни күн шығатын жаққа қарайды, бұл жаңа өмір мен энергияны қарсы алуды білдіреді. Гердің ішкі бөлігі қатаң иерархия бойынша ұйымдастырылған, ең қасиетті және құрметті орындар үй иесі мен құрбандық шалатын орынға арналған.",
+      "reference_answer": null,
+      "response_time_seconds": 2.88
+    },
+    {
+      "question_id": 43,
+      "category": "mongolian_cultural",
+      "question_text": "Монғолдың ұлттық болмысында тамақпен ән айту қандай рөл атқарады?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nМонғолдың ұлттық болмысында тамақпен ән айту қандай рөл атқарады? \n→ What role does singing with food play in Mongolian national identity?\n\n**2. Ағылшын тілінде жауап беру:**\nIn Mongolian culture, \"singing with food\" is not a literal or common practice. However, music, food, and cultural identity are closely intertwined. Traditional Mongolian music, such as throat singing, is often performed during celebrations and gatherings where traditional foods are served. These events strengthen community bonds and reinforce cultural heritage. While \"singing with food\" isn't a specific practice, the combination of music and culinary traditions is significant in Mongolian cultural expression.\n\n**3. Жауапты қазақ тіліне аудару:**\nМонғол мәдениетінде \"тамақпен ән айту\" тікелей мағынада түсінікке ие емес немесе жиі кездесетін практика емес. Дегенмен, музыка, тамақ және мәдени ұстаным бір-бірімен тығыз байланысты. Тамақ ішу кезінде дәстүрлі моңғол музыкасы, мысалы, тамақ арқылы ән айту (throat singing) жиі орындалатын дәстүр. Бұл іс-шаралар қауымдастық байланыстарын нығайтады және мәдени мұраны нығайтады. \"Тамақпен ән айту\" белгілі бір практика болмаса да, музыка мен кулинарлық дәстүрлердің үйлесімі моңғол мәдени өмірінде маңызды рөл атқарады.",
+      "reference_answer": null,
+      "response_time_seconds": 1.25
+    },
+    {
+      "question_id": 44,
+      "category": "mongolian_cultural",
+      "question_text": "Улан-Батордағы «Бөхийн өргөө» маңында үнді мейрамханалары бар ма?",
+      "response": "1. **Қадам:** Сұрақты ағылшын тіліне аудару: \n\"Are there any Indian restaurants near 'Bukhain orgon' in Ulaanbaatar?\"\n\n2. **Қадам:** Ағылшын тілінде жауап беру:\n\"Yes, Ulaanbaatar has a variety of international cuisines, including Indian. 'Bukhain orgon' or Buyant-Ukhaa is a popular area, and it's likely to have or be near areas with international dining options, including possibly Indian restaurants. A specific confirmation would require a current local directory or map search.\"\n\n3. **Қадам:** Жауапты қазақ тіліне аудару:\n\"Иә, Улан-Баторда үнді асханалары сияқты халықаралық асханалар бар. 'Бөхийн өргөө' немесе Буянт-Ухаа танымал аймақ болып табылады және онда немесе соның жанында халықаралық тамақтану орындары, мүмкін үнді асханалары болуы мүмкін. Нақты бір анықтама үшін жергілікті анықтамалық немесе карта іздеу қажет.\"",
+      "reference_answer": null,
+      "response_time_seconds": 0.93
+    },
+    {
+      "question_id": 45,
+      "category": "mongolian_cultural",
+      "question_text": "Намбар Энхбаяр қай күні қамауға алынды?",
+      "response": "1. **Сұрақты ағылшын тіліне аудару**: \"On what date was Nambaryn Enkhbayar arrested?\"\n\n2. **Ағылшын тілінде жауап беру**: Nambaryn Enkhbayar was arrested on August 13, 2012, on charges related to corruption.\n\n3. **Жауабын қазақ тіліне аудару**: Намбар Энхбаяр 2012 жылдың 13 тамызында сыбайлас жемқорлыққа байланысты айыптармен қамауға алынды.",
+      "reference_answer": "April 13, 2012",
+      "response_time_seconds": 0.63
+    },
+    {
+      "question_id": 46,
+      "category": "mongolian_cultural",
+      "question_text": "24/25 маусымдағы Монғолия Премьер-лигасының жеңімпазы кім болды?",
+      "response": "1. Сұрақты ағылшын тіліне аударыңыз: \n   The question is: \"Who was the winner of the Mongolia Premier League on 24/25 June?\"\n\n   Translated to English: \"Who was the winner of the Mongolia Premier League on 24/25 June?\"\n\n   Actual translation: \"Who won the Mongolia Premier League in the 24/25 season?\" (since the date \"24/25 June\" doesn't make sense, it's assumed the user meant the 2024 or 2025 season).\n\n2. Ағылшын тілінде жауап беріңіз:\n   To answer this, we first need to establish the correct season. Assuming the user meant to ask about the winner of a specific season around that timeframe, we'll look into recent Mongolia Premier League winners.\n\n   The Mongolia Premier League, also known as the MFF National Championship or the Hisar League, is the top division of Mongolian football. The exact winner can vary by season.\n\n   For the 2024 season or nearby years, specific information might not be readily available as of my last update. However, I can guide you on how to find the information or give a general idea based on recent trends.\n\n   One of the top teams in recent years has been \"Ulaanbaatar City FC\" or \"Erchim FC,\" as they have been dominant forces in Mongolian football. To give a precise answer, the exact season's winner is needed.\n\n   Let's hypothetically say, for the sake of providing an answer, that \"Erchim FC\" or \"Ulaanbaatar City FC\" won, as they are strong contenders.\n\n3. Жауапты қазақ тіліне аударыңыз:\n   Жауап: \"Мұнда жауап беру үшін, алдымен дұрыс маусымды анықтау керек. Егер пайдаланушы шамамен сол уақыттағы маусым туралы сұрағысы келсе, біз соңғы Монғолия Премьер-лигасының жеңімпаздарды қарастырамыз.\"\n\n   Монғолия Премьер-лигасының жеңімпазы анықтау үшін, нақты маусымдағы ақпарат қажет. Жорамалдап айтсақ, \"Erchim FC\" немесе \"Ulaanbaatar City FC\" жеңімпаз болған шығар, өйткені олар соңғы жылдары күшті қарсыластар болып табылады.\n\n   Соңғы жауап: \"24/25 маусымындағы Монғолия Премьер-лигасының жеңімпазы туралы нақты ақпарат жоқ, бірақ мүмкін \"Erchim FC\" немесе \"Ulaanbaatar City FC\"\".",
+      "reference_answer": "SP Falcons",
+      "response_time_seconds": 1.75
+    },
+    {
+      "question_id": 47,
+      "category": "mongolian_cultural",
+      "question_text": "Монғолияның қор биржасында қанша компания тізімделген?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\n\"How many companies are listed on the stock exchange of Mongolia?\"\n\n**2. Ағылшын тілінде жауап беру:**\n\"As of my last update, the Mongolian Stock Exchange (MSE) lists around 236 companies. However, this number may have changed since then. For the most current information, I recommend checking directly with the MSE or their official website.\"\n\n**3. Жауапты қазақ тіліне аудару:**\n\"Соңғы жаңарту бойынша, Моңғолия Қор биржасында (MSE) шамамен 236 компания тізімделген. Дегенмен, бұл сан содан бері өзгерген болуы мүмкін. Ең соңғы ақпарат алу үшін, MSE-ге немесе олардың ресми веб-сайтына тікелей жүгіну ұсынылады.\"",
+      "reference_answer": "186",
+      "response_time_seconds": 0.83
+    },
+    {
+      "question_id": 48,
+      "category": "mongolian_cultural",
+      "question_text": "Улан-Баторды қай облыс қоршап тұр?",
+      "response": "**1-қадам: Сұрақты ағылшын тіліне аудару**\n\nУлан-Баторды қай облыс қоршап тұр? -> Which province surrounds Ulaanbaatar?\n\n**2-қадам: Ағылшын тілінде жауап беру**\n\nUlaanbaatar is surrounded by the province of Töv.\n\n**3-қадам: Жауапты қазақ тіліне аудару**\n\nУлан-Баторды Төв облысы қоршап тұр.",
+      "reference_answer": "Töv",
+      "response_time_seconds": 0.52
+    },
+    {
+      "question_id": 49,
+      "category": "mongolian_cultural",
+      "question_text": "Хуушурды қалай жасауға болады және оны негізінен қашан жейді?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nХуушурды қалай жасауға болады және оны негізінен қашан жейді? -> How to make Huushur and when is it mainly eaten?\n\n**2. Ағылшын тілінде жауап беру:**\nHuushur is a traditional Mongolian dish made from boiled and then pan-fried meat (usually mutton or goat meat), often served with noodles or rice, and sometimes with vegetables. To make Huushur, you typically boil the meat until it's tender, then slice it into thin strips and fry it in a pan with some oil until it's browned. It's often served on special occasions and during the Mongolian Lunar New Year (Tsagaan Sar), as it's considered a festive and hearty dish.\n\n**3. Жауапты қазақ тіліне аудару:**\nХуушур - бұл қайнатылған және кейін табада қуырылған еттен (әдетте қой немесе ешкі еті) дайындалатын дәстүрлі моңғол тағамы, көбінесе кеспе немесе күрішпен және кейде көкөністермен бірге беріледі. Хуушур жасау үшін сіз әдетте етті жұмсартқанша қайнатасыз, содан кейін оны жіңішке жолақтарға кесіп, табада маймен қуырып, қоңыр түске айналдырасыз. Ол көбінесе ерекше жағдайларда және моңғол ай мерекесі (Цаған Сар) кезінде беріледі, өйткені ол мерекелік және тойдырмалы тағам болып саналады.",
+      "reference_answer": null,
+      "response_time_seconds": 1.45
+    },
+    {
+      "question_id": 50,
+      "category": "mongolian_cultural",
+      "question_text": "Монголия күресіндегі төртінші ең жоғары атақ қандай және оның шарты қандай?",
+      "response": "**1. Сұрақты ағылшын тіліне аудару:**\nThe question in English is: \"What is the fourth highest title in Mongolian wrestling and what are its requirements?\"\n\n**2. Ағылшын тілінде жауап беру:**\nIn Mongolian wrestling, the titles are conferred based on the wrestlers' performance in the Naadam festival. The titles, in descending order of rank, are: \n1. \"Dariganga\" or \"Darkhan\" (Champion or Undefeated),\n2. \"Arslan\" (Lion),\n3. \"Garuda\" or \"Gurvan Naran\" is sometimes used but the more common third title is \"Zaan\" (Elephant),\n4. The fourth title is \"Nachin\" (Falcon).\n\nTo achieve the title of \"Nachin,\" a wrestler typically needs to win at least one fight in the Naadam festival and progress through the rounds. The exact number of wins required can vary, but generally, a wrestler must perform well and demonstrate a certain level of skill and endurance.\n\n**3. Жауапты қазақ тіліне аудару:**\nМонгол күресінде атақтар «Наадам» мерекесіндегі балуандардың өнеріне негізделіп беріледі. Атақтар, ең жоғарыдан төмен қарай: \n1. «Дархан» (Чемпион немесе Жеңілмеген),\n2. «Арслан» (Арыстан),\n3. «Заан» (Піл),\n4. Төртінші атақ «Начин» (Сұңқар).\n\n«Начин» атағына жету үшін балуан әдетте «Наадам» мерекесінде кем дегенде бір белдесуде жеңіске жетуі керек және бірнеше раундтан өтуі тиіс. Талап етілетін жеңістер саны өзгеруі мүмкін, бірақ әдетте балуан жақсы өнер көрсетіп, белгілі бір деңгейде шеберлік пен төзімділік көрсетуі керек.",
+      "reference_answer": "State Lion | Улсын арслан, 1 win in the National Naadam Wrestling",
+      "response_time_seconds": 1.96
+    }
+  ],
+  "last_updated": "2026-02-18T01:46:06.671997+00:00"
+}

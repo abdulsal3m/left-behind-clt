@@ -1,0 +1,412 @@
+{
+  "model": "gemini_3_pro",
+  "model_id": "gemini-3-pro-preview",
+  "condition": "C5",
+  "condition_description": "Mongolian -> English -> English -> Mongolian (cross-lingual transfer)",
+  "language": "mongolian",
+  "system_prompt_used": "Та бол хэрэгтэй туслах бот. Хэрэглэгч зөвхөн монгол хэл мэддэг. Дараах алхмуудыг гүйцэтгэнэ үү:\n1. Асуултыг англи хэл рүү орчуулна уу\n2. Англи хэлээр хариулт бичнэ үү\n3. Хариултыг монгол хэл рүү орчуулна уу\nАлхам тус бүрийг харуулна уу.",
+  "started_at": "2026-02-18T08:19:45.419813+00:00",
+  "responses": [
+    {
+      "question_id": 1,
+      "category": "neutral_factual",
+      "question_text": "2010 оны Deepwater Horizon газрын тосны алдагдлыг юу үүсгэсэн бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"What caused the 2010 Deepwater Horizon oil spill?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nThe 2010 Deepwater Horizon disaster was caused by a combination of technical failures and human errors. The immediate cause was a sudden surge of natural gas (methane) that blasted through the concrete core of the well, traveled up the riser to the rig, and ignited.\n\nKey contributing factors included:\n1.  **Defective Cement:** The cement slurry used to seal the bottom of the well failed to contain the oil and gas.\n2.  **Misinterpretation of Pressure Tests:** The crew misinterpreted a \"negative pressure test\" which actually indicated that the well was not sealed properly.\n3.  **Blowout Preventer (BOP) Failure:** The fail-safe device intended to cut the pipe and seal the well in an emergency failed to activate properly.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n2010 оны Deepwater Horizon-ы сүйрэл нь техникийн саатал болон хүний ​​алдааны нийлбэрээс үүдэлтэй байсан. Шууд нөлөөлсөн шалтгаан нь байгалийн хий (метан) цооногийн бетонон хамгаалалтыг цоолон гарч, өрөмдлөгийн хоолойгоор дамжин цамхаг руу дээшлэн гарч ирээд гал авалцсан явдал юм.\n\nГол нөлөөлсөн хүчин зүйлүүдэд:\n1.  **Чанаргүй цемент:** Цооногийн ёроолыг битүүмжлэхэд ашигласан цементийн зуурмаг нь газрын тос, хийг тогтоож чадаагүй.\n2.  **Даралтын туршилтыг буруу тайлбарласан:** Багийн гишүүд цооног бүрэн битүүмжлэгдээгүй байгааг илтгэсэн \"сөрөг даралтын туршилт\"-ын хариуг буруугаар ойлгосон.\n3.  **Тэсрэ",
+      "reference_answer": "A bad cement job and a failure of the shoe track barrier at the bottom of the well, which let hydrocarbons from the reservoir into the production casing.",
+      "response_time_seconds": 19.57
+    },
+    {
+      "question_id": 2,
+      "category": "neutral_factual",
+      "question_text": "Симон Боливар хэн байсан бэ, яагаад тэр Өмнөд Америкийн түүхэнд чухал үүрэгтэй вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"Who was Simon Bolivar, and why is he important in South American history?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\nSimon Bolívar was a Venezuelan military and political leader who is famously known as \"The Liberator\" (El Libertador). He played a central role in the South American independence movement against the Spanish Empire during the early 19th century.\n\nHe is important because he successfully led the campaigns that liberated several countries, including Venezuela, Colombia, Ecuador, Peru, and Bolivia (which was named in his honor). His vision was to create a united South America, which led to the formation of a state called Gran Colombia. Today, he is considered a national hero and an icon of revolution throughout Latin America.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\nСимон Боливар бол \"Чөлөөлөгч\" (El Libertador) гэдгээрээ алдаршсан Венесуэлийн цэрэг, улс төрийн удирдагч байв. Тэрээр 19-р зууны эхэн үед Испанийн эзэнт гүрний эсрэг Өмнөд Америкийн тусгаар тогтнолын хөдөлгөөнд гол үүрэг гүйцэтгэсэн юм.\n\nТэрээр Венесуэл, Колумб, Эквадор, Перу болон түүний нэрээр нэрлэгдсэн Боливи зэрэг хэд хэдэн улсыг чөлөөлөх аян дайныг амжилттай удирдсан тул түүхэнд чухал байр суурь эзэлдэг. Түүний алсын хараа нь нэгдмэл Өмнөд Америкийг бий болгох байсан бөгөөд энэ нь Гран Колумб улсыг байгуулахад хүргэсэн юм. Өнөөдөр түүнийг Латин Америк даяар үндэсний баатар, хувьсгалын бэлгэ тэмдэг гэж үздэг.",
+      "reference_answer": "Simón Bolívar (1783-1830) was a Venezuelan military and political leader, known as 'El Libertador', who freed six South American countries from Spanish colonial rule.",
+      "response_time_seconds": 18.86
+    },
+    {
+      "question_id": 3,
+      "category": "neutral_factual",
+      "question_text": "Сөнөсөн тэнгис гэж юу вэ, яагаад онцгой вэ?",
+      "response": "Энд таны асуултын хариултыг алхам алхмаар орууллаа:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"What is the Dead Sea and why is it special?\"\n\n***\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\nThe Dead Sea is a salt lake located between Jordan to the east and Israel and the West Bank to the west. It is special for several reasons:\n\n1.  **Extreme Salinity:** It is one of the saltiest bodies of water in the world (about 9.6 times saltier than the ocean). This harsh environment means fish and aquatic plants cannot survive in it, which is why it is called the \"Dead\" Sea.\n2.  **Lowest Point on Earth:** Its shores are the lowest land-based elevation on Earth, sitting about 430 meters (1,412 ft) below sea level.\n3.  **Natural Buoyancy:** Because of the unusually high salt concentration, the water is much denser than regular fresh or salt water. This allows people to float effortlessly on the surface without sinking.\n4.  **Health Benefits:** The mineral-rich mud and water found there are famous for their therapeutic qualities, often used for skin treatments and cosmetics.\n\n***\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\nСөнөсөн тэнгис нь зүүн талаараа Иордан, баруун талаараа Израиль болон Баруун эрэгтэй хиллэдэг давст нуур юм. Энэ нь дараах хэд хэдэн шалтгааны улмаас онцгой юм:\n\n1.  **Хэт их давсжилт:** Энэ нь дэлхийн хамгийн давстай усны нэг юм (далайгаас 9.6 дахин их давстай). Энэхүү хатуу ширүүн орчинд загас болон усны ургамал амьдрах боломжгүй тул \"Сөнөсөн\" тэнгис гэж нэрлэдэг.\n2.  **Дэлхийн хамгийн нам дор цэг:** Үүний эрэг нь далайн түвшнээс доош 430 орчим метрт (1,412 фут) оршдог бөгөөд энэ нь дэлхийн хуурай газрын хамгийн нам дор цэгт тооцогддог.\n3.  **Байгалийн хөвөх чадвар:** Давсны агууламж хэвийн бус өндөр байдаг тул ус нь энгийн цэвэр ус эсвэл давстай уснаас хамаагүй их нягттай байдаг. Энэ нь хүмүүсийг живэхгүйгээр усны гадаргуу дээр чөлөөтэй хөвөх боломжийг олгодог.\n4.  **Эрүүл мэндийн ач тус:** Тэндхийн эрдэс бодисоор баялаг шавар болон ус",
+      "reference_answer": "Salinity of 342 g/kg (34.2%), 9.6 times as salty as the ocean, density of 1.24 kg/litre, making swimming similar to floating.",
+      "response_time_seconds": 20.91
+    },
+    {
+      "question_id": 4,
+      "category": "neutral_factual",
+      "question_text": "Дэлхий даяар хэдэн ширхэг BMW E46 M3 GTR үйлдвэрлэгдсэн бэ?",
+      "response": "Сайн байна уу? Таны хүсэлтийн дагуу дараах алхмуудыг гүйцэтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"How many BMW E46 M3 GTRs were produced worldwide?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nOnly **10** units of the street-legal BMW E46 M3 GTR (Strassenversion) were produced. These cars were built solely to meet the homologation requirements for the American Le Mans Series racing. However, due to rule changes, none of them were ever sold to the public, and they remain in BMW's possession.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nЗамын хөдөлгөөнд оролцох эрхтэй BMW E46 M3 GTR (Strassenversion) загвар дэлхий даяар ердөө **10** ширхэг үйлдвэрлэгдсэн байдаг. Эдгээр машиныг зөвхөн \"American Le Mans Series\" уралдааны техникийн шаардлагыг хангахын тулд бүтээсэн юм. Гэсэн хэдий ч уралдааны дүрэм өөрчлөгдсөний улмаас эдгээр машинуудын нэгийг ч олон нийтэд зараагүй бөгөөд одоог хүртэл BMW компанийн эзэмшилд байдаг.",
+      "reference_answer": "10",
+      "response_time_seconds": 19.98
+    },
+    {
+      "question_id": 5,
+      "category": "neutral_factual",
+      "question_text": "Түүхийн хамгийн өндөр Агги түүдэг гал хэдэн өндөр байсан бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"How tall was the tallest Aggie Bonfire in history?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nThe tallest Aggie Bonfire in history was built in 1969. It stood at a height of **109 feet 10 inches** (approximately 33.5 meters). This massive structure set a Guinness World Record for the tallest bonfire at the time.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nТүүхэн дэх хамгийн өндөр Агги түүдэг гал нь 1969 онд баригдсан байна. Түүний өндөр нь **109 фут 10 инч** (ойролцоогоор 33.5 метр) байжээ. Энэхүү нүсэр байгууламж нь тухайн үедээ хамгийн өндөр түүдэг гал гэдгээрээ Гиннесийн дээд амжилтыг тогтоож байсан юм.",
+      "reference_answer": "109'10\" | ~33 meters",
+      "response_time_seconds": 14.15
+    },
+    {
+      "question_id": 6,
+      "category": "neutral_factual",
+      "question_text": "Раджа Найнгголаны соёлын өв юу вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам бүрээр нь хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"What is Radja Nainggolan's cultural heritage?\"\n\n**Алхам 2: Англи хэлээр хариулах**\nRadja Nainggolan has a mixed cultural heritage. He was born in Antwerp, Belgium. His mother was Belgian (Flemish), and his father was Indonesian (specifically from the Batak ethnic group). Therefore, he is of Belgian and Indonesian descent.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nРаджа Найнгголан нь холимог соёлын гарал үүсэлтэй. Тэрээр Бельгийн Антверпен хотод төрсөн. Түүний ээж нь Бельги (Флемиш), харин аав нь Индонез (тухайлбал Батак үндэстэн) хүн байсан. Тиймээс тэрээр Бельги болон Индонез гаралтай юм.",
+      "reference_answer": "Indonesian and Belgian",
+      "response_time_seconds": 12.61
+    },
+    {
+      "question_id": 7,
+      "category": "neutral_factual",
+      "question_text": "1700-аад оны сүүлчээр АНУ-ын аль муж өөрөө бие даасан улс байсан бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Step 1: Translate the question into English**\n(Алхам 1: Асуултыг англи хэл рүү орчуулах)\n\"Which U.S. state was an independent country in the late 1700s?\"\n\n**Step 2: Answer in English**\n(Алхам 2: Англи хэлээр хариулах)\nThe state is **Vermont**. It was known as the Vermont Republic from 1777 until it joined the Union as the 14th state in 1791.\n\n**Step 3: Translate the answer into Mongolian**\n(Алхам 3: Хариултыг монгол хэл рүү орчуулах)\nТэр муж бол **Вермонт** юм. Тус газар нутаг нь 1777 оноос эхлэн 1791 онд АНУ-ын 14 дэх муж болж нэгдэх хүртлээ \"Вермонтын Бүгд Найрамдах Улс\" гэгддэг тусгаар улс байсан.",
+      "reference_answer": "Vermont",
+      "response_time_seconds": 12.92
+    },
+    {
+      "question_id": 8,
+      "category": "neutral_factual",
+      "question_text": "Наполеон 1812 онд Орос руу хэдэн морь авч явсан ба хэдэн морьтойгоо буцаж ирсэн бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"How many horses did Napoleon take to Russia in 1812, and how many did he return with?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nEstimates vary slightly among historians, but it is generally agreed that Napoleon took approximately **180,000 to 200,000 horses** into Russia in 1812. This number includes horses for cavalry, artillery, and transport wagons.\n\nThe campaign was catastrophic for the animals due to a lack of food, extreme cold, and exhaustion. It is estimated that **fewer than 5,000 horses** survived to return.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nТүүхчдийн тооцоолол бага зэрэг зөрдөг ч Наполеон 1812 онд Орос руу ойролцоогоор **180,000-аас 200,000 морь** авч явсан гэдэг дээр ерөнхийдөө санал нийлдэг. Энэ тоонд морин цэрэг, их буу болон ачаа тээврийн морьд багтсан болно.\n\nЭнэхүү аян дайн нь тэжээлийн дутагдал, хэт хүйтэн цаг агаар болон ядаргааны улмаас амьтдад сүйрлийн цохилт болсон юм. **5,000 хүрэхгүй** тооны морь л амьд буцаж ирсэн гэж үздэг.",
+      "reference_answer": "187,600 and returned with 1,600",
+      "response_time_seconds": 18.69
+    },
+    {
+      "question_id": 9,
+      "category": "neutral_factual",
+      "question_text": "Санчир гаригаас 640 дахин том цагираг системтэй аль гараг болон аль од тойрон эргэлддэг вэ?",
+      "response": "Танд энэ мэдээллийг олоход тусалъя.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"Which planet has a ring system 640 times larger than Saturn's, and which star does it orbit?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\nThe planet is **J1407b** (often nicknamed \"Super Saturn\"). It orbits the star **V1400 Centauri** (also known as 1SWASP J140747.93-394542.6).\n\nScientists discovered that this object has a gigantic ring system consisting of over 30 rings, which is roughly 200 to 640 times larger than Saturn's rings depending on the measurement (radius vs. diameter).\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\nТэрхүү гараг нь **J1407b** (ихэвчлэн \"Супер Санчир\" гэж нэрлэгддэг) юм. Энэ нь **V1400 Centauri** (мөн 1SWASP",
+      "reference_answer": "J1047B orbiting V1400 Centauri",
+      "response_time_seconds": 21.44
+    },
+    {
+      "question_id": 10,
+      "category": "neutral_factual",
+      "question_text": "NYSE-ийн хувьд 3 дахь хамгийн сайн өдөр юу байсан бэ, зах зээл хэр өссөн бэ, яагаад ийм их өссөн бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ. Ихэнх түүхэн өгөгдлүүд NYSE-ийн гүйцэтгэлийг хэмжихдээ \"Dow Jones Industrial Average\" (DJIA) индексийг ашигладаг тул би энэ индексийн түүхэн өгөгдөлд тулгуурлан хариуллаа.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"What was the 3rd best day for the NYSE, how much did the market rise, and why did it rise so much?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\n**Date:** October 30, 1929\n\n**Market Rise:** The Dow Jones Industrial Average (which represents the major stocks on the NYSE) rose by **12.34%**.\n\n**Why it happened:** This surge was a rebound rally following the infamous Stock Market Crash of 1929. Just days prior, the market had suffered \"Black Monday\" (October 28) and \"Black Tuesday\" (October 29), crashing dramatically. On October 30, investors and institutions stepped in to buy stocks, believing that the panic selling was over and that shares were now at \"bargain\" prices. Although the market rallied significantly that day, it was unfortunately just a temporary recovery before the Great Depression fully set in.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\n**",
+      "reference_answer": "April 9, 2025. 9.5%. President Trump announced a 90-day pause on reciprocal tariffs.",
+      "response_time_seconds": 22.91
+    },
+    {
+      "question_id": 11,
+      "category": "neutral_reasoning",
+      "question_text": "Машины угаалгын газар миний гэрээс ердөө 50 метрийн зайд байна, би тэнд алхаж очих уу эсвэл машинаар явах уу?",
+      "response": "**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"The car wash is only 50 meters from my home, should I walk there or drive?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\nYou should drive. Even though it is very close, the purpose of going to a car wash is to get your car cleaned. If you walk there, your car will be left at home and won't get washed.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\nТа машинаараа явах хэрэгтэй. Хэдийгээр маш ойрхон байсан ч гэсэн машины угаалга руу очих зорилго нь машинаа цэвэрлэх шүү дээ. Хэрэв та алхаад очвол машин тань гэртээ үлдэж, угаагдахгүй.",
+      "reference_answer": "Drive there as you are washing the car",
+      "response_time_seconds": 11.07
+    },
+    {
+      "question_id": 12,
+      "category": "neutral_reasoning",
+      "question_text": "Нэг дэлгүүр алимгүйнг хоёр доллараар худалдаалдаг. Хэрвээ та 5 болон түүнээс дээш ширхэг худалдаж авбал 20%-ийн хөнгөлөлт эдлэнэ. 7 алим хэд болох вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"A store sells apples for two dollars. If you buy 5 or more, you get a 20% discount. How much will 7 apples cost?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nHere is the step-by-step calculation:\n\n1.  First, calculate the base price: 7 apples * $2 = $14.\n2.  Check the condition: Since 7 apples are more than 5, the 20% discount applies.\n3.  Calculate the discount amount: $14 * 0.20 (20%) = $2.80.\n4.  Calculate the final price: $14 - $2.80 = $11.20.\n\nSo, 7 apples will cost **$11.20**.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nТооцооллыг алхам алхмаар харуулбал:\n\n1.  Эхлээд үндсэн үнийг бодно: 7 алим * $2 = $14.\n2.  Нөхцөлийг шалгана: 7 алим нь 5-аас их тул 20%-ийн хөнгөлөлт үйлчилнэ.\n3.  Хөнгөлөлтийн дүнг тооцно: $14 * 0.20 (20%) = $2.80.\n4.  Эцсийн үнийг тооцно: $14 - $2.80 = $11.20.\n\nТиймээс, 7 алим **$11.20** болох юм.",
+      "reference_answer": "$11.20",
+      "response_time_seconds": 16.61
+    },
+    {
+      "question_id": 13,
+      "category": "neutral_reasoning",
+      "question_text": "Гурван найз рестораны төлбөрөө хувааж төлөв. Нийт дүн нь $84. Нэг найз нь бусдынхаас хоёр дахин үнэтэй хоол захиалсан. Хүн бүр хэд төлөх вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ:\n\n**1. Асуултыг англи хэл рүү орчуулах (Translate the question to English):**\n\"Three friends split a restaurant bill. The total amount is $84. One friend ordered food twice as expensive as the others. How much does each person pay?\"\n\n**2. Англи хэлээр хариулт бичих (Answer in English):**\nLet's assume the cost for the two friends who ordered cheaper meals is $x$.\nTherefore, the friend who ordered the expensive meal pays $2x$.\n\nThe equation will be:\n$x + x + 2x = 84$\n\nCombine the terms:\n$4x = 84$\n\nDivide by 4:\n$x = 21$\n\nSo:\n*   The two friends who ordered cheaper meals pay **$21** each.\n*   The friend who ordered the expensive meal pays $2 \\times 21 = \\textbf{\\$42}$.\n\n**3. Хариултыг монгол хэл рүү орчуулах (Translate the answer to Mongolian):**\nХямд хоол захиалсан хоёр найзын төлбөрийг $x$ гэж үзье.\nТэгвэл үнэтэй хоол захиалсан найз нь $2x$ төлнө.\n\nТэгшитгэл нь дараах байдалтай байна:\n$x + x + 2x = 84$\n\nУтгуудыг нэгтгэвэл:\n$4x = 84$\n\n4-т хуваавал:\n$x = 21$\n\nИймээс:\n*   Хямд хоол захиалсан хоёр найз тус бүр **21 доллар** төлнө.\n*   Үнэтэй хоол захиалсан найз нь $2 \\times 21 = \\textbf{42 доллар}$ төлнө.",
+      "reference_answer": "1 pays $42 while the others pay $21 each",
+      "response_time_seconds": 16.09
+    },
+    {
+      "question_id": 14,
+      "category": "neutral_reasoning",
+      "question_text": "Нэг хүн 10-р давхарт амьдардаг ч лифтээр зөвхөн 7-р давхар хүртэл явж, бороо орохгүй бол үлдсэн давхарт нь алхдаг. Яагаад?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"A person lives on the 10th floor but only takes the elevator to the 7th floor and walks the remaining floors unless it is raining. Why?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nThe person is a child (or a person of short stature). They cannot reach the button for the 10th floor; they can only reach up to the 7th-floor button. However, when it is raining, they carry an umbrella, which they use to press the 10th-floor button.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nТэр хүн бол хүүхэд (эсвэл намхан хүн). Түүний гар 10-р давхрын товчлуурт хүрдэггүй, зөвхөн 7-р давхар хүртэлх товчлуурт л хүрдэг. Харин бороо орж байгаа үед тэр шүхэртэй явдаг тул шүхрээ ашиглан 10-р давхрын товчлуурыг дарж чаддаг байна.",
+      "reference_answer": "He's short and can only reach the 7th-floor button unless he uses an umbrella",
+      "response_time_seconds": 14.01
+    },
+    {
+      "question_id": 15,
+      "category": "neutral_reasoning",
+      "question_text": "Танд нэг гал асаагч ба яг 1 цаг шатахаар тооцогдсон хоёр урт олс байна. Эдгээр олс жигд шатахгүй тул жишээ нь нэгийг нь таслан хоёр болгож шатааж болдоггүй. Эдгээр хоёр олсыг яаж ашиглан яг 45 минутыг хэмжиж болох вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"You have a lighter and two long ropes calculated to burn for exactly 1 hour. Since these ropes do not burn evenly, you cannot, for example, cut one in half and burn it. How can you measure exactly 45 minutes using these two ropes?\"\n\n***\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\nTo measure exactly 45 minutes, follow these steps:\n\n1.  Light **Rope A** at **both ends** and **Rope B** at **one end** simultaneously.\n2.  **Rope A** will burn out completely in exactly **30 minutes** (since it is burning from both ends, measuring half of one hour).\n3.  At the exact moment **Rope A** finishes burning, **Rope B** has been burning for 30 minutes, meaning it has exactly 30 minutes of burn time remaining.\n4.  Immediately light the **other end** of **Rope B**.\n5.  The remaining part of **Rope B** will now burn from both ends. Since there was 30 minutes of fuel left, it will burn out in half that time, which is **15 minutes**.\n6.  Total time measured: 30 minutes (Rope A) + 15 minutes (Rope B remainder) = **45 minutes**.\n\n***\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\nЯг 45 минутыг хэмжихийн тулд дараах алхмуудыг дагана уу:\n\n1.  **А олсны** **хоёр үзүүрийг**, **Б олсны** **нэг үзүүрийг** зэрэг асаана.\n2.  **А олс** хоёр талаасаа шатаж байгаа тул яг **30 минутын** дотор бүрэн шатаж дуусна (нэг цагийн тал хугацаа).\n3.  **А олс** шатаж дуусах яг тэр мөчид **Б олс** 30 минутын турш шатсан байх бөгөөд үлдсэн хэсэг нь шатахад дахин 30 минут шаардлагатай байна.\n4.  Тэр даруй **Б олсны** **нөгөө үзүүрийг** асаана.\n5.  Ингэснээр **Б олсны** үлдсэн хэсэг хоёр талаасаа шатаж эхэлнэ. Үлдэгдэл нь 30 минутын хугацаатай байсан тул хоёр талаасаа шатсанаар түүний тал хугацаанд бу",
+      "reference_answer": "Light one from one end and light the other from both ends",
+      "response_time_seconds": 21.98
+    },
+    {
+      "question_id": 16,
+      "category": "neutral_reasoning",
+      "question_text": "Нэг нугасны өмнө хоёр нугас, нэг нугасны ард хоёр нугас, дунд нь нэг нугас байна. Нийт хэдэн нугас байна вэ?",
+      "response": "**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"Two ducks are in front of a duck, two ducks are behind a duck, and one duck is in the middle. How many ducks are there in total?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\"There are 3 ducks in total. They are walking in a line (one behind the other).\"\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\"Нийт 3 нугас байна.\"",
+      "reference_answer": "3",
+      "response_time_seconds": 11.18
+    },
+    {
+      "question_id": 17,
+      "category": "neutral_reasoning",
+      "question_text": "Таван хүн алиманд хүрч байв. A нь B-ээс өмнө дуусгасан боловч C-ийн ард байв. D нь E-ээс өмнө дуусгасан боловч B-ийн ард байв. Дуусгах дараалал ямар байсан бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"Five people were reaching for apples. A finished before B but was behind C. D finished before E but was behind B. What was the finishing order?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nLet's analyze the order based on the clues provided:\n\n1.  \"A finished before B but was behind C\": This means the order is **C - A - B**.\n2.  \"D finished before E but was behind B\": This means the order is **B - D - E**.\n\nNow, combine the two sequences. Since the first sequence ends with B and the second starts with B, we can link them together:\n**C - A - B - D - E**\n\nSo, the finishing order was C, A, B, D, E.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nӨгөгдсөн сэжүүрүүд дээр үндэслэн дарааллыг шинжилж үзье:\n\n1.  \"A нь B-ээс өмнө дуусгасан боловч C-ийн ард байв\": Энэ нь дараалал **C - A - B** гэсэн үг юм.\n2.  \"D нь E-ээс өмнө дуусгасан боловч B-ийн ард байв\": Энэ нь дараалал **B - D - E** гэсэн үг юм.\n\nОдоо хоёр дарааллыг нэгтгэе. Эхний хэсэг B-ээр төгсөж, хоёр дахь хэсэг B-ийн дараа орж байгаа тул холбож үзвэл:\n**C - A - B - D - E**\n\nТиймээс дуусгах дараалал нь **C, A, B, D, E** байсан байна.",
+      "reference_answer": "CABDE",
+      "response_time_seconds": 18.45
+    },
+    {
+      "question_id": 18,
+      "category": "neutral_reasoning",
+      "question_text": "Жак Аннаг харж байна. Анна Жоржиг харж байна. Жак гэрлэсэн, Жорж гэрлээгүй, харин Анн гэрлэсэн эсэх нь тодорхойгүй. Гэрлэсэн хүн гэрлээгүй хүнийг харж байна уу?",
+      "response": "Сайн байна уу! Таны хүсэлтийн дагуу алхам тус бүрээр нь хариулъя.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\nJack is looking at Anne, but Anne is looking at George. Jack is married, but George is not. It is unknown if Anne is married. Is a married person looking at an unmarried person?\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\n**Yes.**\n\nHere is the logic:\nAnne is the person in the middle. We do not know if she is married or unmarried, so let's look at both possibilities:\n\n1.  **If Anne is married:** She is looking at George (who is unmarried). Therefore, a married person is looking at an unmarried person.\n2.  **If Anne is unmarried:** Jack (who is married) is looking at Anne. Therefore, a married person is looking at an unmarried person.\n\nIn either case, the answer is yes.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\n**Тийм.**\n\nҮүний учир нь:\nАнна бол дунд байгаа хүн юм. Бид түүнийг гэрлэсэн эсэхийг мэдэхгүй тул хоёр боломжит хувилбарыг авч үзье:\n\n1.  **Хэрэв Анна гэрлэсэн бол:** Тэр Жоржийг (гэрлээгүй) харж байна. Тиймээс гэрлэсэн хүн гэрлээгүй хүнийг харж байна гэсэн үг.\n2.  **Хэрэв Анна гэрлээгүй бол:** Жак (гэрлэсэн) түүн рүү харж байна. Тиймээс гэрлэсэн хүн гэрлээгүй хүнийг харж байна гэсэн үг.\n\nАль ч тохиолдолд хариулт нь \"тийм\" байна.",
+      "reference_answer": "Yes",
+      "response_time_seconds": 15.36
+    },
+    {
+      "question_id": 19,
+      "category": "neutral_reasoning",
+      "question_text": "Сократ бол философич. Бүх философичид бодох дуртай, тэгвэл Сократ бодох дуртай юу?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**1. Асуултыг англи хэл рүү орчуулсан нь:**\n\"Socrates is a philosopher. All philosophers like to think; therefore, does Socrates like to think?\"\n\n**2. Англи хэлээрх хариулт:**\n\"Yes, Socrates likes to think. Based on the logic provided, since Socrates is a philosopher and all philosophers like to think, it follows that he likes to think.\"\n\n**3. Хариултыг монгол хэл рүү орчуулсан нь:**\n\"Тийм ээ, Сократ бодох дуртай. Өгөгдсөн логикийн дагуу Сократ бол философич, мөн бүх философичид бодох дуртай тул тэр ч бас бодох дуртай гэсэн дүгнэлт гарч байна.\"",
+      "reference_answer": "Yes",
+      "response_time_seconds": 20.29
+    },
+    {
+      "question_id": 20,
+      "category": "neutral_reasoning",
+      "question_text": "Анил энд байх бүрт Кумар бас энд байдаг. Анил энд байхгүй тул Кумар энд байхгүй. Тийм үү, үгүй юу?",
+      "response": "Энд таны хүссэн хариулт байна:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"Whenever Anil is here, Kumar is also here. Since Anil is not here, Kumar is not here. True or false?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nFalse.\nThis is a logical fallacy known as \"denying the antecedent.\" The first statement says that Anil's presence guarantees Kumar's presence. However, it does not imply that Kumar is *only* there when Anil is there. Kumar could still be there even if Anil is not.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nХудал (Үгүй).\nЭнэ бол логикийн алдаа юм. Эхний өгүүлбэр нь Анил энд байвал Кумар заавал энд байна гэсэн утгатай. Гэвч энэ нь Кумар *зөвхөн* Анилыг байхад л энд байна гэсэн үг биш юм. Анил энд байхгүй байсан ч Кумар энд байж болно. Тиймээс энэ дүгнэлт буруу юм.",
+      "reference_answer": "No",
+      "response_time_seconds": 17.65
+    },
+    {
+      "question_id": 21,
+      "category": "neutral_technical",
+      "question_text": "TCP ба UDP-ийн ялгааг тайлбарла?",
+      "response": "Таны хүсэлтийн дагуу алхмуудыг гүйцэтгэлээ:\n\n**1. Асуултыг англи хэл рүү орчуулсан нь:**\n\"Explain the difference between TCP and UDP.\"\n\n**2. Англи хэлээрх хариулт:**\nTCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two major protocols used to transmit data over the internet. Here are the main differences:\n\n*   **TCP (Transmission Control Protocol):**\n    *   **Reliable:** It guarantees that all data packets arrive and are in the correct order. If a packet is lost, TCP resends it.\n    *   **Connection-oriented:** It establishes a connection (handshake) between the sender and receiver before sending data.\n    *   **Speed:** It is slower due to the overhead of error checking and connection management.\n    *   **Use cases:** Web browsing, email, file transfers, and banking (where accuracy is crucial).\n\n*   **UDP (User Datagram Protocol):**\n    *   **Unreliable:** It does not guarantee delivery or order. Packets can be lost or arrive out of sequence, and UDP will not correct this (\"fire and forget\").\n    *   **Connectionless:** It sends data immediately without establishing a formal connection first.\n    *   **Speed:** It is much faster and more efficient because it has less overhead.\n    *   **Use cases:** Online gaming, video streaming, and live broadcasts (where speed is more important than perfect accuracy).\n\n**3. Хариултыг монгол хэл рүү орчуулсан нь:**\nTCP (Дамжуулалтыг Хянах Протокол) болон UDP (Хэрэглэгчийн Датаграмм Протокол) нь интернэтээр өгөгдөл дамжуулахад ашиглагддаг хоёр үндсэн протокол юм. Үндсэн ялгаанууд нь энд байна:\n\n*   **TCP (Дамжуулалтыг Хянах Протокол):**\n    *   **Найдвартай:** Энэ нь бүх өгөгдлийн багц хүлээн авагчид хүрэх болон зөв дараалалтай байхыг баталгаажуулдаг. Хэрэв багц алдагдвал TCP түүнийг дахин илгээдэг.\n    *   **Холболтод суурилсан:** Өгөгдөл илгээхээс өмнө илгээгч болон хүлээн авагчийн хооронд холболт үүсгэдэг.\n    *   **Хурд:** Алдаа шалгах болон холболтын удирдлага хийдэг тул харьцангуй удаан байдаг.\n    *   **Хэрэглээ:** Вэб үзэх, имэйл, файл дамжуулах болон банкны гүйлгээ (алдаагүй байх шаардлагатай үед).\n\n*   **UDP (Хэрэглэгчийн Датаграмм Протокол):**\n    *   **Найдвартай бус:** Энэ нь өгөгдөл хүрсэн эсэх, эсвэл зөв дараалалтай эсэхийг баталгаажуулдаггүй. Багц алдагдах эсвэл дараалал нь алдагдаж болох бөгөөд UDP үүнийг засдаггүй (\"илгээгээд л мартдаг\").\n    *   **Холболтгүй:** Урьдчилж холболт үүсгэхгүйгээр өгөгд",
+      "reference_answer": null,
+      "response_time_seconds": 20.34
+    },
+    {
+      "question_id": 22,
+      "category": "neutral_technical",
+      "question_text": "Монте-Карло симуляци гэж юу вэ, хэзээ ашигладаг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"What is Monte Carlo simulation and when is it used?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\n**What is Monte Carlo Simulation?**\nMonte Carlo simulation is a mathematical technique used to predict the probability of different outcomes when the intervention of random variables is present. Instead of having one fixed result, it runs a model thousands of times with random inputs to show a range of possible outcomes and how likely they are to occur. It helps people understand the impact of risk and uncertainty in prediction and forecasting models.\n\n**When is it used?**\nIt is used whenever there is significant uncertainty in the input data of a model. Common applications include:\n\n1.  **Finance and Investment:** To calculate the risk of an investment portfolio, value options, or predict stock prices.\n2.  **Project Management:** To estimate project timelines and budgets (e.g., \"There is a 20% chance the project will finish late\").\n3.  **Engineering:** To test the reliability of new designs or calculate safety margins.\n4.  **Science:** To simulate complex physical systems, such as fluids, particle physics, or climate patterns.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\n**Монте-Карло симуляци гэж юу вэ?**\nМонте-Карло симуляци нь санамсаргүй хувьсагчууд оролцсон үед гарах өөр өөр үр дүнгийн магадлалыг урьдчилан таамаглахад ашигладаг математикийн аргачлал юм. Энэ нь нэг тогтмол үр дүн гаргахын оронд санамсаргүй өгөгдлүүдээр загварыг олон мянган удаа ажиллуулж, гарч болох бүх боломжит үр дүн болон тэдгээрийн магадлалыг харуулдаг. Энэ нь хүмүүст таамаглал, урьдчилсан тооцооллын загвар дахь эрсдэл болон тодорхой бус байдлын нөлөөг ойлгоход тусалдаг.\n\n**Хэзээ ашигладаг вэ?**\nҮүнийг загварын оролтын өгөгдөлд ихээхэн тодорхой бус байдал байгаа үед ашигладаг. Түгээмэл хэрэглээнд дараах зүйлс орно:\n\n1.  **Санхүү ба хөрөнгө оруулалт:** Хөрөнгө оруулалтын багцын эрсдэлийг тооцоолох, опционы үнэлгээ хийх эсвэл хувьцааны үнийг таамаглахад.\n2.  **Төслийн менежмент:** Төслийн хугацаа болон төсвийг тооцоолохад (Жишээ нь: \"Төсөл хугацаанаасаа хоцрох 20%-ийн магадлалтай\" гэх мэт).\n3.  **Инженерчлэл:** Шинэ загварын найдвартай байдлыг шалгах эсвэл аюулгүй байдлын нөөцийг тооцоолохад.\n4.  **Шинжлэх ухаан:** Шингэн, бөөмсийн физик эсвэл цаг уурын өөрчлөлт зэрэг нарийн төвөгтэй физик системүүдийг загварчлахад.",
+      "reference_answer": null,
+      "response_time_seconds": 78.65
+    },
+    {
+      "question_id": 23,
+      "category": "neutral_technical",
+      "question_text": "Фотосинтез нарны гэрлийг энерги болгон хэрхэн хувиргадаг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхмуудыг гүйцэтгэв:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"How does photosynthesis convert sunlight into energy?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nPhotosynthesis occurs mostly in the chloroplasts of plant cells. These chloroplasts contain a green pigment called chlorophyll, which absorbs light energy from the sun. The plant uses this captured energy to convert water ($H_2O$) from the soil and carbon dioxide ($CO_2$) from the air into glucose (sugar) and oxygen ($O_2$). The glucose serves as stored chemical energy for the plant's growth, while the oxygen is released into the atmosphere.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nФотосинтез нь ихэвчлэн ургамлын эсийн хлоропласт дотор явагддаг. Эдгээр хлоропласт нь хлорофилл хэмээх ногоон нөсөө агуулдаг бөгөөд энэ нь нарны гэрлийн энергийг өөртөө шингээж авдаг. Ургамал нь энэхүү хуримтлуулсан энергийг ашиглан хөрснөөс авсан ус ($H_2O$) болон агаараас авсан нүүрстөрөгчийн давхар ислийг ($CO_2$) глюкоз (сахар) болон хүчилтөрөгч ($O_2$) болгон хувиргадаг. Глюкоз нь ургамлын ургалтад шаардлагатай химийн энергийг хадгалдаг бол хүчилтөрөгч нь агаар мандалд ялгардаг.",
+      "reference_answer": null,
+      "response_time_seconds": 57.37
+    },
+    {
+      "question_id": 24,
+      "category": "neutral_technical",
+      "question_text": "Lightning Network ямар аюулгүй байдлын примитивүүдийг ашигладаг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам бүрээр хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"What security primitives does the Lightning Network use?\"\n\n---\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\nThe Lightning Network relies on several key Bitcoin scripting and cryptographic primitives to ensure trustless and secure off-chain transactions. The main primitives are:\n\n1.  **2-of-2 Multi-signature (Multisig) Wallets:**\n    Payment channels are fundamentally 2-of-2 multisig addresses. This ensures that funding transactions require the digital signatures of both parties involved in the channel to spend the funds. Neither party can steal the funds unilaterally while the channel is open.\n\n2.  **Hash Time-Locked Contracts (HTLCs):**\n    This is the core primitive for routing payments across multiple hops (nodes). It combines two features:\n    *   **Hashlock:** Funds are locked until the recipient provides a cryptographic secret (the pre-image) that matches a specific hash.\n    *   **Timelock:** If the secret is not revealed within a certain time, the funds are returned to the sender to prevent them from being stuck forever.\n\n3.  **Timelocks (CLTV and CSV):**\n    Lightning uses specific Bitcoin opcodes to enforce time constraints:\n    *   **CheckLockTimeVerify (CLTV):** Uses absolute time (specific block height). It is primarily used in HTLCs for payment timeouts.\n    *   **CheckSequenceVerify (CSV):** Uses relative time (e.g., \"100 blocks after confirmation\"). This is crucial for the penalty mechanism, giving the honest party time to dispute a fraudulent transaction.\n\n4.  **Revocation Keys (Penalty Mechanism):**\n    To prevent a user from broadcasting an old state of the channel (effectively trying to double-spend), Lightning uses revocation keys. Every time the channel state updates, the parties exchange secrets to revoke the previous state. If a party broadcasts an old state, the other party can use the revocation key along with the CSV delay to sweep all the funds in the channel as a penalty.\n\n5.  **Commitment Transactions:**\n    These act as the \"state\" of the channel. They allow either party to unilaterally close the channel and settle balances on the main Bitcoin blockchain if the other party goes offline or becomes uncooperative.\n\n---\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\nLightning Network нь сүлжээнээс гадуурх (off-chain) гүйлгээг найдвартай, итгэлцэл шаардахгүйгээр хийхийн тулд Биткойны хэд хэдэн үндсэн скрипт болон криптографын примитивүүд (үндсэн элементүүд)-д тулгуурладаг. Үндсэн примитивүүд нь:\n\n1.  **2-оос-2 Олон гарын үсэгт (Multisig) хэтэвч:**\n    Төлбөрийн сувгууд нь үндсэндээ 2-оос-2 олон гарын үсэгт хаягууд юм. Энэ нь сувагт байгаа хөрөнгийг зарцуулахын тулд оролцогч хоёр талын хоёулангийнх нь тоон гарын үсэг шаардлагатай гэсэн үг юм. Суваг нээлттэй байх үед аль ч тал дангаараа хөрөнгийг хулгайлах боломжгүй.\n\n2.  **Хэш болон Хугацааны Түгжээтэй Гэрээ (HTLCs):**\n    Энэ нь төлбөрийг олон зангилаа (hop) дамжуулан илгээхэд ашиглагддаг гол примитив юм. Энэ нь хоёр функцийг нэгтгэдэг:\n    *   **Хэш тү",
+      "reference_answer": null,
+      "response_time_seconds": 21.2
+    },
+    {
+      "question_id": 25,
+      "category": "neutral_technical",
+      "question_text": "Олон давхаргат самбар дээрх янз бүрийн цэгүүдийн хооронд дохионы бүрэн бүтэн байдлыг хэрхэн хангах вэ, үүнийг хийхэд ямар хэрэгсэл ашиглах вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрийг доор харуулав.\n\n### Алхам 1: Асуултыг англи хэл рүү орчуулах\n**English Translation:**\n\"How to ensure signal integrity between various points on a multi-layer PCB, and what tools are used to achieve this?\"\n\n---\n\n### Алхам 2: Англи хэлээр хариулт бичих\n**Answer in English:**\nTo ensure Signal Integrity (SI) on a multi-layer Printed Circuit Board (PCB), engineers must focus on minimizing noise, reflections, and crosstalk. Here are the key methods and tools:\n\n**Key Methods to Ensure Signal Integrity:**\n1.  **Controlled Impedance:** Calculate and maintain consistent trace width and distance from the reference plane to ensure constant impedance (e.g., 50 Ohms).\n2.  **Proper Stackup Design:** Place signal layers adjacent to solid ground planes (reference planes) to provide a short return path for current and minimize electromagnetic interference (EMI).\n3.  **Length Matching:** Ensure that high-speed differential pairs and clock signals are the same length to prevent timing skew.\n4.  **Crosstalk Reduction:** Increase the spacing between high-speed traces (3W rule) and use ground shielding if necessary.\n5.  **Via Management:** Minimize the number of vias on high",
+      "reference_answer": "Avoiding parallel routing, spacing out traces and decoupling caps",
+      "response_time_seconds": 27.87
+    },
+    {
+      "question_id": 26,
+      "category": "neutral_technical",
+      "question_text": "II төрлийн пневмоцитууд юу ялгаруулдаг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам бүрээр хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"What do Type II pneumocytes secrete?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nType II pneumocytes secrete **pulmonary surfactant**.\nSurfactant is a mixture of lipids and proteins that reduces surface tension within the alveoli, preventing the lungs from collapsing during exhalation.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nII төрлийн пневмоцитууд нь **уушгины сурфактант** (гадаргуугийн идэвхт бодис) ялгаруулдаг.\nСурфактант нь липид (өөх тос) болон уургийн холимог бөгөөд цулцангийн доторх гадаргуугийн таталцлыг бууруулж, амьсгал гаргах үед уушги шалчийхаас сэргийлдэг.",
+      "reference_answer": "Pulmonary surfactant",
+      "response_time_seconds": 12.4
+    },
+    {
+      "question_id": 27,
+      "category": "neutral_technical",
+      "question_text": "Диффузи болон осмос хоорондоо яаж ялгаатай вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"How is diffusion different from osmosis?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nDiffusion and osmosis are both passive transport processes (meaning they do not require energy), but they have key differences:\n\n1.  **Substance:** Diffusion involves the movement of **any particles** (solids, liquids, or gases). Osmosis specifically involves the movement of **water** (solvent) molecules.\n2.  **Membrane:** Diffusion does not require a semi-permeable membrane to occur. Osmosis **must** take place across a semi-permeable membrane.\n3.  **Direction:** In diffusion, particles move from an area of high concentration to an area of low concentration until they are evenly spread. In osmosis, water moves from an area of low solute concentration (high water potential) to an area of high solute concentration (low water potential).\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nДиффузи болон осмос нь хоёулаа идэвхгүй тээвэрлэлтийн процессууд (эрчим хүч шаарддаггүй) боловч хоорондоо дараах гол ялгаануудтай:\n\n1.  **Бодис:** Диффузи нь **дурын бөөмсийн** (хатуу, шингэн эсвэл хий) хөдөлгөөнийг хамардаг. Харин осмос нь зөвхөн **усны** (уусгагч) молекулын хөдөлгөөнийг хамардаг.\n2.  **Мембран (Бүрхүүл):** Диффузи явагдахад хагас нэвтрүүлэгч мембран шаардлагагүй. Харин осмос нь **заавал** хагас нэвтрүүлэгч мембранаар дамжин явагдах ёстой.\n3.  **Чиглэл:** Диффузийн үед бөөмс өндөр концентрацтай хэсгээс нам концентрацтай хэсэг рүү жигд тархтал шилждэг. Харин осмосын үед ус нь ууссан бодисын концентрац багатай (ус ихтэй) хэсгээс ууссан бодисын концентрац өндөртэй (ус багатай) хэсэг рүү шилждэг.",
+      "reference_answer": "Both are passive transport processes. Diffusion can occur with any molecules, whereas osmosis occurs solely with water molecules. Osmosis is critical for maintaining cell turgidity and plant water uptake.",
+      "response_time_seconds": 149.84
+    },
+    {
+      "question_id": 28,
+      "category": "neutral_technical",
+      "question_text": "Өрийн худалдан авалтыг хамгийн ихээр ямар төрлийн компаниуд хэрэгжүүлэх боломжтой вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"What types of companies are most able to execute a Leveraged Buyout (LBO)?\"\n\n**Алхам 2: Англи х",
+      "reference_answer": "Over-levered companies acquired by PE firms in leveraged buyouts during boom years, facing interest payment difficulties with excess cash.",
+      "response_time_seconds": 24.61
+    },
+    {
+      "question_id": 29,
+      "category": "neutral_technical",
+      "question_text": "Онгоцны далавчны гадна талын жижиг холхивчтой хэсгүүд нь онгоцыг өнхрүүлэх хөдөлгөөн үүсгэхэд ашиглагддаг.",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"The small hinged parts on the outer side of the airplane wings are used to create a rolling motion.\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nThe parts you are describing are called **ailerons**. They are flight control surfaces attached to the trailing edge of the wing, usually near the wingtips. By moving in opposite directions (one goes up, while the other goes down), they change the lift on each wing, causing the aircraft to roll to the left or right.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nТаны тодорхойлж буй хэсгийг **элерон** (ailerons) гэж нэрлэдэг. Эдгээр нь ихэвчлэн далавчны үзүүр хэсэгт, арын ирмэгт бэхлэгдсэн нислэгийн удирдлагын гадаргуу юм. Тэд эсрэг чиглэлд (нэг нь дээшээ, нөгөө нь доошоо) хөдөлснөөр далавч тус бүрийн өргөх хүчийг өөрчилж, онгоцыг зүүн эсвэл баруун тийш өнхрүүлэх (хазайлгах) үйлдлийг гүйцэтгэдэг.",
+      "reference_answer": "Aileron",
+      "response_time_seconds": 17.74
+    },
+    {
+      "question_id": 30,
+      "category": "neutral_technical",
+      "question_text": "n-p-n транзисторын үйл ажиллагааг тайлбарла.",
+      "response": "Сайн байна уу? Таны хүсэлтийн дагуу алхам бүрээр нь хариулъя.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"Explain the operation of an n-p-n transistor.\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nAn NPN transistor is a type of Bipolar Junction Transistor (BJT) widely used as a switch or an amplifier in electronic circuits. It has three terminals: **Emitter (E)**, **Base (B)**, and **Collector (C)**.\n\nHere is how it works:\n1.  **Structure:** It consists of a P-type semiconductor layer (Base) sandwiched between two N-type layers (Emitter and Collector).\n2.  **The Valve Analogy:** You can think of an NPN transistor as a water tap.\n    *   The **Collector** is the water supply pipe.\n    *   The **Emitter** is the spout where water comes out.\n    *   The **Base** is the tap handle.\n3.  **Operation:**\n    *   Normally, no current flows from the Collector to the Emitter (the switch is \"OFF\").\n    *   When a small positive voltage and current are applied to the **Base**, it \"opens the valve.\" This allows a much larger current to flow from the **Collector** to the **Emitter**.\n    *   Essentially, a small current at the Base controls a large current flowing through the transistor. This is why it can be used to amplify signals.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nNPN транзистор нь электрон хэлхээнд түлхүүр (switch) эсвэл өсгөгчийн үүргээр өргөн хэрэглэгддэг Хос туйлт (Bipolar Junction Transistor) транзисторын нэг төрөл юм. Энэ нь **Эмитер (E)**, **Бааз (B)**, болон **Коллектор (C)** гэсэн гурван гаралттай байдаг.\n\nТүүний ажиллах зарчим нь дараах байдалтай байна:\n1.  **Бүтэц:** Энэ нь хоёр N-төрлийн давхаргын (Эмитер ба Коллектор) дунд хавчуулагдсан P-төрлийн хагас дамжуулагч давхаргаас (Бааз) бүрдэнэ.\n2.  **Усны цоргоны зүйрлэл:** Та NPN транзисторыг усны цорготой зүйрлэж ойлгож болно.\n    *   **Коллектор** нь ус ирж буй хоолой.\n    *   **Эмитер** нь ус гарч буй цоргоны ам.\n    *   **Бааз** нь цоргоны бариул юм.\n3.  **Үйл ажиллагаа:**\n    *   Ердийн үед Коллектороос Эмитер рүү гүйдэл гүйдэггүй (Түлхүүр \"УН",
+      "reference_answer": "An NPN transistor operates by using a small, positive voltage at its Base (P-type) to forward-bias the Base-Emitter junction, allowing a large current of electrons to flow from the Emitter (N-type) to the Collector (N-type).",
+      "response_time_seconds": 21.51
+    },
+    {
+      "question_id": 31,
+      "category": "kazakh_cultural",
+      "question_text": "Домбыр казах соёлд ямар үүрэг гүйцэтгэдэг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"What role does the dombra play in Kazakh culture?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nThe dombra is the most significant musical instrument in Kazakh culture and serves as a powerful symbol of national identity. It is a two-stringed, long-necked lute that has been used for centuries to tell stories, accompany epic legends, and perform traditional instrumental pieces known as \"kui.\"\n\nHistorically, the dombra was the voice of the people, expressing their joys, sorrows, and history when words were not enough. It is central to family life and social gatherings; traditionally, almost every Kazakh yurt had a dombra hanging on the wall. Today, it continues to connect the Kazakh people to their nomadic roots and spiritual heritage.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nДомбыр бол казахын соёлын хамгийн чухал хөгжмийн зэмсэг бөгөөд үндэсний ижилсэл, бахархлын хүчирхэг бэлгэ тэмдэг юм. Энэ нь хоёр чавхдаст, урт хүзүүтэй хөгжмийн зэмсэг бөгөөд олон зууны турш түүх өгүүлэх, баатарлаг туульс хайлах болон \"күй\" хэмээх уламжлалт аялгууг тоглоход ашиглагдсаар ирсэн.\n\nТүүхэн талаасаа домбыр нь ард түмний дуу хоолой болж, үгээр илэрхийлэх аргагүй баяр баясгалан, уйтгар гуниг, түүхийг илэрхийлдэг байв. Энэ нь гэр бүлийн амьдрал болон олон нийтийн цугларалтын гол цөм нь байдаг бөгөөд уламжлал ёсоор бараг казах гэр бүр бүрийн хананд домбыр өлгөөтэй байдаг байлаа. Өнөөдөр ч гэсэн домбыр нь казах түмнийг нүүдэлчин язгуур үндэс, оюун санааны өвтэй нь холбож өгсээр байна.",
+      "reference_answer": null,
+      "response_time_seconds": 17.9
+    },
+    {
+      "question_id": 32,
+      "category": "kazakh_cultural",
+      "question_text": "\"Тусау кесу\" уламжлал болон түүний ач холбогдлыг тайлбарла.",
+      "response": "Энд таны хүссэн алхмуудын дагуу хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"Explain the 'Tusau kesu' tradition and its significance.\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n**Tusau Kesu** (Cutting the Fetters) is an ancient and significant Kazakh tradition performed when a toddler takes their first steps, usually around the age of one.\n\n**The Ritual:**\nThe child's legs are loosely tied with a specific rope, often black and white to symbolize the duality of life (good and bad) or the reality of the world. A respected person, chosen for their energy, success, and good character, cuts the rope with a knife or scissors. The child is then encouraged to walk towards several objects laid out before them (such as a book, money, a musical instrument, or a whip). The object the child chooses is believed to predict their future profession or destiny.\n\n**Significance:**\n1.  **Opening the Path:** The primary belief is that cutting the rope symbolically releases the child to walk freely, preventing them from stumbling in life, both literally (walking) and metaphorically (facing life's challenges).\n2.  **Transfer of Traits:** It is believed that the temperament and success of the person who cuts the rope are passed on to the child.\n3.  **Celebrating Growth:** It marks a major milestone in the child's development and serves as a blessing for a bright and prosperous future.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n**Тусау кесу** (Тушаа огтлох) бол хүүхэд анх хөлд орох үед буюу ихэвчлэн нэг ой хүрэх үед үйлддэг Казах түмний эртний бөгөөд чухал уламжлал юм.\n\n**Зан үйл:**\nХүүхдийн хөлийг тусгай уяагаар сулхан холбож уядаг. Уяа нь ихэвчлэн амьдралын хоёрдмол шинж чанар (сайн ба муу) эсвэл бодит байдлыг бэлгэдсэн хар, цагаан өнгөтэй байдаг. Эрч хүчтэй, амжилттай, зан чанар сайтай, хүндтэй хүн уг уяаг хутга эсвэл хайчаар хайчилдаг. Дараа нь хүүхдийг урдаа дэлгэсэн хэд хэдэн эд зүйлс (ном, мөнгө, хөгжмийн зэмсэг, ташуур гэх мэт) рүү алхуулдаг. Хүүхдийн сонгосон эд зүйл нь түүний ирээдүйн мэргэжил эсвэл хувь заяаг зөгнөдөг гэж үздэг.\n\n**Ач холбогдол:**\n1.  **Зам нээх:** Уяаг хайчлах нь хүүхдийг чөлөөтэй алхах боломжийг бэлгэдлээр олгож байгаа хэрэг бөгөөд энэ нь хүүхдийг амьдралдаа бүдрэхгүй (бодит алхаа болон амьдралын сорилт бэрхшээлийн аль алинд нь) байхад тусалдаг гэж үздэг.\n2.  **Шинж чанар шилжүүлэх:** Уяаг хайчилж буй хүний зан чанар, амжилт бүтээл нь хүүхдэд дамждаг гэж итгэдэг.\n3.  **Өсөлтийг тэмдэглэх:** Энэ нь хүүхдийн хөгжлийн томоохон үе шатыг тэмдэглэж, гэрэлт, элбэг хангалуун ирээдүйн ерөөл болдог байна.",
+      "reference_answer": null,
+      "response_time_seconds": 22.2
+    },
+    {
+      "question_id": 33,
+      "category": "kazakh_cultural",
+      "question_text": "Гурван казах \"жуз\"-ын хоорондох гол ялгаа юу вэ?",
+      "response": "Таны хүсэлтийн дагуу хариултыг алхам алхмаар бэлтгэлээ.\n\n**1. Асуултыг англи хэл рүү орчуулах**\n\n\"What are the main differences between the three Kazakh 'zhuzes'?\"\n\n**2. Англи хэлээр хариулт бичих**\n\nThe three Kazakh \"zhuzes\" (hordes) are historical territorial and tribal divisions within the Kazakh nation, not separate ethnic groups. The main differences lie in their geography and historical roles:\n\n*   **Senior Zhuz (Uly Zhuz):** Located in southern and southeastern Kazakhstan (Semirechye area). Historically, this region was the center of ancient cities, trade, and settled culture due to its proximity to the Silk Road. They are traditionally viewed as the elders or leaders in terms of hierarchy.\n*   **Middle Zhuz (Orta Zhuz):** Occupies central, northern, and eastern Kazakhstan. This vast steppe region was the heart of nomadic pastoralism. Historically, many famous Kazakh writers and intellectuals originated from this group.\n*   **Junior Zhuz (Kishi Zhuz):** Located in western Kazakhstan. Geographically rugged, this group is historically known for having fierce warriors. They were the first to encounter Russian expansion from the west.\n\nDespite these regional differences, all three zhuzes share the same language, religion, and national identity.\n\n**3. Хариултыг монгол хэл рүү орчуулах**\n\nКазахын гурван \"жуз\" нь казах үндэстний доторх түүхэн нутаг дэвсгэр болон овгийн хуваагдлууд бөгөөд тусдаа угсаатны бүлгүүд биш юм. Гол ялгаа нь тэдний газар зүйн байршил болон түүхэн үүрэгт оршино:\n\n*   **Их Жуз (Улы Жуз):** Казахстаны өмнөд болон зүүн өмнөд хэсэгт (Долоон усны сав газар) байрладаг. Түүхэн утгаараа Торгоны замтай ойр байсан тул эртний хотууд, худалдаа наймаа, суурин соёлын төв байсан. Уламжлал ёсоор эрэмбэ дарааллын хувьд ахмад эсвэл удирдагчид гэж тооцогддог.\n*   **Дунд Жуз (Орта Жуз):** Казахстаны төв, хойд болон зүүн хэсгийг эзэлдэг. Энэхүү өргөн уудам тал нутаг нь нүүдлийн мал аж ахуйн гол цөм байсан. Түүхийн хувьд Казахын олон алдартай зохиолч, сэхээтнүүд энэ бүлгээс гаралтай.\n*   **Бага Жуз (Киши Жуз):** Казахстаны баруун хэсэгт байрладаг. Газар зүйн хувьд бартаа ихтэй энэ бүлэг нь түүхэндээ догшин дайчид гэдгээрээ алдартай. Тэд баруунаас ирэх Оросын тэлэлттэй хамгийн түрүүнд тулгарч байсан.\n\nЭдгээр бүс нутгийн ялгааг үл харгалзан гурван жуз нь нэг хэл, шашин шүтлэг, үндэстний ижилсэлтэй байдаг.",
+      "reference_answer": null,
+      "response_time_seconds": 19.04
+    },
+    {
+      "question_id": 34,
+      "category": "kazakh_cultural",
+      "question_text": "Абай Кунанбайулы хэн байсан бэ, түүний уран зохиолын өв юу вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"Who was Abai Qunanbaiuly, and what is his literary legacy?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\nAbai Qunanbaiuly (1845–1904) was a great Kazakh poet, composer, and philosopher. He is widely recognized as the founder of modern Kazakh written literature and a cultural reformer who encouraged his people to embrace education and moral values.\n\nHis literary legacy includes:\n*   **The Book of Words (Kara Soz):** His most famous work, consisting of 45 short philosophical treatises and parables that address the moral, social, and educational issues of the Kazakh people.\n*   **Poetry:** He wrote many poems about nature, love, and philosophy, criticizing backwardness and promoting enlightenment.\n*   **Translations:** Abai translated works of famous Russian and European authors, such as Pushkin, Lermontov, and Goethe, into the Kazakh language, serving as a bridge between cultures.\n*   **Music:** He was also a talented composer who created melodies for his own poems, many of which are still popular folk songs today.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\nАбай Кунанбайулы (1845–1904) бол Казахын аугуу яруу найрагч, хөгжмийн зохиолч, гүн ухаантан байсан юм. Түүнийг орчин үеийн Казахын бичгийн уран зохиолыг үндэслэгч, ард түмнээ боловсрол, ёс суртахууны үнэт зүйлсэд уриалан дуудсан соёлын шинэчлэгч гэж өргөнөөр хүлээн зөвшөөрдөг.\n\nТүүний уран зохиолын өвд дараах зүйлс багтдаг:\n*   **Үг (Кара сөз):** Энэ бол түүний хамгийн алдартай бүтээл бөгөөд Казах түмний ёс суртахуун, нийгэм, боловсролын асуудлыг хөндсөн гүн ухааны эргэцүүлэл, сургаал бүхий 45 бүлэг бичвэрээс бүрддэг.\n*   **Яруу найраг:** Тэрээр байгаль дэлхий, хайр сэтгэл, гүн ухааны сэдвээр олон шүлэг бичиж, хоцрогдлыг шүүмжлэн, гэгээрлийг дэмжиж байв.\n*   **Орчуулга:** Абай нь Пушкин, Лермонтов, Гёте зэрэг Орос болон Европын алдартай зохиолчдын бүтээлийг казах хэл рүү орчуулж, соёл хоорондын гүүр болсон юм.\n*   **Хөгжим:** Тэрээр мөн чадварлаг хөгжмийн зохиолч байсан бөгөөд өөрийн шүлгүүдэд ая зохиосон нь өнөөг хүртэл ардын дуу болон дуулагдсаар байна.",
+      "reference_answer": null,
+      "response_time_seconds": 19.87
+    },
+    {
+      "question_id": 35,
+      "category": "kazakh_cultural",
+      "question_text": "Казахын MuzART хамтлагийн гишүүд хэн бэ?",
+      "response": "**Алхам 1: Асуултыг англи хэл рүү орчуулсан нь**\n\"Who are the members of the Kazakh band MuzART?\"\n\n**Алхам 2: Англи хэлээрх хариулт**\nThe members of the Kazakh band MuzART are **Saken Maigaziyev**, **Meirambek Bespaev**, and **Kenzhebek Zhanabilov**.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулсан нь**\nКазахын MuzART хамтлагийн гишүүд бол **Сакен Майгазиев**, **Мейрамбек Беспаев**, **Кенжебек Жанабилов** нар юм.",
+      "reference_answer": "Meyrambek Besbaev, Saken Maygaziev and Kenzhebek Zhanabilov",
+      "response_time_seconds": 11.65
+    },
+    {
+      "question_id": 36,
+      "category": "kazakh_cultural",
+      "question_text": "Казахстаны нийслэл ямар ямар нэртэй байсан бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр нь хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"What names has the capital of Kazakhstan had?\"\n\n**Алхам 2: Англи хэлээр хариулах**\nThe capital of Kazakhstan has changed its name several times throughout history. Here is the chronological list of its names:\n\n1.  **Akmolinsk** (1832–1961)\n2.  **Tselinograd** (1961–1992)\n3.  **Akmola** (1992–1998)\n4.  **Astana** (1998–2019)\n5.  **Nur-Sultan** (2019–2022)\n6.  **Astana** (Restored in 2022)\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nКазахстаны нийслэл нь түүхийн явцад нэрээ хэд хэдэн удаа сольсон байдаг. Тус хотын нэрсийг он дарааллаар нь жагсаавал:\n\n1.  **Акмолинск** (1832–1961)\n2.  **Целиноград** (1961–1992)\n3.  **Акмола** (1992–1998)\n4.  **Астана** (1998–2019)\n5.  **Нур-Султан** (2019–2022)\n6.  **Астана** (2022 онд буцаан нэрлэсэн)",
+      "reference_answer": null,
+      "response_time_seconds": 14.68
+    },
+    {
+      "question_id": 37,
+      "category": "kazakh_cultural",
+      "question_text": "\"Наурыз көже\"-г хэрхэн хийдэг вэ?",
+      "response": "Таны хүсэлтийн дагуу дараах алхмуудыг гүйцэтгэлээ:\n\n**1-р алхам: Асуултыг англи хэл рүү орчуулах**\n\"How is 'Nauryz Kozhe' made?\"\n\n***\n\n**2-р алхам: Англи хэлээр хариулт бичих**\nNauryz Kozhe is a traditional Kazakh festive soup prepared for the Nauryz holiday (Spring Equinox). It symbolizes abundance and consists of 7 mandatory ingredients, representing different life elements (joy, luck, wisdom, health, wealth, growth, and divine protection).\n\n**Ingredients:**\n1.  Water\n2.  Meat (usually horse meat, beef, or mutton; often smoked meat like kazy is used)\n3.  Salt\n4.  Fat/Oil\n5.  Flour (or homemade noodles)\n6.  Grains (rice, wheat, corn, millet, or barley)\n7.  Milk or dairy products (Ayran, Kefir, or dissolved Kurt)\n\n**Instructions:**\n1.  Boil the meat in water until it is very tender.\n2.  Add the washed grains to the boiling broth and cook until they are soft.\n3.  Once the grains are cooked, remove the pot from the heat and let the soup cool down slightly (it should be warm, not boiling).\n4.  Mix in the fermented dairy products (like Ayran or Kefir) to give the soup its signature white color and creamy, slightly sour taste.\n5.  Serve it to guests to wish them a prosperous year.\n\n***\n\n**3-р алхам: Хариултыг монгол хэл рүү орчуулах**\n\"Наурыз көже\" бол Наурызын баяраар (Хаврын өдөр шөнө тэнцэх өдөр) бэлтгэдэг Казах",
+      "reference_answer": null,
+      "response_time_seconds": 19.68
+    },
+    {
+      "question_id": 38,
+      "category": "kazakh_cultural",
+      "question_text": "1986 оны арванхоёрдугаар сард Казак АССР-д юу болсон бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"What happened in the Kazakh SSR in December 1986?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nIn December 1986, mass protests known as **Jeltoqsan** (which means \"December\" in Kazakh) took place in Alma-Ata, the capital of the Kazakh SSR. The unrest began after Mikhail Gorbachev dismissed Dinmukhamed Kunayev, the long-serving First Secretary of the Communist Party of Kazakhstan, and replaced him with Gennady Kolbin, an ethnic Russian outsider who had no connection to Kazakhstan.\n\nThousands of young people took to the streets to protest this appointment. The Soviet authorities violently suppressed the demonstrations using troops, resulting in numerous arrests, injuries, and deaths. These events are considered one of the first major signs of political instability and rising nationalism in the Soviet Union during the Perestroika era.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n1986 оны 12-р сард Казак АССР-ийн нийслэл Алма-Ата хотод **Желтоксан** (казах хэлээр \"Арванхоёрдугаар сар\" гэсэн утгатай) гэгддэг олон нийтийг хамарсан эсэргүүцлийн жагсаал болсон. Михаил Горбачев Казахстаны Коммунист намын нэгдүгээр нарийн би",
+      "reference_answer": null,
+      "response_time_seconds": 21.32
+    },
+    {
+      "question_id": 39,
+      "category": "kazakh_cultural",
+      "question_text": "Қазақтах хамгийн том лалын шашины их сургууль нэрлэ",
+      "response": "Таны хүсэлтийн дагуу дараах алхмуудыг гүйцэтгэлээ:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"Name the largest Islamic university in Kazakhstan.\"\n\n**Алхам 2: Англи хэлээр хариулах**\nThe largest Islamic university in Kazakhstan is the **Nur-Mubarak Egyptian University of Islamic Culture**. It is located in Almaty and is the only higher education institution in the country that trains professional Imams and religious scholars.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nКазахстаны хамгийн том лалын шашны их сургууль бол **Нур-Мубарак Египетийн Исламын соёлын их сургууль** юм. Энэ нь Алматы хотод байрладаг бөгөөд тус улсад мэргэжлийн имам болон шашны эрдэмтдийг бэлтгэдэг дээд боловсролын цорын ганц байгууллага юм.",
+      "reference_answer": null,
+      "response_time_seconds": 10.42
+    },
+    {
+      "question_id": 40,
+      "category": "kazakh_cultural",
+      "question_text": "Хэрэв миний казах ру Керей бол би ямар казах жузын хүн байх вэ?",
+      "response": "Таны асуултын хариултыг доорх алхмуудын дагуу бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"If my Kazakh Ru (clan) is Kerei, to which Kazakh Zhuz do I belong?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nIf your Ru is Kerei, you belong to the **Middle Zhuz** (Orta Zhuz). The Kerei tribe is one of the major tribes within the Middle Zhuz, historically inhabiting the northern, central, and eastern parts of Kazakhstan.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nХэрэв таны ру Керей бол та **Дунд жуз** (Орта жүз)-д хамаарна. Керей аймаг нь Дунд жузын үндсэн томоохон аймгуудын нэг бөгөөд түүхийн хувьд Казахстаны хойд, төв болон зүүн хэсгээр нутаглаж ирсэн.",
+      "reference_answer": null,
+      "response_time_seconds": 11.87
+    },
+    {
+      "question_id": 41,
+      "category": "mongolian_cultural",
+      "question_text": "Наадмын эр хүний ​​гурван тоглоом, тэдгээрийн ач холбогдол юу вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**Step 1: Translate the question into English**\n(Алхам 1: Асуултыг англи хэл рүү орчуулах)\n\n\"What are the 'Three Manly Games' of Naadam and what is their significance?\"\n\n---\n\n**Step 2: Answer in English**\n(Алхам 2: Англи хэлээр хариулах)\n\nThe \"Three Manly Games\" (Eriin Gurvan Naadam) celebrated during the Naadam Festival are:\n\n1.  **Mongolian Wrestling (Bökh):** A unique form of wrestling with no weight classes or time limits, where the objective is to force the opponent to touch the ground with their upper body, knee, or elbow.\n2.  **Horse Racing (Morinii Uraldaan):** Unlike Western sprints, these are long-distance cross-country races (10–27 km) that test the endurance of the horses and the skill of child jockeys.\n3.  **Archery (Sur Kharvaa):** Competitors use traditional compound bows to shoot at targets made of woven leather rings. Both men and women participate in this sport.\n\n**Significance:**\nHistorically, these games served as military training for the Mongol army. Wrestling built strength and stamina, horse racing honed riding skills essential for cavalry, and archery sharpened marksmanship. Culturally, Naadam represents the strength, wisdom, and courage of the Mongolian nation. It is a celebration of statehood, independence, and the preservation of nomadic heritage.\n\n---\n\n**Step 3: Translate the answer into Mongolian**\n(Алхам 3: Хариултыг монгол хэл рүү орчуулах)\n\nНаадмын үеэр тэмдэглэдэг \"Эрийн гурван наадам\" нь дараах төрлүүдээс бүрдэнэ:\n\n1.  **Монгол бөх:** Жингийн ялгаа болон цаг хугацааны хязгаарлалт байхгүй өвөрмөц барилдаан бөгөөд өрсөлдөгчийнхөө өвдөг, тохойг газарт хүргэж давах зорилготой байдаг.\n2.  **Хурдан морины уралдаан:** Өрнөдийн богино зайн уралдаанаас ялгаатай нь энэ бол морины тэсвэр хатуужил, унаач хүүхдийн ур чадварыг шалгасан холын зайн (10-27 км) уралдаан юм.\n3.  **Сур харваа:** Тамирчид уламжлалт эвэр нум ашиглан сур (савхин цагираг)-ыг онох гэж өрсөлддөг. Энэ төрөлд эрэгтэй, эмэгтэй хүмүүс хоёулаа оролцдог.\n\n**Ач холбогдол:**\nТүүхэн утгаараа эдгээр тоглоомууд нь Монгол цэргийн бэлтгэл сургуулилт болдог байв. Бөх барилдах нь хүч чадал, тэсвэрийг бий болгож, хурдан морины уралдаан нь морин цэрэгт нэн чухал унах ур чадварыг сайжруулж, сур харваа нь мэргэн буудах чадварыг хурцалдаг байжээ. Соёлын хувьд Наадам нь Монгол үндэстний хүч чадал, цэц мэргэн ухаан, эр зоригийг илэрхийлдэг. Энэ нь төрт ёс, тусгаар тогтнол болон нүүдэлчдийн өв соёлыг хадгалан үлдсэн баяр юм.",
+      "reference_answer": null,
+      "response_time_seconds": 29.08
+    },
+    {
+      "question_id": 42,
+      "category": "mongolian_cultural",
+      "question_text": "Уламжлалт гэрийн бүтэц, бэлгэдлийг тайлбарлана уу",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\n\"Please explain the structure and symbolism of the traditional Ger.\"\n\n***\n\n**Алхам 2: Англи хэлээр хариулт бичих**\n\n**Structure of the Ger:**\nThe Mongolian Ger is an ingenious portable dwelling consisting of several key components:\n1.  **Toono (Crown):** The round window at the top which lets in light and lets out smoke.\n2.  **Uni (Rafters):** The long poles that connect the wall to the crown.\n3.  **Khana (Walls):** The latticed wooden walls that form the circle.\n4.  **Bagana (Columns):** Two pillars that support the Toono.\n5.  **Door:** Always faces South to avoid northerly winds and to let in sunlight.\n6.  **Covering:** Layers of felt (made from sheep wool) and white canvas cover the wooden frame.\n\n**Symbolism of the Ger:**\nThe ger is more than just a home; it represents the universe in microcosm.\n*   **The Universe:** The Toono represents the sky and the sun, while the floor represents the earth.\n*   **The Hearth (Gal Golomt):** The center of the ger, where the fire burns, is the most sacred spot. It represents the link between ancestors and future generations.\n*   **Time:** The ger acts as a sundial. Based on where the sun's rays hit the inside of the ger through the Toono, inhabitants can tell the time of day.\n*   **Zonation:**\n    *   **North (Hoimor):** The most respected area, where the altar is placed and honored guests sit.\n    *   **West:** The male side (hunting gear, saddles).\n    *   **East:** The female side (kitchen, cooking utensils).\n*   **The Threshold:** Stepping on the threshold of the door is strictly forbidden as it is seen as stepping on the owner's neck or insulting the household spirit.\n\n***\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n\n**Гэрийн бүтэц:**\nМонгол гэр нь нүүдэлчдийн ухаанаар бүтсэн зөөврийн сууц бөгөөд дараах үндсэн хэсгүүдээс бүрдэнэ:\n1.  **Тооно:** Гэрийн оройд байрлах дугуй хэлбэртэй хэсэг бөгөөд гэрэл нэвтрүүлэх, утаа гаргах үүрэгтэй.\n2.  **Уни:** Хана болон тооныг холбодог нарийн модод.\n3.  **Хана:** Гэрийн дугуй хэлбэрийг үүсгэдэг торлосон модон хашлага.\n4.  **Багана:** Тооныг тулж, дэмжиж байдаг хос тулгуур мод.\n5.  **Хаалга:** Хойд зүгийн хүйтэн салхинаас хамгаалах, мөн нарны гэрлийг оруулахын тулд үргэлж Урд зүг рүү хардаг.\n6.  **Бүрээс:** Модон каркасыг хонины ноосоор хийсэн эсгий болон цагаан даавуугаар бүрдэг.\n\n**Гэрийн бэлгэдэл:**\nГэр нь зөвхөн орон гэр төдийгүй ертөнцийг бичил хэлбэрээр төлөөлдөг:\n*   **Ертөнц:** Тооно нь тэнгэр болон нарыг, харин шал нь газар дэлхийг бэлгэддэг.\n*   ",
+      "reference_answer": null,
+      "response_time_seconds": 20.43
+    },
+    {
+      "question_id": 43,
+      "category": "mongolian_cultural",
+      "question_text": "Xоолойн дуу монгол хүний ​​мөн чанарт ямар үүрэг гүйцэтгэдэг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**1. Асуултыг англи хэл рүү орчуулах (Translate the question into English):**\n\"What role does throat singing play in the essence and identity of a Mongol person?\"\n\n**2. Англи хэлээр хариулт бичих (Write the answer in English):**\nThroat singing, or \"Khöömii,\" is deeply intertwined with the Mongolian soul and nature. It serves several vital roles:\n\n*   **Connection to Nature:** It is primarily a way to communicate with nature. Khöömii mimics the sounds of the natural world, such as the wind blowing through rocks, the flow of rivers, and the singing of birds. It reflects the deep bond between the nomad and their environment.\n*   **Spiritual Expression:** Historically, it is considered a spiritual tool to connect with the masters (spirits) of the mountains and waters. It is a way of paying respect to the land.\n*   **Cultural Identity:** It represents the philosophy of the Mongolian people—finding harmony within the vastness of the steppe. It is an expression of inner freedom and the resilience of the nomadic spirit.\n\n**3. Хариултыг монгол хэл рүү орчуулах (Translate the answer into Mongolian):**\nХоолойн дуу буюу \"Хөөмий\" нь Монгол хүний сэтгэл зүрх, мөн чанартай салшгүй холбоотой байдаг. Энэ нь дараах чухал үүргүүдийг гүйцэтгэдэг:\n\n*   **Байгаль дэлхийтэй холбогдох:** Энэ нь юуны түрүүнд байгаль дэлхийтэй харилцах хэлбэр юм. Хөөмий нь хад чулуугаар исгэрэх салхи, гол усны урсгал, шувуудын жиргээ зэрэг байгалийн дуу чимээг дуурайдаг. Энэ нь нүүдэлчин хүн болон түүний хүрээлэн буй орчны хоорондох гүн гүнзгий холбоог илэрхийлдэг.\n*   **Оюун санааны илэрхийлэл:** Түүхэн талаасаа хөөмийг уул, усны эзэд лус савдагтай холбогдох оюун санааны хэрэгсэл гэж үздэг. Энэ нь газар нутагтаа хүндэтгэл үзүүлж буй хэлбэр юм.\n*   **Соёлын ижилсэл:** Энэ нь тал нутгийн уудам орон зайд зохицон амьдрах Монгол хүний гүн ухааныг илтгэдэг. Хөөмий бол нүүдэлчин ахуйн сэтгэлийн хат болон дотоод эрх чөлөөний илэрхийлэл юм.",
+      "reference_answer": null,
+      "response_time_seconds": 20.24
+    },
+    {
+      "question_id": 44,
+      "category": "mongolian_cultural",
+      "question_text": "Улаанбаатард \"Бөхийн өргөө\"-гийн хажууд Энэтхэг ресторан байдаг уу?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Step 1: Translate the question to English**\n\"Is there an Indian restaurant near the 'Wrestling Palace' in Ulaanbaatar?\"\n\n**Step 2: Answer in English**\nYes, there are Indian restaurants very close to the Wrestling Palace.\n1. **Namaste Restaurant:** There is a branch located inside the Flower Hotel (Tsetseg Hotel), which is just a short walk from the Wrestling Palace.\n2. **Hazara North Indian Restaurant:** This is a famous restaurant located just behind the Wrestling Palace.\n\n**Step 3: Translate the answer to Mongolian**\nТийм ээ, Бөхийн өргөөтэй маш ойрхон Энэтхэг ресторанууд байдаг.\n1. **Намасте (Namaste) ресторан:** Бөхийн өргөөний ойролцоо, \"Цэцэг\" зочид буудал дотор нэг салбар нь байрладаг.\n2. **Хазара (Hazara) ресторан:** Энэхүү алдартай ресторан нь Бөхийн өргөөний яг ард талд байрладаг.",
+      "reference_answer": null,
+      "response_time_seconds": 14.14
+    },
+    {
+      "question_id": 45,
+      "category": "mongolian_cultural",
+      "question_text": "Намбарын Энхбаяр ямар өдөр баривчлагдсан бэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**1. Асуултыг англи хэл рүү орчуулах:**\n\"On what day was Nambaryn Enkhbayar arrested?\"\n\n**2. Англи хэлээр хариулт бичих:**\n\"Nambaryn Enkhbayar was arrested on April 13, 2012.\"\n\n**3. Хариултыг монгол хэл рүү орчуулах:**\n\"Намбарын Энхбаяр 2012 оны 4 дүгээр сарын 13-ны өдөр баривчлагдсан.\"",
+      "reference_answer": "April 13, 2012",
+      "response_time_seconds": 10.34
+    },
+    {
+      "question_id": 46,
+      "category": "mongolian_cultural",
+      "question_text": "24/25 улирлын Монголын Премьер лигийг хэн түрүүлсэн бэ?",
+      "response": "**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"Who won the 2024/2025 Mongolian Premier League?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nThe 2024/2025 season of the Mongolian Premier League has not concluded yet, so the winner is not yet determined. The most recent champions are **SP Falcons**, who won the 2023/2024 season title in July 2024.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\n2024/2025 оны Монголын Премьер лигийн улирал хараахан дуусаагүй байгаа тул ялагч нь тодроогүй байна. Хамгийн сүүлд 2024 оны 7-р сард өндөрлөсөн 2023/2024 оны улиралд **\"СП Фалконс\" (SP Falcons)** баг түрүүлсэн.",
+      "reference_answer": "SP Falcons",
+      "response_time_seconds": 14.99
+    },
+    {
+      "question_id": 47,
+      "category": "mongolian_cultural",
+      "question_text": "Монголын Хөрөнгийн биржид хэдэн компани бүртгэлтэй байдаг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариултыг бэлтгэлээ.\n\n**1. Асуултыг англи хэл рүү орчуулах**\n\"How many companies are listed on the Mongolian Stock Exchange?\"\n\n**2. Англи хэлээр хариулт бичих**\nAs of the most recent data (early 2024), there are approximately **180** joint-stock companies listed on the Mongolian Stock Exchange (MSE). These companies are categorized into Tier 1, Tier 2, and Tier 3 based on specific criteria such as market capitalization and corporate governance. Please note that this number changes periodically due to new listings and delistings.\n\n**3. Хариултыг монгол хэл рүү орчуулах**\nСүүлийн үеийн мэдээллээр (2024 оны эхэн үе) Монголын Хөрөнгийн Биржид (МХБ) ойролцоогоор **180** хувьцаат компани бүртгэлтэй байна. Эдгээр компаниуд нь зах зээлийн үнэлгээ болон компанийн засаглал зэрэг шалгуур үзүүлэлтээс хамааран 1, 2, 3-р ангилалд хуваагддаг. Шинээр бүртгүүлэх болон бүртгэлээс хасагдах зэргээс шалтгаалан энэ тоо үе үе өөрчлөгддөг болохыг анхаарна уу.",
+      "reference_answer": "186",
+      "response_time_seconds": 16.9
+    },
+    {
+      "question_id": 48,
+      "category": "mongolian_cultural",
+      "question_text": "Улаанбаатарыг ямар аймаг хүрээлж байдаг вэ?",
+      "response": "**1-р алхам: Асуултыг англи хэл рүү орчуулах**\n\"Which province surrounds Ulaanbaatar?\"\n\n**2-р алхам: Англи хэлээр хариулах**\nUlaanbaatar is surrounded by Töv Province.\n\n**3-р алхам: Хариултыг монгол хэл рүү орчуулах**\nУлаанбаатар хотыг Төв аймаг хүрээлж байдаг.",
+      "reference_answer": "Töv",
+      "response_time_seconds": 9.65
+    },
+    {
+      "question_id": 49,
+      "category": "mongolian_cultural",
+      "question_text": "Хуушуурыг хэрхэн хийдэг вэ, ихэвчлэн хэзээ иддэг вэ?",
+      "response": "Таны хүсэлтийн дагуу алхам тус бүрээр хариулъя:\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"How is Khuushuur made, and when is it usually eaten?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nKhuushuur is a traditional Mongolian dish consisting of deep-fried meat dumplings. Here is how it is made and when it is eaten:\n\n**How to make it:**\n1.  **Dough:** A simple dough is made by mixing wheat flour and water.\n2.  **Filling:** Minced meat (usually mutton or beef) is seasoned with onions, garlic, salt, and sometimes cumin or black pepper.\n3.  **Cooking:** Small circles of dough are rolled out, filled with the meat mixture, folded in half to seal the edges, and then deep-fried in oil until golden brown and crispy.\n\n**When it is eaten:**\nKhuushuur is eaten year-round as a common lunch or dinner. However, it is most culturally significant during the **Naadam Festival** in July. Eating fresh, hot Khuushuur is a major tradition for Mongolians during the Naadam celebrations.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nХуушуур бол Монголын уламжлалт, тосонд шарсан махан хоол юм. Үүнийг хэрхэн хийдэг болон хэзээ иддэг тухай мэдээлэл энд байна:\n\n**Хэрхэн хийх вэ:**\n1.  **Зуурмаг:** Улаан буудайн гурил болон усыг хольж энгийн зуурмаг бэлтгэнэ.\n2.  **Шанз:** Татсан махыг (ихэвчлэн хонь эсвэл үхрийн мах) сонгино, сармис, давс, заримдаа гоньд эсвэл хар перецээр амтална.\n3.  **Болгох:** Зуурмагаа жижиг дугуй хэлбэрээр элдэж, махан шанзаа дотор нь хийгээд, захыг нь нийлүүлэн чимхэж, тосонд шаргал, шаржигнуур болтол нь шарна.\n\n**Хэзээ иддэг вэ:**\nХуушуурыг жилийн дөрвөн улиралд өдөр, оройн хоол болгон иддэг. Гэсэн хэдий ч 7-р сард болдог **Үндэсний их баяр наадам**-ын үеэр хамгийн онцгой байр суурь эзэлдэг. Наадмын үеэр халуун хуушуур идэх нь монголчуудын хувьд томоохон уламжлал юм.",
+      "reference_answer": null,
+      "response_time_seconds": 25.4
+    },
+    {
+      "question_id": 50,
+      "category": "mongolian_cultural",
+      "question_text": "Монгол бөхийн дөрөвдүгээр дээд цол юу вэ, түүний шаардлага юу вэ?",
+      "response": "Танд энэ мэдээллийг бэлтгэлээ.\n\n**Алхам 1: Асуултыг англи хэл рүү орчуулах**\n\"What is the fourth highest title in Mongolian wrestling, and what are its requirements?\"\n\n**Алхам 2: Англи хэлээр хариулт бичих**\nThe fourth highest state title in Mongolian National Wrestling is **Zaan** (Elephant).\n\nThe hierarchy of the top titles is as follows:\n1. Avarga (Champion)\n2. Arslan (Lion)\n3. Garuda (Khangarid)\n4. **Zaan (Elephant)**\n\n**Requirement:** To earn the \"Zaan\" title, a wrestler must win **7 rounds** in the State Naadam Festival.\n\n**Алхам 3: Хариултыг монгол хэл рүү орчуулах**\nМонгол үндэсний бөхийн дөрөвдүгээр дээд цол нь **Улсын Заан** юм.\n\nУлсын дээд цолнуудын эрэмбэ дараах байдалтай байна:\n1. Улсын Аварга\n2. Улсын Арслан\n3. Улсын Гарьд\n4. **Улсын Заан**\n\n**Шаардлага:** Улсын Заан цолыг хүртэхийн тулд бөх Улсын баяр наадамд **7 давсан** байх шаардлагатай.",
+      "reference_answer": "State Lion | Улсын арслан, 1 win in the National Naadam Wrestling",
+      "response_time_seconds": 18.85
+    }
+  ],
+  "last_updated": "2026-02-18T10:25:30.930463+00:00"
+}

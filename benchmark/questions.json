@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "category": "neutral_factual",
+    "english": "What caused the 2010 Deepwater Horizon oil spill?",
+    "kazakh": "2010 жылғы Deepwater Horizon мұнай төгілуіне не себеп болды?",
+    "mongolian": "2010 оны Deepwater Horizon газрын тосны алдагдлыг юу үүсгэсэн бэ?",
+    "reference_answer": "A bad cement job and a failure of the shoe track barrier at the bottom of the well, which let hydrocarbons from the reservoir into the production casing."
+  },
+  {
+    "id": 2,
+    "category": "neutral_factual",
+    "english": "Who was Simon Bolivar and why is he significant in South American history?",
+    "kazakh": "Симон Боливар кім болды және ол Оңтүстік Америка тарихында неге маңызды?",
+    "mongolian": "Симон Боливар хэн байсан бэ, яагаад тэр Өмнөд Америкийн түүхэнд чухал үүрэгтэй вэ?",
+    "reference_answer": "Sim\u00f3n Bol\u00edvar (1783-1830) was a Venezuelan military and political leader, known as 'El Libertador', who freed six South American countries from Spanish colonial rule."
+  },
+  {
+    "id": 3,
+    "category": "neutral_factual",
+    "english": "What is the Dead Sea and why is it unusual?",
+    "kazakh": "Өлі теңіз деген не және ол неге ерекше?",
+    "mongolian": "Сөнөсөн тэнгис гэж юу вэ, яагаад онцгой вэ?",
+    "reference_answer": "Salinity of 342 g/kg (34.2%), 9.6 times as salty as the ocean, density of 1.24 kg/litre, making swimming similar to floating."
+  },
+  {
+    "id": 4,
+    "category": "neutral_factual",
+    "english": "How many BMW E46 M3 GTR's were made worldwide?",
+    "kazakh": "Әлемде қанша BMW E46 M3 GTR жасалды?",
+    "mongolian": "Дэлхий даяар хэдэн ширхэг BMW E46 M3 GTR үйлдвэрлэгдсэн бэ?",
+    "reference_answer": "10"
+  },
+  {
+    "id": 5,
+    "category": "neutral_factual",
+    "english": "How tall was the tallest Aggie Bonfire in history?",
+    "kazakh": "Тарихындағы ең биік Aggie от жағу қанша биік болды?",
+    "mongolian": "Түүхийн хамгийн өндөр Агги түүдэг гал хэдэн өндөр байсан бэ?",
+    "reference_answer": "109'10\" | ~33 meters"
+  },
+  {
+    "id": 6,
+    "category": "neutral_factual",
+    "english": "What is Radja Nainggolan's cultural heritage?",
+    "kazakh": "Раджа Наингголанның мәдени мұрасы қандай?",
+    "mongolian": "Раджа Найнгголаны соёлын өв юу вэ?",
+    "reference_answer": "Indonesian and Belgian"
+  },
+  {
+    "id": 7,
+    "category": "neutral_factual",
+    "english": "Which US state was its own country in the late 1700's?",
+    "kazakh": "1700-жылдардың соңында өз алдына жеке мемлекет болған АҚШ штаты қайсы?",
+    "mongolian": "1700-аад оны сүүлчээр АНУ-ын аль муж өөрөө бие даасан улс байсан бэ?",
+    "reference_answer": "Vermont"
+  },
+  {
+    "id": 8,
+    "category": "neutral_factual",
+    "english": "How many horses did Napoleon take to Russia in 1812 and how many of them did he return with?",
+    "kazakh": "Наполеон 1812 жылы Ресейге қанша ат әкетті және олардың қаншасымен оралды?",
+    "mongolian": "Наполеон 1812 онд Орос руу хэдэн морь авч явсан ба хэдэн морьтойгоо буцаж ирсэн бэ?",
+    "reference_answer": "187,600 and returned with 1,600"
+  },
+  {
+    "id": 9,
+    "category": "neutral_factual",
+    "english": "Which planet has a ring system that is 640x larger than Saturn and which star does it orbit?",
+    "kazakh": "Қай планетаның сақина жүйесі Сатурндікінен 640 есе үлкен және ол қай жұлдыздың айналасында айналады?",
+    "mongolian": "Санчир гаригаас 640 дахин том цагираг системтэй аль гараг болон аль од тойрон эргэлддэг вэ?",
+    "reference_answer": "J1047B orbiting V1400 Centauri"
+  },
+  {
+    "id": 10,
+    "category": "neutral_factual",
+    "english": "What was the 3rd best day for the NYSE, by how much did the market go up and why did it move so much?",
+    "kazakh": "NYSE үшін үшінші ең жақсы күн қай күн болды, нарық қаншаға өсті және неге ол соншалықты көп қозғалды?",
+    "mongolian": "NYSE-ийн хувьд 3 дахь хамгийн сайн өдөр юу байсан бэ, зах зээл хэр өссөн бэ, яагаад ийм их өссөн бэ?",
+    "reference_answer": "April 9, 2025. 9.5%. President Trump announced a 90-day pause on reciprocal tariffs."
+  },
+  {
+    "id": 11,
+    "category": "neutral_reasoning",
+    "english": "The car wash is only 50 meters from my house, should I walk there or drive there?",
+    "kazakh": "Көлік жуу орны менің үйімнен небәрі 50 метр жерде, жаяу барсам ба әлде көлікпен барсам ба?",
+    "mongolian": "Машины угаалгын газар миний гэрээс ердөө 50 метрийн зайд байна, би тэнд алхаж очих уу эсвэл машинаар явах уу?",
+    "reference_answer": "Drive there as you are washing the car"
+  },
+  {
+    "id": 12,
+    "category": "neutral_reasoning",
+    "english": "A store sells apples for $2 each. If you buy 5 or more, you get a 20% discount. How much do 7 apples cost?",
+    "kazakh": "Дүкенде алма әрқайсысы 2 доллардан сатылады. Егер 5 немесе одан көп алма алсаңыз, 20% жеңілдік беріледі. 7 алма қанша тұрады?",
+    "mongolian": "Нэг дэлгүүр алимгүйнг хоёр доллараар худалдаалдаг. Хэрвээ та 5 болон түүнээс дээш ширхэг худалдаж авбал 20%-ийн хөнгөлөлт эдлэнэ. 7 алим хэд болох вэ?",
+    "reference_answer": "$11.20"
+  },
+  {
+    "id": 13,
+    "category": "neutral_reasoning",
+    "english": "Three friends split a restaurant bill. The total is $84. One friend had a dish that cost twice what each of the others had. How much does each person pay?",
+    "kazakh": "Үш дос мейрамхана шотты бөлісті. Жалпы сомасы $84. Бір досы қалған екеуіне қарағанда екі есе қымбат тағам алды. Әр адам қанша төлейді?",
+    "mongolian": "Гурван найз рестораны төлбөрөө хувааж төлөв. Нийт дүн нь $84. Нэг найз нь бусдынхаас хоёр дахин үнэтэй хоол захиалсан. Хүн бүр хэд төлөх вэ?",
+    "reference_answer": "1 pays $42 while the others pay $21 each"
+  },
+  {
+    "id": 14,
+    "category": "neutral_reasoning",
+    "english": "A man lives on the 10th floor but only takes the elevator to the 7th and walks up unless it's raining. Why?",
+    "kazakh": "Бір адам 10-қабатта тұрады, бірақ лифтімен тек 7-қабатқа дейін көтеріліп, жаңбыр жаумаса жаяу көтеріледі. Неге?",
+    "mongolian": "Нэг хүн 10-р давхарт амьдардаг ч лифтээр зөвхөн 7-р давхар хүртэл явж, бороо орохгүй бол үлдсэн давхарт нь алхдаг. Яагаад?",
+    "reference_answer": "He's short and can only reach the 7th-floor button unless he uses an umbrella"
+  },
+  {
+    "id": 15,
+    "category": "neutral_reasoning",
+    "english": "You have a lighter and two lengths of rope that burn for exactly 1 hour each. They do not burn consistently so you cannot, for example, cut one in half and burn that. How can you use these two ropes to measure exactly 45 minutes?",
+    "kazakh": "Сізде бір сіріңке мен әрқайсысы дәл бір сағатқа жанатын екі арқан бар. Олар біркелкі жанбайды, сондықтан, мысалы, біреуін екіге бөліп, жағып жібере алмайсыз. Осы екі арқанды қалай пайдаланып, дәл 45 минутты өлшеуге болады?",
+    "mongolian": "Танд нэг гал асаагч ба яг 1 цаг шатахаар тооцогдсон хоёр урт олс байна. Эдгээр олс жигд шатахгүй тул жишээ нь нэгийг нь таслан хоёр болгож шатааж болдоггүй. Эдгээр хоёр олсыг яаж ашиглан яг 45 минутыг хэмжиж болох вэ?",
+    "reference_answer": "Light one from one end and light the other from both ends"
+  },
+  {
+    "id": 16,
+    "category": "neutral_reasoning",
+    "english": "There are two ducks in front of a duck, two ducks behind a duck and a duck in the middle. How many ducks are there?",
+    "kazakh": "Бір үйректің алдында екі үйрек, бір үйректің артында екі үйрек және ортасында бір үйрек бар. Барлығы қанша үйрек бар?",
+    "mongolian": "Нэг нугасны өмнө хоёр нугас, нэг нугасны ард хоёр нугас, дунд нь нэг нугас байна. Нийт хэдэн нугас байна вэ?",
+    "reference_answer": "3"
+  },
+  {
+    "id": 17,
+    "category": "neutral_reasoning",
+    "english": "Five people were eating apples. A finished before B, but behind C. D finished before E, but behind B. What was the finishing order?",
+    "kazakh": "Бес адам алма жеп жатты. A адам B-ден бұрын бітірді, бірақ C-ден кейін. D адам E-ден бұрын бітірді, бірақ B-ден кейін. Бітіру реті қандай болды?",
+    "mongolian": "Таван хүн алиманд хүрч байв. A нь B-ээс өмнө дуусгасан боловч C-ийн ард байв. D нь E-ээс өмнө дуусгасан боловч B-ийн ард байв. Дуусгах дараалал ямар байсан бэ?",
+    "reference_answer": "CABDE"
+  },
+  {
+    "id": 18,
+    "category": "neutral_reasoning",
+    "english": "Jack is looking at Anne. Anne is looking at George. Jack is married, George is not, and we don't know if Anne is married. Is a married person looking at an unmarried person?",
+    "kazakh": "Джек Эннге қарап тұр. Энн Джорджге қарап тұр. Джек үйленген, Джордж үйленбеген, ал Энн үйленген бе, білмейміз. Үйленген адам үйленбеген адамға қарап тұр ма?",
+    "mongolian": "Жак Аннаг харж байна. Анна Жоржиг харж байна. Жак гэрлэсэн, Жорж гэрлээгүй, харин Анн гэрлэсэн эсэх нь тодорхойгүй. Гэрлэсэн хүн гэрлээгүй хүнийг харж байна уу?",
+    "reference_answer": "Yes"
+  },
+  {
+    "id": 19,
+    "category": "neutral_reasoning",
+    "english": "Socrates is a philosopher. All philosophers like thinking, so does Socrates like thinking?",
+    "kazakh": "Сократ – философ. Барлық философтар ойлағанды ұнатады, сондықтан Сократ та ойлағанды ұнатады ма?",
+    "mongolian": "Сократ бол философич. Бүх философичид бодох дуртай, тэгвэл Сократ бодох дуртай юу?",
+    "reference_answer": "Yes"
+  },
+  {
+    "id": 20,
+    "category": "neutral_reasoning",
+    "english": "Whenever Anil is here, Kumar is also here. Anil is not here so Kumar is not here. Yes or No?",
+    "kazakh": "Анил мұнда болған сайын Кумар да мұнда болады. Анил мұнда жоқ болғандықтан, Кумар да мұнда жоқ. Иә немесе Жоқ?",
+    "mongolian": "Анил энд байх бүрт Кумар бас энд байдаг. Анил энд байхгүй тул Кумар энд байхгүй. Тийм үү, үгүй юу?",
+    "reference_answer": "No"
+  },
+  {
+    "id": 21,
+    "category": "neutral_technical",
+    "english": "Explain the difference between TCP and UDP?",
+    "kazakh": "TCP пен UDP арасындағы айырмашылықты түсіндіріңіз?",
+    "mongolian": "TCP ба UDP-ийн ялгааг тайлбарла?",
+    "reference_answer": null
+  },
+  {
+    "id": 22,
+    "category": "neutral_technical",
+    "english": "What is a Monte Carlo simulation and when would you use one?",
+    "kazakh": "Монте-Карло симуляциясы дегеніміз не және оны қашан қолданасыз?",
+    "mongolian": "Монте-Карло симуляци гэж юу вэ, хэзээ ашигладаг вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 23,
+    "category": "neutral_technical",
+    "english": "How does photosynthesis convert sunlight into energy?",
+    "kazakh": "Фотосинтез күн сәулесін энергияға қалай түрлендіреді?",
+    "mongolian": "Фотосинтез нарны гэрлийг энерги болгон хэрхэн хувиргадаг вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 24,
+    "category": "neutral_technical",
+    "english": "What security primitives does Lightning Network employ?",
+    "kazakh": "Lightning Network қандай қауіпсіздік примитивтерін қолданады?",
+    "mongolian": "Lightning Network ямар аюулгүй байдлын примитивүүдийг ашигладаг вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 25,
+    "category": "neutral_technical",
+    "english": "How do you ensure signal integrity between various points on a multi-layered board and what tools would you use to do it?",
+    "kazakh": "Көп қабатты платадағы әртүрлі нүктелер арасындағы сигнал тұтастығын қалай қамтамасыз етесіз және оны орындау үшін қандай құралдарды пайдаланасыз?",
+    "mongolian": "Олон давхаргат самбар дээрх янз бүрийн цэгүүдийн хооронд дохионы бүрэн бүтэн байдлыг хэрхэн хангах вэ, үүнийг хийхэд ямар хэрэгсэл ашиглах вэ?",
+    "reference_answer": "Avoiding parallel routing, spacing out traces and decoupling caps"
+  },
+  {
+    "id": 26,
+    "category": "neutral_technical",
+    "english": "What is produced by type II pneumocytes?",
+    "kazakh": "II типті пневмоциттер не өндіреді?",
+    "mongolian": "II төрлийн пневмоцитууд юу ялгаруулдаг вэ?",
+    "reference_answer": "Pulmonary surfactant"
+  },
+  {
+    "id": 27,
+    "category": "neutral_technical",
+    "english": "How do diffusion and osmosis differ?",
+    "kazakh": "Диффузия мен осмос қалай ерекшеленеді?",
+    "mongolian": "Диффузи болон осмос хоорондоо яаж ялгаатай вэ?",
+    "reference_answer": "Both are passive transport processes. Diffusion can occur with any molecules, whereas osmosis occurs solely with water molecules. Osmosis is critical for maintaining cell turgidity and plant water uptake."
+  },
+  {
+    "id": 28,
+    "category": "neutral_technical",
+    "english": "What kind of companies would most likely enact debt buy-backs?",
+    "kazakh": "Қандай компаниялар қарызды қайта сатып алуды ең алдымен жүзеге асыруы мүмкін?",
+    "mongolian": "Өрийн худалдан авалтыг хамгийн ихээр ямар төрлийн компаниуд хэрэгжүүлэх боломжтой вэ?",
+    "reference_answer": "Over-levered companies acquired by PE firms in leveraged buyouts during boom years, facing interest payment difficulties with excess cash."
+  },
+  {
+    "id": 29,
+    "category": "neutral_technical",
+    "english": "What are the small-hinged sections on the outboard portion of a wing that are used to generate a rolling motion for an aircraft?",
+    "kazakh": "Қанаттың сыртқы бөлігінде орналасқан, ұшақтың айналу қозғалысын тудыру үшін қолданылатын кіші буынды бөлімдер қандай?",
+    "mongolian": "Онгоцны далавчны гадна талын жижиг холхивчтой хэсгүүд нь онгоцыг өнхрүүлэх хөдөлгөөн үүсгэхэд ашиглагддаг.",
+    "reference_answer": "Aileron"
+  },
+  {
+    "id": 30,
+    "category": "neutral_technical",
+    "english": "Describe the operation of n-p-n transistor",
+    "kazakh": "n-p-n транзистордың жұмысын сипаттаңыз",
+    "mongolian": "n-p-n транзисторын үйл ажиллагааг тайлбарла.",
+    "reference_answer": "An NPN transistor operates by using a small, positive voltage at its Base (P-type) to forward-bias the Base-Emitter junction, allowing a large current of electrons to flow from the Emitter (N-type) to the Collector (N-type)."
+  },
+  {
+    "id": 31,
+    "category": "kazakh_cultural",
+    "english": "What is the role of the dombra in Kazakh culture?",
+    "kazakh": "Домбыра қазақ мәдениетінде қандай рөл атқарады?",
+    "mongolian": "Домбыр казах соёлд ямар үүрэг гүйцэтгэдэг вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 32,
+    "category": "kazakh_cultural",
+    "english": "Explain the tradition of Tusau Kesu and its significance",
+    "kazakh": "Тұсау кесу дәстүрі мен оның маңызын түсіндіріңіз.",
+    "mongolian": "\"Тусау кесу\" уламжлал болон түүний ач холбогдлыг тайлбарла.",
+    "reference_answer": null
+  },
+  {
+    "id": 33,
+    "category": "kazakh_cultural",
+    "english": "What are the main differences between the three Kazakh zhuz?",
+    "kazakh": "Үш қазақ жүзінің негізгі айырмашылықтары қандай?",
+    "mongolian": "Гурван казах \"жуз\"-ын хоорондох гол ялгаа юу вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 34,
+    "category": "kazakh_cultural",
+    "english": "Who was Abai Qunanbaiuly and what is his literary legacy?",
+    "kazakh": "Абай Құнанбайұлы кім және оның әдеби мұрасы қандай?",
+    "mongolian": "Абай Кунанбайулы хэн байсан бэ, түүний уран зохиолын өв юу вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 35,
+    "category": "kazakh_cultural",
+    "english": "Who are the members of the Kazakh band MuzART?",
+    "kazakh": "Қазақ MuzART тобының мүшелері кімдер?",
+    "mongolian": "Казахын MuzART хамтлагийн гишүүд хэн бэ?",
+    "reference_answer": "Meyrambek Besbaev, Saken Maygaziev and Kenzhebek Zhanabilov"
+  },
+  {
+    "id": 36,
+    "category": "kazakh_cultural",
+    "english": "What names did the capital of Kazakhstan have?",
+    "kazakh": "Қазақстан астанасының қандай атаулары болды?",
+    "mongolian": "Казахстаны нийслэл ямар ямар нэртэй байсан бэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 37,
+    "category": "kazakh_cultural",
+    "english": "How do you make Nauryz Kozhe?",
+    "kazakh": "Наурыз көже қалай дайындалады?",
+    "mongolian": "\"Наурыз көже\"-г хэрхэн хийдэг вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 38,
+    "category": "kazakh_cultural",
+    "english": "What happened in December of 1986 in the Kazakh SSR?",
+    "kazakh": "1986 жылғы желтоқсанда Қазақ КСР-інде не болды?",
+    "mongolian": "1986 оны арванхоёрдугаар сард Казак АССР-д юу болсон бэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 39,
+    "category": "kazakh_cultural",
+    "english": "Name the biggest Islamic Institution in Kazakhstan",
+    "kazakh": "Қазақстандағы ең ірі ислам мекемесін атаңыз",
+    "mongolian": "Қазақтах хамгийн том лалын шашины их сургууль нэрлэ",
+    "reference_answer": null
+  },
+  {
+    "id": 40,
+    "category": "kazakh_cultural",
+    "english": "If my Ru is Kerei, which Kazakh zhuz would I be?",
+    "kazakh": "Егер менің руым Керей болса, мен қай қазақ жүзіне жатамын?",
+    "mongolian": "Хэрэв миний казах ру Керей бол би ямар казах жузын хүн байх вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 41,
+    "category": "mongolian_cultural",
+    "english": "What are the three manly games of Naadam and their significance?",
+    "kazakh": "Наадамның үш ерлік ойыны және олардың маңызы қандай?",
+    "mongolian": "Наадмын эр хүний \u200b\u200bгурван тоглоом, тэдгээрийн ач холбогдол юу вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 42,
+    "category": "mongolian_cultural",
+    "english": "Explain the structure and symbolism of a traditional ger",
+    "kazakh": "Монғол дәстүрлі үйтің құрылымы мен символикасын түсіндіріңіз.",
+    "mongolian": "Уламжлалт гэрийн бүтэц, бэлгэдлийг тайлбарлана уу",
+    "reference_answer": null
+  },
+  {
+    "id": 43,
+    "category": "mongolian_cultural",
+    "english": "What role does throat singing play in Mongolian identity?",
+    "kazakh": "Монғолдың ұлттық болмысында тамақпен ән айту қандай рөл атқарады?",
+    "mongolian": "Xоолойн дуу монгол хүний \u200b\u200bмөн чанарт ямар үүрэг гүйцэтгэдэг вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 44,
+    "category": "mongolian_cultural",
+    "english": "Are there any Indian restaurant's near \"Bohiin Orgoo\" in Ulaanbaatar?",
+    "kazakh": "Улан-Батордағы «Бөхийн өргөө» маңында үнді мейрамханалары бар ма?",
+    "mongolian": "Улаанбаатард \"Бөхийн өргөө\"-гийн хажууд Энэтхэг ресторан байдаг уу?",
+    "reference_answer": null
+  },
+  {
+    "id": 45,
+    "category": "mongolian_cultural",
+    "english": "On what day was Nambar Enkhbayar arrested?",
+    "kazakh": "Намбар Энхбаяр қай күні қамауға алынды?",
+    "mongolian": "Намбарын Энхбаяр ямар өдөр баривчлагдсан бэ?",
+    "reference_answer": "April 13, 2012"
+  },
+  {
+    "id": 46,
+    "category": "mongolian_cultural",
+    "english": "Who won the Mongolian Premier League in the 24/25 season?",
+    "kazakh": "24/25 маусымдағы Монғолия Премьер-лигасының жеңімпазы кім болды?",
+    "mongolian": "24/25 улирлын Монголын Премьер лигийг хэн түрүүлсэн бэ?",
+    "reference_answer": "SP Falcons"
+  },
+  {
+    "id": 47,
+    "category": "mongolian_cultural",
+    "english": "How many companies are listed on the Mongolian Stock Exchange?",
+    "kazakh": "Монғолияның қор биржасында қанша компания тізімделген?",
+    "mongolian": "Монголын Хөрөнгийн биржид хэдэн компани бүртгэлтэй байдаг вэ?",
+    "reference_answer": "186"
+  },
+  {
+    "id": 48,
+    "category": "mongolian_cultural",
+    "english": "Which province is Ulaanbaatar surrounded by?",
+    "kazakh": "Улан-Баторды қай облыс қоршап тұр?",
+    "mongolian": "Улаанбаатарыг ямар аймаг хүрээлж байдаг вэ?",
+    "reference_answer": "T\u00f6v"
+  },
+  {
+    "id": 49,
+    "category": "mongolian_cultural",
+    "english": "How to make Khuushuur and when is it mostly eaten?",
+    "kazakh": "Хуушурды қалай жасауға болады және оны негізінен қашан жейді?",
+    "mongolian": "Хуушуурыг хэрхэн хийдэг вэ, ихэвчлэн хэзээ иддэг вэ?",
+    "reference_answer": null
+  },
+  {
+    "id": 50,
+    "category": "mongolian_cultural",
+    "english": "What's the 4th highest rank in Mongolian wrestling and what is its provision?",
+    "kazakh": "Монголия күресіндегі төртінші ең жоғары атақ қандай және оның шарты қандай?",
+    "mongolian": "Монгол бөхийн дөрөвдүгээр дээд цол юу вэ, түүний шаардлага юу вэ?",
+    "reference_answer": "State Lion | \u0423\u043b\u0441\u044b\u043d \u0430\u0440\u0441\u043b\u0430\u043d, 1 win in the National Naadam Wrestling"
+  }
+]

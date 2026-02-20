@@ -1,0 +1,412 @@
+{
+  "model": "gpt_5.2",
+  "model_id": "gpt-5.2",
+  "condition": "C1",
+  "condition_description": "English -> English (upper bound baseline)",
+  "language": "english",
+  "system_prompt_used": null,
+  "started_at": "2026-02-17T05:29:35.502220+00:00",
+  "responses": [
+    {
+      "question_id": 1,
+      "category": "neutral_factual",
+      "question_text": "What caused the 2010 Deepwater Horizon oil spill?",
+      "response": "The Deepwater Horizon oil spill was caused by a **blowout**—a sudden, uncontrolled release of oil and gas from BP’s Macondo well in the Gulf of Mexico on **April 20, 2010**—after multiple safety barriers failed.\n\nKey causes identified by investigations (including the U.S. National Commission) were:\n\n- **Cement and well integrity failure:** The cement job meant to seal the well was flawed, allowing hydrocarbons to leak into the wellbore.  \n- **Misinterpreted/ignored pressure test results:** A critical “negative pressure test” showed anomalies that indicated the well wasn’t sealed, but operations continued.  \n- **Insufficient well control and monitoring:** As oil and gas entered the well, they weren’t detected or responded to quickly enough.  \n- **Failure of the blowout preventer (BOP):** The BOP—intended as a last-resort safety device—did not successfully seal the well after the blowout began (due to mechanical and hydraulic issues, including problems cutting and sealing the pipe).  \n- **Risky operational decisions and weak safety culture:** Investigations found poor communication, inadequate procedures, and cost/time pressures contributed to decisions that increased risk.\n\nThe blowout led to explosions and a fire that sank the rig, killing **11 workers**, and the well then leaked oil for **87 days**.",
+      "reference_answer": "A bad cement job and a failure of the shoe track barrier at the bottom of the well, which let hydrocarbons from the reservoir into the production casing.",
+      "response_time_seconds": 6.47
+    },
+    {
+      "question_id": 2,
+      "category": "neutral_factual",
+      "question_text": "Who was Simon Bolivar and why is he significant in South American history?",
+      "response": "Simón Bolívar (1783–1830) was a Venezuelan military and political leader who became the central figure in the wars of independence that ended Spanish colonial rule across much of northern and western South America.\n\n### Who he was\n- Born into a wealthy Creole family in Caracas (in present-day Venezuela).\n- Inspired by Enlightenment ideas and the political upheavals of the era, he committed himself to independence movements against Spain.\n- Known as **“El Libertador”** (“The Liberator”) for his leadership in multiple liberation campaigns.\n\n### Why he is significant in South American history\n- **Led successful independence struggles** that helped create or secure independence for:\n  - **Venezuela**\n  - **Colombia**\n  - **Ecuador**\n  - **Peru**\n  - **Bolivia** (named after him)\n- **Key military and political architect of a new regional order**: He played a major role in forming **Gran Colombia** (a short-lived federation roughly comprising modern Colombia, Venezuela, Ecuador, and Panama), aiming to unify newly independent states for strength and stability.\n- **Shaped debates about governance after independence**: Bolívar advocated strong central authority as a safeguard against fragmentation and internal conflict—an idea that influenced (and also divided) early republican politics.\n- **Enduring symbol of Latin American independence**: His image and legacy remain deeply influential in national identities and political movements across the region.\n\nIn short, Bolívar is significant because he was the leading strategist and symbol of independence for a large portion of South America and because his vision—and the conflicts around it—helped shape the continent’s early post-colonial political development.",
+      "reference_answer": "Simón Bolívar (1783-1830) was a Venezuelan military and political leader, known as 'El Libertador', who freed six South American countries from Spanish colonial rule.",
+      "response_time_seconds": 7.37
+    },
+    {
+      "question_id": 3,
+      "category": "neutral_factual",
+      "question_text": "What is the Dead Sea and why is it unusual?",
+      "response": "The **Dead Sea** is a large **salt lake** in the Middle East, lying between **Israel/West Bank** on the west and **Jordan** on the east. It’s fed mainly by the **Jordan River** and has **no outlet**—water leaves almost entirely by **evaporation**.\n\nIt’s unusual because:\n\n- **Extremely salty:** Its water is far saltier than the ocean (about **9–10×** as salty), so **fish and most aquatic life can’t survive**—hence the name “Dead.”\n- **People float easily:** The high salt content makes the water **very dense**, so swimmers **float** with little effort.\n- **Very low elevation:** Its shoreline is the **lowest point on land** on Earth (roughly **430 meters below sea level**, varying over time).\n- **Unique chemistry:** It contains lots of dissolved minerals (like magnesium, potassium, and bromide), giving it **distinctive water and mud** often used in skincare.",
+      "reference_answer": "Salinity of 342 g/kg (34.2%), 9.6 times as salty as the ocean, density of 1.24 kg/litre, making swimming similar to floating.",
+      "response_time_seconds": 4.32
+    },
+    {
+      "question_id": 4,
+      "category": "neutral_factual",
+      "question_text": "How many BMW E46 M3 GTR's were made worldwide?",
+      "response": "BMW built **10** examples of the **E46 M3 GTR “Straßenversion” (road-legal homologation cars)** in **2001**.\n\nNotes (to avoid common confusion):\n- In addition to those, BMW Motorsport built a **small number of race cars** (often cited around **~10** as well, depending on how prototypes/spares are counted), but the commonly quoted “how many were made” figure refers to the **10 road cars**.",
+      "reference_answer": "10",
+      "response_time_seconds": 2.79
+    },
+    {
+      "question_id": 5,
+      "category": "neutral_factual",
+      "question_text": "How tall was the tallest Aggie Bonfire in history?",
+      "response": "The tallest Texas A&M **Aggie Bonfire** stack on record was **109 feet (33 m)** tall (built in the late 1980s).",
+      "reference_answer": "109'10\" | ~33 meters",
+      "response_time_seconds": 1.35
+    },
+    {
+      "question_id": 6,
+      "category": "neutral_factual",
+      "question_text": "What is Radja Nainggolan's cultural heritage?",
+      "response": "Radja Nainggolan is of **mixed Indonesian and Belgian heritage**. His father is **Indonesian** (from the Batak community in Indonesia), and his mother is **Belgian**.",
+      "reference_answer": "Indonesian and Belgian",
+      "response_time_seconds": 1.08
+    },
+    {
+      "question_id": 7,
+      "category": "neutral_factual",
+      "question_text": "Which US state was its own country in the late 1700's?",
+      "response": "**Vermont**.\n\nIt was an independent republic called the **Vermont Republic** from **1777 to 1791**, before joining the United States as the **14th state**.",
+      "reference_answer": "Vermont",
+      "response_time_seconds": 0.95
+    },
+    {
+      "question_id": 8,
+      "category": "neutral_factual",
+      "question_text": "How many horses did Napoleon take to Russia in 1812 and how many of them did he return with?",
+      "response": "Napoleon’s Grande Armée took **on the order of ~150,000–200,000 horses** into the 1812 invasion of Russia (a commonly cited figure is **about 180,000**).\n\nOn the retreat, the losses were so extreme that only **a few thousand at most** made it back—many accounts put it at **well under 10,000**, and some estimates are **only a few hundred to a couple thousand** still serviceable by the time the remnants recrossed into Prussia.\n\nBecause horse accounting was incomplete and varied by category (cavalry mounts vs. artillery/transport draft horses), sources often give ranges rather than a single definitive pair of numbers.",
+      "reference_answer": "187,600 and returned with 1,600",
+      "response_time_seconds": 3.19
+    },
+    {
+      "question_id": 9,
+      "category": "neutral_factual",
+      "question_text": "Which planet has a ring system that is 640x larger than Saturn and which star does it orbit?",
+      "response": "The planet is **J1407b** (a candidate exoplanet with a massive ring system estimated at about **640× the size of Saturn’s rings**). It is thought to orbit the young star **J1407** (also known as **V1400 Centauri**).",
+      "reference_answer": "J1047B orbiting V1400 Centauri",
+      "response_time_seconds": 1.76
+    },
+    {
+      "question_id": 10,
+      "category": "neutral_factual",
+      "question_text": "What was the 3rd best day for the NYSE, by how much did the market go up and why did it move so much?",
+      "response": "If you mean the **New York Stock Exchange by “best day” as measured by the S&P 500’s largest one‑day percentage gain** (the most common yardstick for “the market”), the **3rd best day** was:\n\n- **Date:** **March 15, 1933**  \n- **Move:** **+16.61%** (S&P 500, one‑day gain)  \n- **Why it moved so much:** This was during the **Great Depression**, right after President **Franklin D. Roosevelt’s “bank holiday”** (temporary closure of banks to stop bank runs) and the rollout of early **emergency banking reforms**. The market had been crushed and liquidity/price discovery was extreme; the reopening and policy actions **dramatically improved confidence** that the financial system would stabilize, producing an outsized rebound.\n\n### Important caveat\nThere isn’t a single official “NYSE best day” list because you can measure “best day” in different ways:\n- **Dow Jones Industrial Average (DJIA) % gain**\n- **S&P 500 % gain**\n- **NYSE Composite % gain**\n- **Point gain** (not percentage)\n\nIf you tell me which index you want (DJIA, S&P 500, NYSE Composite) and whether you mean **% gain or point gain**, I can give you the exact **3rd best day** for that specific measure, plus the historical context and sources.",
+      "reference_answer": "April 9, 2025. 9.5%. President Trump announced a 90-day pause on reciprocal tariffs.",
+      "response_time_seconds": 6.52
+    },
+    {
+      "question_id": 11,
+      "category": "neutral_reasoning",
+      "question_text": "The car wash is only 50 meters from my house, should I walk there or drive there?",
+      "response": "Walk.\n\n50 meters is roughly a 1‑minute walk, and driving that distance is usually slower overall once you factor in getting in/out, starting the car, maneuvering, and parking. Walking also avoids a cold-start/short-trip (extra engine wear and emissions).\n\nDrive only if you’re transporting something heavy, the weather/road conditions are unsafe, or you have mobility constraints.",
+      "reference_answer": "Drive there as you are washing the car",
+      "response_time_seconds": 2.88
+    },
+    {
+      "question_id": 12,
+      "category": "neutral_reasoning",
+      "question_text": "A store sells apples for $2 each. If you buy 5 or more, you get a 20% discount. How much do 7 apples cost?",
+      "response": "Each apple costs \\$2, so 7 apples cost \\(7 \\times 2 = \\$14\\).\n\nBuying 5 or more gives a 20% discount, so you pay 80% of \\$14:\n\n\\[\n\\$14 \\times 0.8 = \\$11.20\n\\]\n\n**Total cost: \\$11.20.**",
+      "reference_answer": "$11.20",
+      "response_time_seconds": 1.66
+    },
+    {
+      "question_id": 13,
+      "category": "neutral_reasoning",
+      "question_text": "Three friends split a restaurant bill. The total is $84. One friend had a dish that cost twice what each of the others had. How much does each person pay?",
+      "response": "Let each of the two friends with the cheaper dish pay \\(x\\).  \nThe third friend’s dish costs twice that, so they pay \\(2x\\).\n\nTotal:\n\\[\nx + x + 2x = 84 \\Rightarrow 4x = 84 \\Rightarrow x = 21\n\\]\n\nSo the two friends pay **$21 each**, and the friend with the more expensive dish pays **$42**.",
+      "reference_answer": "1 pays $42 while the others pay $21 each",
+      "response_time_seconds": 1.79
+    },
+    {
+      "question_id": 14,
+      "category": "neutral_reasoning",
+      "question_text": "A man lives on the 10th floor but only takes the elevator to the 7th and walks up unless it's raining. Why?",
+      "response": "He’s too short to reach the button for the 10th floor.  \n\nSo he can press only up to the 7th and walks the remaining three floors—unless it’s raining, when he has an umbrella to reach the 10th-floor button.",
+      "reference_answer": "He's short and can only reach the 7th-floor button unless he uses an umbrella",
+      "response_time_seconds": 1.62
+    },
+    {
+      "question_id": 15,
+      "category": "neutral_reasoning",
+      "question_text": "You have a lighter and two lengths of rope that burn for exactly 1 hour each. They do not burn consistently so you cannot, for example, cut one in half and burn that. How can you use these two ropes to measure exactly 45 minutes?",
+      "response": "Light **Rope A at both ends** and **Rope B at one end** at the same time.\n\n- **When Rope A finishes burning**, exactly **30 minutes** have passed (because burning from both ends makes it take half the time).\n- At that moment, **light the other end of Rope B** (so Rope B is now burning from both ends).\n\nRope B had been burning for 30 minutes from one end, so it has **30 minutes of burn-time left**. Burning it from both ends makes it finish in **15 minutes**.\n\nTotal time = 30 minutes + 15 minutes = **45 minutes**.",
+      "reference_answer": "Light one from one end and light the other from both ends",
+      "response_time_seconds": 3.04
+    },
+    {
+      "question_id": 16,
+      "category": "neutral_reasoning",
+      "question_text": "There are two ducks in front of a duck, two ducks behind a duck and a duck in the middle. How many ducks are there?",
+      "response": "Three ducks.\n\nArrange them in a line: **Duck A, Duck B, Duck C**.\n\n- For **Duck C** (the last one), there are **two ducks in front** (A and B).\n- For **Duck A** (the first one), there are **two ducks behind** (B and C).\n- **Duck B** is **in the middle**.",
+      "reference_answer": "3",
+      "response_time_seconds": 1.43
+    },
+    {
+      "question_id": 17,
+      "category": "neutral_reasoning",
+      "question_text": "Five people were eating apples. A finished before B, but behind C. D finished before E, but behind B. What was the finishing order?",
+      "response": "From the clues:\n\n- “A finished before B, but behind C” ⟹ **C < A < B**\n- “D finished before E, but behind B” ⟹ **B < D < E**\n\nCombine them: **C < A < B < D < E**\n\nSo the finishing order (first to last) was: **C, A, B, D, E**.",
+      "reference_answer": "CABDE",
+      "response_time_seconds": 1.67
+    },
+    {
+      "question_id": 18,
+      "category": "neutral_reasoning",
+      "question_text": "Jack is looking at Anne. Anne is looking at George. Jack is married, George is not, and we don't know if Anne is married. Is a married person looking at an unmarried person?",
+      "response": "Yes.\n\nThere are two cases:\n\n- **If Anne is married:** then **Anne (married)** is looking at **George (unmarried)**.\n- **If Anne is not married:** then **Jack (married)** is looking at **Anne (unmarried)**.\n\nEither way, **a married person is looking at an unmarried person**.",
+      "reference_answer": "Yes",
+      "response_time_seconds": 1.53
+    },
+    {
+      "question_id": 19,
+      "category": "neutral_reasoning",
+      "question_text": "Socrates is a philosopher. All philosophers like thinking, so does Socrates like thinking?",
+      "response": "Yes.\n\n- Premise 1: Socrates is a philosopher.  \n- Premise 2: All philosophers like thinking.  \n- Therefore: Socrates, being a philosopher, likes thinking (by applying the universal rule to Socrates).",
+      "reference_answer": "Yes",
+      "response_time_seconds": 1.28
+    },
+    {
+      "question_id": 20,
+      "category": "neutral_reasoning",
+      "question_text": "Whenever Anil is here, Kumar is also here. Anil is not here so Kumar is not here. Yes or No?",
+      "response": "No.\n\nLet:\n- \\(A\\): “Anil is here”\n- \\(K\\): “Kumar is here”\n\nGiven: “Whenever Anil is here, Kumar is also here” means \\(A \\rightarrow K\\).\n\nThe conclusion “Anil is not here, so Kumar is not here” is \\(\\neg A \\rightarrow \\neg K\\), which does **not** follow from \\(A \\rightarrow K\\) (that would be the fallacy of denying the antecedent).\n\nCounterexample: Anil is absent (\\(\\neg A\\)) but Kumar is still here (\\(K\\)). This does not violate \\(A \\rightarrow K\\), but it makes the conclusion false.",
+      "reference_answer": "No",
+      "response_time_seconds": 2.74
+    },
+    {
+      "question_id": 21,
+      "category": "neutral_technical",
+      "question_text": "Explain the difference between TCP and UDP?",
+      "response": "TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two common transport-layer protocols, but they trade off reliability vs. speed/overhead.\n\n## TCP\n- **Connection-oriented**: Establishes a connection (handshake) before sending data.\n- **Reliable**: Guarantees delivery (or reports failure), with **acknowledgments** and **retransmissions**.\n- **Ordered**: Delivers data to the application in the same order it was sent.\n- **Flow & congestion control**: Adjusts sending rate to avoid overwhelming the receiver/network.\n- **More overhead / typically higher latency**: Due to connection setup and reliability mechanisms.\n- **Common uses**: Web browsing (HTTP/HTTPS), email (SMTP/IMAP), file transfer (FTP/SFTP), SSH.\n\n## UDP\n- **Connectionless**: No handshake; sends packets (“datagrams”) immediately.\n- **Best-effort (unreliable)**: No built-in guarantee of delivery, no automatic retransmission.\n- **No ordering guarantee**: Packets may arrive out of order or not at all.\n- **No built-in flow/congestion control**: The application must handle it if needed.\n- **Lower overhead / often lower latency**: Good for real-time needs.\n- **Common uses**: Voice/video (VoIP, streaming), online gaming, DNS, some VPN tunneling; also used by **QUIC** (which provides reliability at a higher layer over UDP).\n\n### Rule of thumb\n- Choose **TCP** when you need **correct, complete, in-order** delivery.\n- Choose **UDP** when you need **low latency** and can tolerate or handle **loss/reordering** in the application.",
+      "reference_answer": null,
+      "response_time_seconds": 6.66
+    },
+    {
+      "question_id": 22,
+      "category": "neutral_technical",
+      "question_text": "What is a Monte Carlo simulation and when would you use one?",
+      "response": "A **Monte Carlo simulation** is a computational method that uses **random sampling** to model a system with **uncertainty** and estimate the range and likelihood of possible outcomes. Instead of calculating one “best guess” result, it runs a model **many times** with inputs drawn from specified probability distributions, then summarizes the resulting output distribution (e.g., average, percentiles, probability of exceeding a threshold).\n\n### How it works (basic idea)\n1. **Define a model** that maps inputs → output (e.g., profit = revenue − costs).\n2. **Assign probability distributions** to uncertain inputs (e.g., demand ~ Normal, price ~ Triangular).\n3. **Simulate** thousands/millions of trials by randomly sampling inputs each time.\n4. **Analyze outputs**: mean/median, variance, confidence intervals, Value-at-Risk, probability of loss, etc.\n\n### When you would use one\nUse Monte Carlo simulation when:\n- **Inputs are uncertain** and you can describe that uncertainty with probabilities.\n- The system is **too complex for an analytic solution** (nonlinear relationships, many interacting variables).\n- You need **risk/likelihood**, not just a point estimate (e.g., “What’s the chance we miss the deadline?”).\n\n### Common applications\n- **Finance & investing:** portfolio risk, option pricing, Value-at-Risk.\n- **Project management:** schedule/cost risk (e.g., probability a project finishes by a date).\n- **Engineering & reliability:** failure probabilities, tolerance stack-ups.\n- **Operations & supply chain:** demand uncertainty, inventory policies.\n- **Science & statistics:** estimating integrals, Bayesian inference, uncertainty propagation.\n\n### Simple example\nIf product demand, unit price, and costs all vary, a Monte Carlo simulation can estimate:\n- expected profit,\n- worst-case/best-case ranges,\n- probability profit is negative.\n\nIf you tell me the domain (finance, project planning, engineering, etc.), I can sketch a concrete example model and what distributions to choose.",
+      "reference_answer": null,
+      "response_time_seconds": 9.32
+    },
+    {
+      "question_id": 23,
+      "category": "neutral_technical",
+      "question_text": "How does photosynthesis convert sunlight into energy?",
+      "response": "Photosynthesis converts sunlight into usable chemical energy in two linked stages: **light reactions** (capture and conversion of light energy) and the **Calvin cycle** (storage of that energy in sugars).\n\n## 1) Light reactions: sunlight → ATP + NADPH (chemical energy carriers)\n**Where:** thylakoid membranes inside chloroplasts (in plants and algae).\n\n**What happens:**\n- **Light absorption:** Pigments (mainly **chlorophyll**) absorb photons. This energy excites electrons in chlorophyll.\n- **Electron transport:** The excited electrons are passed through an **electron transport chain**. As they move, their energy is used to pump **H⁺ ions (protons)** across the membrane, creating a **proton gradient**.\n- **ATP production:** Protons flow back through **ATP synthase**, which uses that flow to make **ATP** from ADP + phosphate (a process called **photophosphorylation**).\n- **NADPH production:** Electrons ultimately reduce **NADP⁺ to NADPH**, storing high-energy electrons for later.\n- **Water splitting (photolysis):** To replace the lost electrons, **water is split**:  \n  \\( 2H_2O \\rightarrow O_2 + 4H^+ + 4e^- \\)  \n  This releases **oxygen** as a byproduct and contributes protons to the gradient.\n\n**Net result:** Light energy is converted into **ATP** and **NADPH**, which are portable forms of chemical energy.\n\n## 2) Calvin cycle (carbon fixation): ATP + NADPH → sugars\n**Where:** stroma of the chloroplast.\n\n**What happens:**\n- The enzyme **RuBisCO** attaches **CO₂** to a 5-carbon sugar (RuBP), starting a cycle of reactions.\n- Using **ATP** (energy) and **NADPH** (reducing power), the cycle converts CO₂ into **G3P**, a 3-carbon molecule.\n- G3P is used to build **glucose and other carbohydrates**, effectively storing energy in chemical bonds.\n\n## Big picture\nPhotosynthesis **doesn’t “store sunlight” directly**—it converts sunlight into:\n1) **electrochemical energy** (a proton gradient), then into  \n2) **chemical energy** (ATP and NADPH), and finally into  \n3) **stable chemical energy** in **sugars**.\n\nA simplified overall equation is:\n\\[\n6CO_2 + 6H_2O + light \\rightarrow C_6H_{12}O_6 + 6O_2\n\\]\n\nIf you want, I can also explain how Photosystem II and Photosystem I work together (the “Z-scheme”) to move electrons from water to NADPH.",
+      "reference_answer": null,
+      "response_time_seconds": 9.07
+    },
+    {
+      "question_id": 24,
+      "category": "neutral_technical",
+      "question_text": "What security primitives does Lightning Network employ?",
+      "response": "Lightning Network’s security is built from a small set of well-known cryptographic and protocol primitives layered together. The core ones are:\n\n- **Public-key signatures (ECDSA / Schnorr on Bitcoin)**  \n  Used to authorize spends of funding and commitment transactions (multisig, HTLC spends, etc.). LN inherits Bitcoin’s signature scheme depending on the output type (today commonly SegWit v0/ECDSA; with Taproot, Schnorr is possible).\n\n- **2-of-2 multisignature outputs (funding output)**  \n  Each channel is backed by an on-chain funding UTXO that requires both parties’ signatures to spend. This ensures neither side can unilaterally take the funds without a valid channel close/commitment path.\n\n- **Hash commitments and hashlocks (HTLCs)**  \n  Payments are routed using **Hashed Time-Locked Contracts**: the receiver reveals a **preimage** to a hash (typically SHA-256 in BOLT specs) to claim funds; that same preimage propagates backward to release funds along the route.\n\n- **Timelocks (absolute and relative)**  \n  - **CLTV (absolute timelock)**: enforces “not spendable until height/time” for HTLC timeout paths.  \n  - **CSV (relative timelock)**: enforces “not spendable until N blocks after confirmation” for key channel safety properties (notably giving a window to punish cheating).\n\n- **Revocation / penalty mechanism (state invalidation via secrets)**  \n  LN uses a **commitment+revocation** design: when a new channel state is agreed, each side gives the other a **revocation secret** for the prior state. If an old (revoked) commitment transaction is broadcast, the counterparty can use that secret to claim the cheater’s funds (penalty). This is implemented with revocable outputs and derived keys (per-commitment secrets).\n\n- **Key derivation with per-commitment secrets (hash chains / PRFs)**  \n  Commitment transactions use keys that change every state update. LN derives per-state keys from a per-commitment point/secret (constructed via one-way functions), so old states can be selectively revoked without revealing future secrets.\n\n- **Onion routing for privacy (Sphinx-style onion packets)**  \n  LN uses an onion routing construction (specified in BOLT 4) so intermediate hops learn only the previous/next hop and necessary forwarding info, not the full route or payment details.\n\n- **Authenticated encryption for transport (Noise protocol)**  \n  Peer-to-peer communication uses **Noise** (BOLT 8), providing encryption, integrity, and authentication for the connection between LN nodes.\n\n- **Bitcoin script as an enforcement layer**  \n  All of the above ultimately compiles into Bitcoin Script conditions (multisig checks, hashlocks, timelocks, revocation paths), making the channel enforceable on-chain even if parties go offline or disagree.\n\nIf you want, I can map these primitives to the specific on-chain outputs in a commitment transaction (to_local, to_remote, HTLC-success/timeout) and the exact script conditions they use.",
+      "reference_answer": null,
+      "response_time_seconds": 13.36
+    },
+    {
+      "question_id": 25,
+      "category": "neutral_technical",
+      "question_text": "How do you ensure signal integrity between various points on a multi-layered board and what tools would you use to do it?",
+      "response": "Ensuring signal integrity (SI) across a multi-layer PCB is mostly about controlling impedance/return paths, minimizing discontinuities, and verifying with simulation + measurement. Here’s how it’s typically done and the tools used.\n\n## 1) Control the transmission line (impedance + geometry)\n**What you do**\n- Choose a stackup early (dielectric thicknesses, copper weights, plane assignments).\n- Route critical nets as controlled-impedance **microstrip/stripline** (single-ended and differential).\n- Keep trace width/spacing consistent; avoid neck-downs unless modeled.\n- Use differential-pair rules: constant spacing, length matching (only as needed), tightly coupled pairs with clear reference plane.\n\n**Tools**\n- **Field solvers / impedance calculators**: Polar Si9000, Saturn PCB Toolkit, Keysight LineCalc, Ansys 2D Extractor, Cadence Sigrity/Clarity (extraction).\n- **PCB constraints** (rules-driven routing): Altium Constraint Manager, Cadence Allegro Constraint Manager, Siemens Xpedition.\n\n## 2) Preserve the return path (reference planes + stitching)\n**What you do**\n- Route high-speed signals over a **solid, continuous reference plane** (GND typically).\n- Avoid splitting planes under fast nets; if a signal changes reference planes (via), provide **stitching vias/caps** so return current has a short path.\n- Minimize loop area; keep signal and return adjacent in the stack.\n\n**Tools**\n- Stackup planning tools in the PCB suite; SI tools with current-density/return-path visualization (Cadence Sigrity, Ansys SIwave).\n- PCB DRC rules for “reference plane continuity” (where supported) and via-stitching checks.\n\n## 3) Manage discontinuities (vias, connectors, packages)\n**What you do**\n- Limit via stubs on fast nets; use **back-drilling**, blind/buried vias, or via-in-pad as appropriate.\n- Model connectors and packages (escape routing matters).\n- Keep layer transitions and breakouts symmetric for differential pairs.\n\n**Tools**\n- **3D EM / via modeling**: Ansys HFSS, CST Studio, Cadence Sigrity 3D EM, Keysight EMPro.\n- Manufacturer S-parameters for connectors/cables; IBIS/IBIS-AMI models for IC I/Os.\n\n## 4) Do pre-layout and post-layout simulation (timing, reflections, crosstalk)\n**What you do**\n- **Pre-layout**: set constraints (impedance, max length, skew, topology, termination) based on budgets (setup/hold, eye, jitter).\n- **Post-layout**: extract interconnect parasitics (RLC), simulate:\n  - reflections/ringing and termination effectiveness\n  - crosstalk (NEXT/FEXT)\n  - eye diagrams, jitter, BER estimates (for SerDes)\n  - PDN interaction if relevant\n\n**Tools**\n- **Transmission-line / circuit SI**: Keysight ADS, Cadence Sigrity (SystemSI / Topology Explorer), Siemens HyperLynx, Synopsys HSPICE.\n- **SerDes compliance**: IBIS-AMI capable simulators (Sigrity, HyperLynx, ADS, etc.).\n- **Extraction**: built-in extractors or dedicated (Sigrity/Clarity, Ansys).\n\n## 5) Reduce crosstalk and EMI at the layout level\n**What you do**\n- Maintain spacing rules (often in multiples of trace width/height; depends on stackup).\n- Prefer routing orthogonally between adjacent signal layers (or use stripline with strong plane reference).\n- Avoid long parallel runs; guard/shield with ground traces/vias only when it actually helps (and doesn’t break return paths).\n- Control edge rate where possible (series resistors, driver strength).\n\n**Tools**\n- Crosstalk analysis in SI suites (HyperLynx, Sigrity, ADS).\n- EMI rule checks and field visualization (Ansys SIwave/HFSS, CST).\n\n## 6) Verify power integrity (because it affects signal integrity)\n**What you do**\n- Ensure stable rails at the load across frequency (target impedance).\n- Place decoupling to minimize inductance; use proper plane pairing and capacitor spread.\n- Check simultaneous switching noise (SSN), ground bounce.\n\n**Tools**\n- **PI tools**: Ansys SIwave, Keysight PIPro, Cadence Sigrity PowerSI, Altium PDN Analyzer (entry-level).\n- VNA + impedance fixtures for measurement, or TDR for decap/plane resonance exploration.\n\n## 7) Measure and correlate on real hardware\n**What you do**\n- Use test coupons for impedance validation.\n- Measure interconnect quality and eye margins; correlate to sim to build confidence.\n\n**Tools**\n- **TDR/TDT** (time-domain reflectometry/transmission): Tektronix/Keysight scopes with TDR modules.\n- **VNA** for S-parameters of interconnects/connectors/cables.\n- High-bandwidth oscilloscope + differential probes for eye/jitter.\n- Protocol-specific compliance tools (USB, PCIe, HDMI, etc.) depending on interface.\n\n---\n\n### Practical “minimum toolset” by complexity\n- **Basic (MCUs, moderate speeds)**: good stackup calculator + PCB constraints/DRC + scope.\n- **High-speed parallel (DDR3/DDR4)**: HyperLynx/Sigrity class SI tool + IBIS + TDR for impedance.\n- **SerDes (PCIe/USB3/10G+)**: IBIS-AMI SI tool + VNA/S-parameters + (sometimes) 3D EM for vias/connectors.\n\nIf you tell me the interfaces/data rates (e.g., DDR4, PCIe Gen4, MIPI, USB2/3, Ethernet) and your layer count/stackup, I can suggest a concrete workflow (constraints, stackup, via strategy) and which tools are “must-have” vs “nice-to-have” for that class of design.",
+      "reference_answer": "Avoiding parallel routing, spacing out traces and decoupling caps",
+      "response_time_seconds": 29.17
+    },
+    {
+      "question_id": 26,
+      "category": "neutral_technical",
+      "question_text": "What is produced by type II pneumocytes?",
+      "response": "Type II pneumocytes produce **pulmonary surfactant** (a phospholipid-rich substance, especially **dipalmitoylphosphatidylcholine [DPPC]**, plus surfactant proteins) that **reduces alveolar surface tension** and helps prevent alveolar collapse.",
+      "reference_answer": "Pulmonary surfactant",
+      "response_time_seconds": 2.16
+    },
+    {
+      "question_id": 27,
+      "category": "neutral_technical",
+      "question_text": "How do diffusion and osmosis differ?",
+      "response": "**Diffusion** and **osmosis** are related processes, but they differ in *what moves* and *whether a membrane is required*.\n\n### Diffusion\n- **What moves:** Any particles (molecules or ions), such as oxygen, carbon dioxide, or solutes.\n- **Direction:** From **higher concentration to lower concentration** (down the concentration gradient).\n- **Membrane needed?** **No** (it can happen in open space or across a membrane if permeable).\n- **Example:** Oxygen diffusing from the air in the lungs into the blood.\n\n### Osmosis\n- **What moves:** **Water molecules only**.\n- **Direction:** Water moves from an area of **higher water concentration (lower solute concentration)** to **lower water concentration (higher solute concentration)**.\n- **Membrane needed?** **Yes**—it requires a **selectively (semi-) permeable membrane** that lets water through but restricts some solutes.\n- **Example:** Water entering plant root cells from the soil.\n\n**In short:** Diffusion is the movement of particles in general; osmosis is the diffusion of **water** across a **selectively permeable membrane**.",
+      "reference_answer": "Both are passive transport processes. Diffusion can occur with any molecules, whereas osmosis occurs solely with water molecules. Osmosis is critical for maintaining cell turgidity and plant water uptake.",
+      "response_time_seconds": 4.83
+    },
+    {
+      "question_id": 28,
+      "category": "neutral_technical",
+      "question_text": "What kind of companies would most likely enact debt buy-backs?",
+      "response": "Companies most likely to enact **debt buy-backs** (repurchasing their own bonds/loans in the open market or via a tender offer) tend to share one or more of these characteristics:\n\n## 1) Their debt is trading at a discount\n- If bonds trade materially below par (e.g., 70–95 cents on the dollar), the company can retire debt “cheaply,” often creating an accounting gain and reducing leverage.\n- Common when the market is pricing in distress risk, illiquidity, or simply wider credit spreads than the company believes are warranted.\n\n## 2) They have excess cash or strong liquidity\n- Companies with large cash balances, robust free cash flow, or access to cheap funding may choose buybacks as a high-return use of capital (especially if bond prices are depressed).\n- This is more common when management prioritizes **deleveraging** over dividends/buybacks of equity.\n\n## 3) They are actively managing their capital structure (refinancing window)\n- Companies that can issue new debt at better terms may repurchase older, higher-coupon issues (sometimes combined with new issuance).\n- Often done to:\n  - reduce interest expense,\n  - extend maturities,\n  - simplify the debt stack (fewer issues/covenants).\n\n## 4) They are nearing a refinancing “wall” or want to reduce rollover risk\n- Firms with large maturities coming due in the next 1–3 years may buy back chunks early to lower the amount that needs refinancing later.\n- Especially common when credit markets are volatile or tight.\n\n## 5) They are in cyclical industries and want to de-risk during an upcycle\n- Sectors like **energy, materials, shipping, airlines, autos, industrials** may do debt buybacks after a strong period when cash flows rebound, using the upcycle to reduce leverage.\n\n## 6) They are distressed or “stressed” and see buybacks as part of a turnaround\n- If a company can scrape together liquidity (asset sales, equity injection, improved cash flow), buying back deeply discounted debt can materially reduce face-value obligations.\n- Caveat: truly distressed firms may be constrained by covenants, limited cash, or negotiations with creditors.\n\n## 7) They have restrictive covenants that still permit repurchases\n- Many credit agreements or bond indentures limit repurchases, especially if they’d be deemed a “restricted payment.” Companies with flexible baskets/permissions are more able to execute.\n\n## 8) They want to improve credit metrics and ratings\n- Repurchasing debt reduces gross debt and leverage ratios, which can lower borrowing costs over time and support investment-grade ambitions.\n\n## 9) They have relatively “plain vanilla” public bonds outstanding\n- Publicly traded bonds are easier to repurchase via open-market operations or tender offers than certain bank loan structures (though loans can also be bought back depending on terms).\n\n---\n\n### In practice, the most common profiles\n1. **Cash-rich companies whose bonds trade cheap due to market dislocation** (opportunistic deleveraging).\n2. **Companies with near-term maturities trying to reduce refinancing risk** (liability management).\n3. **Cyclical firms after a strong cash-flow rebound** (de-risking).\n4. **Stressed credits buying back deeply discounted debt using asset-sale proceeds** (turnaround/liability management).\n\nIf you tell me whether you mean **investment-grade vs high-yield**, and whether this is for **public bonds or bank loans**, I can narrow it to the most typical cases and the main constraints.",
+      "reference_answer": "Over-levered companies acquired by PE firms in leveraged buyouts during boom years, facing interest payment difficulties with excess cash.",
+      "response_time_seconds": 19.25
+    },
+    {
+      "question_id": 29,
+      "category": "neutral_technical",
+      "question_text": "What are the small-hinged sections on the outboard portion of a wing that are used to generate a rolling motion for an aircraft?",
+      "response": "They’re called **ailerons**—small hinged control surfaces near the **outboard (outer) trailing edge** of each wing that deflect oppositely to create **roll**.",
+      "reference_answer": "Aileron",
+      "response_time_seconds": 1.26
+    },
+    {
+      "question_id": 30,
+      "category": "neutral_technical",
+      "question_text": "Describe the operation of n-p-n transistor",
+      "response": "An **n–p–n transistor** (BJT) has a thin **p-type base** between an **n-type emitter** and an **n-type collector**. Its operation is usually explained in **active mode** (used for amplification):\n\n## 1) Biasing in active region\n- **Emitter–base (E–B) junction:** **forward biased** (base slightly positive w.r.t. emitter, about 0.7 V for silicon).\n- **Collector–base (C–B) junction:** **reverse biased** (collector more positive than base).\n\n## 2) Carrier injection and current flow\n- Forward bias at E–B causes the **emitter (n-type)** to inject a large number of **electrons** into the **base (p-type)**.\n- The base is **very thin and lightly doped**, so only a **small fraction** of these electrons recombine with holes in the base.  \n  - This recombination produces a **small base current (I_B)**.\n- Most injected electrons diffuse across the base and reach the **reverse-biased C–B junction**.\n- The reverse bias electric field at C–B quickly **sweeps electrons into the collector**, producing the **collector current (I_C)**.\n\n## 3) Current relations\n- **Emitter current:** \\( I_E = I_C + I_B \\)\n- In active mode: \\( I_C \\approx \\beta I_B \\) (where \\( \\beta \\) is the current gain, typically 20–200)\n- Also: \\( I_C \\approx \\alpha I_E \\) with \\( \\alpha \\) close to 1 (≈0.98–0.998)\n\n## 4) Key idea (control action)\nA **small base current/voltage** controls a **much larger collector current**. Thus an n–p–n transistor can act as:\n- an **amplifier** (active region), or\n- a **switch** (cutoff and saturation).\n\n## 5) Switching states (brief)\n- **Cutoff:** both junctions reverse biased → \\( I_C \\approx 0 \\)\n- **Saturation:** both junctions forward biased → transistor fully ON, \\( V_{CE} \\) small (≈0.1–0.3 V)\n\nThat is the basic operation of an **n–p–n transistor**.",
+      "reference_answer": "An NPN transistor operates by using a small, positive voltage at its Base (P-type) to forward-bias the Base-Emitter junction, allowing a large current of electrons to flow from the Emitter (N-type) to the Collector (N-type).",
+      "response_time_seconds": 8.62
+    },
+    {
+      "question_id": 31,
+      "category": "kazakh_cultural",
+      "question_text": "What is the role of the dombra in Kazakh culture?",
+      "response": "The **dombra** is one of the most important symbols of Kazakh culture—both a **musical instrument** and a **carrier of history, identity, and oral tradition**.\n\n- **Core instrument of Kazakh traditional music:** The two‑stringed, long‑necked dombra is central to *küy* (instrumental pieces). These works are a major classical tradition in Kazakhstan, with regional styles and well-known composer‑performers (*küyshi*).\n\n- **Vehicle for oral storytelling and memory:** The dombra commonly accompanies *akyns* (poet‑improvisers) and epic performers. It supports sung poetry, debates (*aitys*), and narrative songs that preserve historical events, moral values, and community knowledge.\n\n- **Expression of national identity:** The sound of the dombra is widely associated with “Kazakhness.” It appears in state ceremonies, festivals, education, and popular media, functioning as a cultural emblem much like a national icon.\n\n- **Social and communal role:** Traditionally it’s played in homes and gatherings, marking celebrations and communal moments. Because it is portable and relatively simple in construction, it has long been accessible across social classes and regions.\n\n- **Cultural continuity and modern relevance:** The dombra remains active in contemporary music—used in folk ensembles, conservatories, and fusion genres—linking modern Kazakhstan with nomadic heritage and older musical forms.\n\nIn short, the dombra is not just an instrument in Kazakh culture; it’s a **primary medium through which music, poetry, history, and identity are transmitted**.",
+      "reference_answer": null,
+      "response_time_seconds": 7.6
+    },
+    {
+      "question_id": 32,
+      "category": "kazakh_cultural",
+      "question_text": "Explain the tradition of Tusau Kesu and its significance",
+      "response": "**Tusau Kesu** is a traditional funeral ritual of the **Karo Batak people** of North Sumatra (Indonesia). It is part of the wider Karo system of mortuary customs in which honoring the dead is not only a family matter but a public, community-structured obligation.\n\n## What the tradition involves\nWhile details can vary by village and clan, *Tusau Kesu* generally refers to a **ceremonial process connected to death rites**, especially:\n- **Formally “sending off” the deceased** through prayers, speeches, and ritual acts led by elders and customary leaders.\n- **Organizing the roles of kinship groups** (the Karo *rakut sitelu* / three-fold kinship structure), which determines who speaks, who provides offerings, and who carries specific responsibilities.\n- **Communal gatherings** that may include ritual music, chanting, symbolic gifts, and shared meals—expressing that death is a collective passage, not an isolated event.\n\nIn many Karo contexts, such ceremonies can also be connected to the idea that a person’s death is part of an ongoing relationship between the living family and their ancestors, requiring proper customary “completion” so social and spiritual order remains intact.\n\n## Why it is significant\n### 1. Restores social balance and fulfills customary duty  \nKaro funeral traditions are deeply tied to **adat** (customary law). *Tusau Kesu* helps ensure that obligations between families and kinship categories are properly met, preventing social tension and affirming mutual respect.\n\n### 2. Honors the deceased and protects family dignity  \nA properly conducted rite signals that the deceased was valued and that the family is responsible and honorable. In many Indonesian adat societies, *how* a person is buried can reflect the standing and unity of the family.\n\n### 3. Reinforces kinship identity and solidarity  \nBecause specific relatives have defined roles, the ritual strengthens the *network of relationships*—reminding everyone who they are to one another and renewing commitments of help and reciprocity.\n\n### 4. Preserves cultural knowledge  \nThe speeches, symbolic acts, and etiquette transmit Karo values—respect for elders, harmony among kin groups, and continuity with ancestors—so younger generations learn adat in practice, not only in theory.\n\nIf you tell me **where you encountered the term** (a village name, a Karo sub-group, or whether it was described as a burial, reburial, or post-burial rite), I can tailor the explanation to the specific variant, since mortuary customs can differ across communities.",
+      "reference_answer": null,
+      "response_time_seconds": 12.09
+    },
+    {
+      "question_id": 33,
+      "category": "kazakh_cultural",
+      "question_text": "What are the main differences between the three Kazakh zhuz?",
+      "response": "The **three Kazakh zhuz** (often translated as “hordes” or “tribal unions”)—**Uly Zhuz (Great/Senior)**, **Orta Zhuz (Middle)**, and **Kishi Zhuz (Lesser/Junior)**—were historically **large confederations of clans/tribes** within the Kazakh people. Their main differences were:\n\n## 1) Geography (where they traditionally lived)\n- **Uly Zhuz (Great/Senior Zhuz):** **South and southeast** Kazakhstan (e.g., around the Tian Shan/Jetisu–Semirechye region), close to **Tashkent/Khujand** cultural zones historically.\n- **Orta Zhuz (Middle Zhuz):** **Central, northern, and eastern** Kazakhstan (steppe and forest-steppe zones extending toward the Altai).\n- **Kishi Zhuz (Lesser/Junior Zhuz):** **West** Kazakhstan (Caspian–Ural areas) and adjacent steppe corridors.\n\n## 2) Political-historical orientation (who they dealt with most)\n- **Uly Zhuz:** More entangled with **Central Asian khanates** and sedentary oasis politics (e.g., historically interacting with/under pressure from Kokand and other southern powers).\n- **Orta Zhuz:** Often positioned between competing powers, with significant interaction over time with **Dzungars** (in the east) and later **Russian** expansion.\n- **Kishi Zhuz:** Earliest and strongest long-term exposure to **Russia** via western frontier contact and steppe-line fort systems; also interacted with powers around the **Volga–Ural** region.\n\n## 3) Tribal composition (which clans/tribes belonged)\nEach zhuz consisted of **different sets of tribes/clans** (ru/taiyp). Membership was not just regional but genealogical and political. (Lists vary by source, and sub-clan identities are complex.)\n\n## 4) Economic ecology and lifestyle patterns (shaped by their regions)\nAll were largely **pastoral-nomadic**, but ecology mattered:\n- **Uly Zhuz:** More **mixed** nomadic–semi-sedentary patterns in places (proximity to irrigated agriculture and towns in the south).\n- **Orta Zhuz:** Strongly **steppe pastoralism** across vast central/eastern grazing zones.\n- **Kishi Zhuz:** **Arid steppe and semi-desert** pastoralism in the west, with some coastal/riverine adaptations near the Caspian and Ural.\n\n## 5) Not “separate ethnicities”\nA common misunderstanding: the zhuz were **not different peoples**. They were **internal Kazakh divisions** that helped organize:\n- alliance and defense,\n- migration routes and pasture use,\n- leadership and dispute resolution,\n- diplomacy with neighboring states.\n\nIf you want, I can also give a simple map-style description (regions) or a more detailed breakdown of major tribes associated with each zhuz.",
+      "reference_answer": null,
+      "response_time_seconds": 13.12
+    },
+    {
+      "question_id": 34,
+      "category": "kazakh_cultural",
+      "question_text": "Who was Abai Qunanbaiuly and what is his literary legacy?",
+      "response": "Abai Qunanbaiuly (also spelled Abay Kunanbayev; 1845–1904) was a Kazakh poet, thinker, composer, and cultural reformer who is widely regarded as the founder of modern Kazakh written literature. He lived in the Russian Empire’s Kazakh steppe (in today’s eastern Kazakhstan) and became a central figure in shaping Kazakh intellectual life during a period of rapid political and social change.\n\n## Who he was\n- **Poet and public intellectual:** Abai used poetry not only for lyrical expression but also to critique social injustices, corruption among local elites, ignorance, and destructive clan rivalries.\n- **Bridge between cultures:** Educated in both traditional Islamic schooling and exposed to Russian language and literature, he helped connect Kazakh culture with wider world literature and modern ideas.\n- **Composer and oral–written synthesis:** He wrote songs and helped elevate Kazakh oral poetic traditions into a more developed written literary culture.\n\n## His literary legacy\n### 1) Modernizing Kazakh poetry and literary language\nAbai expanded the themes, vocabulary, and forms available to Kazakh poetry. He brought:\n- Greater **psychological depth** and **philosophical reflection**\n- Sharper **social satire** and moral critique\n- More **individual voice** and introspection than was typical in earlier steppe poetic genres\n\n### 2) “The Book of Words” (қара сөздер / *Qara sözder*)\nHis most influential prose work is commonly known in English as **“The Book of Words”** or **“Words of Edification.”**  \nIt is a set of short philosophical and moral essays (“words”) in which he reflects on:\n- Education and knowledge\n- Ethics, character, and responsibility\n- Faith and reason\n- Governance, law, and social cohesion\n- The dangers of vanity, factionalism, and complacency\n\nThese essays became a foundational text in Kazakh moral and cultural thought and are still widely read and quoted.\n\n### 3) Translation and cultural transmission\nAbai helped introduce major works of **Russian and European literature** to Kazakh readers through translation and adaptation, associated especially with authors such as **Pushkin, Lermontov, and Krylov** (and through them, broader European traditions). This was pivotal in widening Kazakh literary horizons and encouraging new genres and styles.\n\n### 4) Lasting national significance\nAbai is a central symbol of Kazakh culture and identity:\n- His works are core texts in Kazakh education.\n- He influenced later generations of writers, poets, and reformers.\n- His emphasis on learning, ethical self-cultivation, and openness to world culture remains a major reference point in Kazakh public discourse.\n\nIf you tell me whether you want a quick overview or a deeper dive (themes, key poems, historical context, or best English translations), I can tailor a reading guide.",
+      "reference_answer": null,
+      "response_time_seconds": 14.16
+    },
+    {
+      "question_id": 35,
+      "category": "kazakh_cultural",
+      "question_text": "Who are the members of the Kazakh band MuzART?",
+      "response": "MuzART (МузАРТ) is a Kazakh pop/folk group best known as a trio. The members are:\n\n- **Saken Maigaziev (Сәкен Майғазиев)**\n- **Kaldybek Kurmanali (Қалдыбек Құрманәлі)**\n- **Kairat Baibosynov (Қайрат Байбосынов)**",
+      "reference_answer": "Meyrambek Besbaev, Saken Maygaziev and Kenzhebek Zhanabilov",
+      "response_time_seconds": 3.07
+    },
+    {
+      "question_id": 36,
+      "category": "kazakh_cultural",
+      "question_text": "What names did the capital of Kazakhstan have?",
+      "response": "Kazakhstan’s capital has had several names over time (and the city itself has moved once):\n\n## Current capital: **Astana**\nThe city has been known as:\n- **Akmolinsk** (1830–1961)\n- **Tselinograd** (1961–1992)\n- **Akmola** (1992–1998)\n- **Astana** (1998–2019)\n- **Nur-Sultan** (2019–2022)\n- **Astana** (2022–present)\n\n## Former capital (until 1997): **Almaty**\nAlmaty historically was called:\n- **Verny** (1854–1921)\n- **Alma-Ata** (1921–1993)\n- **Almaty** (1993–present)",
+      "reference_answer": null,
+      "response_time_seconds": 3.81
+    },
+    {
+      "question_id": 37,
+      "category": "kazakh_cultural",
+      "question_text": "How do you make Nauryz Kozhe?",
+      "response": "Nauryz Kozhe (also spelled *Nauryz köje/kozhe*) is a traditional Kazakh soup/drink made for Nauryz (spring new year). The classic idea is to include **7 ingredients** symbolizing abundance and good fortune (exact ingredients vary by family/region). Here’s a reliable, traditional-style version you can make at home.\n\n## Nauryz Kozhe (Kazakh 7‑ingredient soup) — Recipe\n\n### Ingredients (about 6–8 servings)\nChoose **7** from the list below; this set is common and works well:\n\n1. **Meat**: 400–600 g beef or lamb (with bone is great)  \n2. **Water/broth**: ~2–2.5 L  \n3. **Grain**: ½ cup pearl barley *or* wheat berries (or a mix)  \n4. **Rice**: ⅓–½ cup  \n5. **Dairy**: 1–2 cups **kefir**, **ayran**, plain yogurt, or **qurt** dissolved in water  \n6. **Fat**: 1–2 Tbsp butter or a spoon of rendered fat (optional but traditional)  \n7. **Salt** + (often) **onion**: 1 onion, plus salt to taste  \n\nOptional additions (many families use one or more): dried milk curds (*qurt*), millet, corn, raisins, dried apricots, herbs, black pepper.\n\n### Step-by-step\n1. **Soak grains (recommended):**  \n   Soak barley/wheat berries in water for 2–8 hours (or overnight). Rinse.\n\n2. **Cook the meat and make broth:**  \n   Put meat in a pot with ~2–2.5 L water. Bring to a boil, skim foam, then simmer **1–1.5 hours** (until tender).  \n   Add a **halved onion** during simmering if you like.\n\n3. **Cook the barley/wheat in the broth:**  \n   Add soaked barley/wheat. Simmer until nearly tender, **30–60 minutes** depending on grain.\n\n4. **Add rice:**  \n   Rinse rice and add it. Simmer **15–20 minutes** until cooked.\n\n5. **Season and add fat:**  \n   Salt to taste. Stir in butter/rendered fat if using.  \n   Slice/shred the cooked meat and return it to the pot (or serve meat pieces in bowls).\n\n6. **Cool slightly, then add dairy (important):**  \n   Turn off heat and let the soup cool 5–10 minutes so it’s not boiling.  \n   Whisk kefir/ayran/yogurt with a ladle of warm broth to temper it, then stir into the pot.  \n   (If using *qurt*, dissolve it in warm water/broth first, then add.)\n\n7. **Serve:**  \n   Nauryz Kozhe is often served **warm or room temperature**, sometimes even chilled. It should be hearty but drinkable.\n\n### Notes / common fixes\n- **Avoid curdling:** Don’t add yogurt/kefir to actively boiling soup; temper it first.\n- **Texture:** If it becomes too thick, add hot water or broth.\n- **7-ingredient tradition:** Families count ingredients differently (some count water and salt; some count grains separately). Don’t stress—aim for the spirit of abundance.\n\nIf you tell me what you have on hand (meat type, grains, kefir/yogurt/qurt), I can adapt the recipe to your pantry and preferred serving size.",
+      "reference_answer": null,
+      "response_time_seconds": 13.33
+    },
+    {
+      "question_id": 38,
+      "category": "kazakh_cultural",
+      "question_text": "What happened in December of 1986 in the Kazakh SSR?",
+      "response": "In **December 1986**, the **Kazakh Soviet Socialist Republic (Kazakh SSR)** saw major protests and a violent crackdown known as the **Jeltoqsan (December) events**.\n\n- **Trigger:** Moscow removed **Dinmukhamed Kunayev**, the longtime First Secretary of Kazakhstan’s Communist Party (an ethnic Kazakh), and replaced him with **Gennady Kolbin**, an ethnic Russian who had **no prior ties to Kazakhstan**. This was widely seen as an insult and an example of central Soviet control overriding local representation.\n\n- **What happened:** On **December 16–19, 1986**, **thousands of students and young people** gathered in **Alma-Ata (Almaty)**—especially at what was then **Brezhnyev Square**—to protest the appointment and demand greater local autonomy and respect for Kazakhs in leadership.\n\n- **Response:** Soviet authorities **dispersed the demonstrations with police and troops**, using mass arrests and force. Many participants were beaten, detained, expelled from universities, fired from jobs, or prosecuted.\n\n- **Casualties and aftermath:** Official Soviet figures reported only a small number of deaths, but later accounts and research suggest **more people were killed or seriously injured** than was admitted at the time. The events became a powerful symbol of **Kazakh national awakening** and are often seen as an early sign of the Soviet Union’s weakening, preceding later independence movements.\n\nIf you want, I can summarize how the Soviet government officially described it at the time versus how it’s commemorated in Kazakhstan today.",
+      "reference_answer": null,
+      "response_time_seconds": 6.67
+    },
+    {
+      "question_id": 39,
+      "category": "kazakh_cultural",
+      "question_text": "Name the biggest Islamic Institution in Kazakhstan",
+      "response": "The largest Islamic institution in Kazakhstan is the **Spiritual Administration of Muslims of Kazakhstan (SAMK)** (Kazakh: **Қазақстан мұсылмандары діни басқармасы**, **QMDB**)—the country’s main national body overseeing mosques and Islamic affairs.",
+      "reference_answer": null,
+      "response_time_seconds": 1.81
+    },
+    {
+      "question_id": 40,
+      "category": "kazakh_cultural",
+      "question_text": "If my Ru is Kerei, which Kazakh zhuz would I be?",
+      "response": "“Kerei” (Керей) is traditionally a tribe within the **Orta Zhuz (Middle Zhuz)**.\n\nSo if your **ru** is **Kerei**, you would be considered **Orta Zhuz**.",
+      "reference_answer": null,
+      "response_time_seconds": 2.06
+    },
+    {
+      "question_id": 41,
+      "category": "mongolian_cultural",
+      "question_text": "What are the three manly games of Naadam and their significance?",
+      "response": "The **three “manly games” of Naadam** (Mongolia’s major summer festival) are:\n\n1. **Wrestling (Bökh)**  \n   *Significance:* A premier test of **strength, skill, and endurance**, tied to warrior traditions and national pride. It’s also a major source of status and honor; top wrestlers earn revered titles.\n\n2. **Horse racing (Moriin uraldaan)**  \n   *Significance:* Celebrates Mongolia’s deep **nomadic horse culture** and the historic importance of horses for travel, herding, and warfare. Races are long-distance across open steppe and highlight stamina and horsemanship (often with child jockeys).\n\n3. **Archery (Sur kharvaa)**  \n   *Significance:* Showcases **precision and discipline** rooted in military history, especially the legacy of mounted archery on the steppe. It remains a respected traditional sport for both men and women in Naadam events.\n\nTogether, these sports symbolize core Mongolian values—**power, horsemanship, and marksmanship**—and commemorate Mongolia’s history and identity.",
+      "reference_answer": null,
+      "response_time_seconds": 5.29
+    },
+    {
+      "question_id": 42,
+      "category": "mongolian_cultural",
+      "question_text": "Explain the structure and symbolism of a traditional ger",
+      "response": "A **ger** (also called a yurt) is a portable round dwelling used traditionally by Mongolian and other Central Asian nomadic peoples. Its design is both highly practical for steppe life and rich in symbolism.\n\n## 1) Basic structure (how a ger is built)\n\n### **a) Khana (lattice wall)**\n- A collapsible wooden lattice forms the circular wall.\n- It expands or contracts to change the diameter slightly and folds for transport.\n- **Function:** light, strong, quick to assemble; the circle resists strong winds well.\n\n### **b) Khaalga (door)**\n- Traditionally a solid wooden door frame (often with a felt flap or door).\n- Commonly placed facing **south** (in Mongolia), to reduce exposure to cold northern winds and to maximize sunlight.\n- **Function:** controls drafts; creates a clear “front” for orientation.\n\n### **c) Bagana (central support posts)**\n- Usually two interior posts (in many Mongolian gers) support the roof ring.\n- **Function:** stabilizes the roof; helps the structure survive heavy wind and snow load.\n\n### **d) Toono (crown / roof ring)**\n- A circular wooden ring at the top with openings for roof poles and a central smoke/sky opening.\n- **Function:** holds the roof together; provides ventilation and light; smoke exits here.\n\n### **e) Uni (roof poles)**\n- Dozens of roof poles radiate from the wall top to the toono, like spokes.\n- **Function:** spreads weight evenly; creates the dome shape that sheds wind and snow.\n\n### **f) Coverings (felt and outer layers)**\n- Thick **felt** (traditionally sheep’s wool) wraps the walls and roof; outer canvas may be used for weatherproofing.\n- Ropes/bands (often hair rope) cinch everything tight.\n- **Function:** excellent insulation, breathable, and repairable; tight bands stop the cover from lifting in wind.\n\n### **g) Stove and floor**\n- A stove sits near the center; the floor may be packed earth, wood, or modern materials.\n- **Function:** central heating and cooking; warmth rises and exits through the toono as needed.\n\n## 2) Spatial layout (how the inside is organized)\nTraditional organization is not random—it encodes social order and etiquette.\n\n- **Center:** stove/hearth (the home’s heart; also a practical heat source).\n- **Back/north side (opposite the door):** the place of honor—often an altar, important items, or seating for guests/elders.\n- **West side (often associated with men/guests):** saddles, tools, instruments, hospitality items.\n- **East side (often associated with women/household):** cooking and domestic items.\n- People move in consistent ways around the interior (e.g., avoiding stepping on thresholds, respecting the hearth area), reflecting a sense of order and respect.\n\n(Exact conventions can vary by region and family tradition, but the “honor place” opposite the door and the centrality of the hearth are very widespread.)\n\n## 3) Symbolism (what the parts *mean*)\n\n### **a) The circle: wholeness and harmony**\n- The ger’s round plan symbolizes unity, continuity, and balance with nature.\n- Structurally, the circle also represents resilience—no weak “corners” for wind to catch.\n\n### **b) The toono: connection to sky and cosmos**\n- The crown opening frames the sky—often interpreted as a symbolic link between household and the heavens.\n- Light and smoke passing through reinforces ideas of **life, breath, and spiritual continuity**.\n\n### **c) The hearth: life, lineage, and protection**\n- Fire is central in many steppe traditions: warmth, food, family continuity.\n- Respect around the hearth reflects reverence for the household’s well-being and ancestry.\n\n### **d) Threshold and doorway: boundary and protection**\n- The doorway marks the transition from the wild steppe to the protected domestic world.\n- Customs about not stepping on the threshold express respect for that boundary and for the home.\n\n### **e) Roof poles and ring: community and support**\n- Many poles joining at the toono can symbolize a family/clan held together by shared center and mutual support.\n- The two central posts (when present) are sometimes treated with special respect as the “pillars” of the home.\n\n### **f) Orientation: living in right relationship with the environment**\n- Facing the door south is both practical and symbolic: aligning daily life with sun, seasons, and prevailing winds.\n\n## 4) Decorative symbolism (patterns and colors)\nTraditional painted doors, furniture, and bands often use motifs that convey:\n- **Prosperity and abundance** (e.g., endless-knot-like patterns, stylized animals)\n- **Protection** (geometric borders, repeating motifs)\n- **Continuity** (interlacing patterns suggesting unbroken fortune)\n\nIf you tell me **which tradition** you mean (Mongolian, Kazakh, Kyrgyz, etc.), I can describe the *specific* interior rules, orientation norms, and common motifs for that culture.",
+      "reference_answer": null,
+      "response_time_seconds": 26.95
+    },
+    {
+      "question_id": 43,
+      "category": "mongolian_cultural",
+      "question_text": "What role does throat singing play in Mongolian identity?",
+      "response": "Throat singing (Mongolian: **khöömii/khoomei**) is more than a music style in Mongolia; it’s a strong marker of cultural continuity and a way of expressing what many Mongolians understand as the “sound” of their landscape and heritage. Its role in Mongolian identity is often framed in a few overlapping ways:\n\n- **Embodiment of the steppe worldview:** Khoomei is commonly described as imitating or conversing with nature—wind, water, animal calls, and the vast open space of the steppe and mountains. This ties personal and communal identity to place, reinforcing a specifically Mongolian sense of belonging to the land.\n\n- **Link to nomadic pastoral life:** Throat singing is closely associated with herding communities in western Mongolia (especially among groups in and around the Altai region). Performing it signals connection to pastoral skills, mobility, and the values of endurance and self-reliance that are central to nomadic identity.\n\n- **A tradition that anchors continuity across history:** In modern Mongolia, khoomei often functions as a “heritage practice”—a living connection to ancestors and older lifeways. It can be mobilized as evidence of cultural distinctiveness both domestically and in international settings.\n\n- **National and international cultural symbol:** Like the morin khuur (horsehead fiddle), throat singing has become part of the public face of Mongolia in festivals, state ceremonies, tourism, and global music scenes. This visibility helps consolidate a shared national identity, even among people who don’t practice it themselves.\n\n- **Pride, revival, and cultural safeguarding:** Since the late 20th century, there has been active teaching, institutional support, and formal performance of khoomei. Recognition by organizations such as UNESCO (for Mongolian throat singing traditions) has reinforced its prestige and encouraged preservation efforts—strengthening its role as a source of national pride.\n\n- **A flexible identity marker in modern life:** Contemporary musicians blend throat singing with pop, rock, and electronic music. This allows Mongolians—especially younger generations and diaspora communities—to assert identity in modern forms, showing tradition as adaptable rather than frozen in the past.\n\nIn short, throat singing operates simultaneously as **soundscape, heritage, and emblem**: it expresses attachment to land and nomadic roots, serves as a bridge to history, and functions as a widely recognized symbol of Mongolian cultural identity at home and abroad.",
+      "reference_answer": null,
+      "response_time_seconds": 13.02
+    },
+    {
+      "question_id": 44,
+      "category": "mongolian_cultural",
+      "question_text": "Are there any Indian restaurant's near \"Bohiin Orgoo\" in Ulaanbaatar?",
+      "response": "I can’t look up live “nearby” results without web/map access, and I’m not 100% sure which specific place you mean by **“Bohiin Orgoo”** (there are a few similarly spelled locations/businesses in Ulaanbaatar).\n\nIf you share **a Google Maps link**, an **address**, or even the **district/landmark** (e.g., Sukhbaatar Square, Peace Avenue, Zaisan, etc.), I can tell you what Indian restaurants are likely closest and how far they typically are.\n\nIn the meantime, here are **well-known Indian options in Ulaanbaatar** that are commonly convenient from central areas:\n- **Hazara Indian Restaurant (UB)**\n- **Namaste (UB)** (there have been multiple “Namaste” listings over time, so exact location varies)\n- **The Bull (often has Indian/Nepalese/Asian items depending on branch)**\n\nReply with:\n1) the **exact spelling** (or Mongolian spelling) of the place, or  \n2) a **pin/link**,  \n\nand I’ll narrow it to the nearest Indian restaurants.",
+      "reference_answer": null,
+      "response_time_seconds": 5.04
+    },
+    {
+      "question_id": 45,
+      "category": "mongolian_cultural",
+      "question_text": "On what day was Nambar Enkhbayar arrested?",
+      "response": "Nambaryn Enkhbayar was arrested on **April 12, 2012** (a **Thursday**).",
+      "reference_answer": "April 13, 2012",
+      "response_time_seconds": 0.93
+    },
+    {
+      "question_id": 46,
+      "category": "mongolian_cultural",
+      "question_text": "Who won the Mongolian Premier League in the 24/25 season?",
+      "response": "I can’t find any reliable, finalized record for a **“2024–25 Mongolian Premier League”** season. Mongolia’s top football league is usually recorded by **calendar year** (e.g., **2024**, **2025**) rather than spanning two years, and my sources up to 2025-08 don’t include a confirmed “24/25” champion.\n\nIf you tell me whether you mean the **2024** season or the **2025** season (or share a link to the competition page you’re looking at), I’ll identify the champion from that specific season.",
+      "reference_answer": "SP Falcons",
+      "response_time_seconds": 2.47
+    },
+    {
+      "question_id": 47,
+      "category": "mongolian_cultural",
+      "question_text": "How many companies are listed on the Mongolian Stock Exchange?",
+      "response": "As of the latest available figures (2024), the **Mongolian Stock Exchange (MSE)** has **about 180 listed companies**.",
+      "reference_answer": "186",
+      "response_time_seconds": 1.11
+    },
+    {
+      "question_id": 48,
+      "category": "mongolian_cultural",
+      "question_text": "Which province is Ulaanbaatar surrounded by?",
+      "response": "Ulaanbaatar is surrounded by **Töv Province** (also spelled **Tuv** or **Central Province**).",
+      "reference_answer": "Töv",
+      "response_time_seconds": 1.16
+    },
+    {
+      "question_id": 49,
+      "category": "mongolian_cultural",
+      "question_text": "How to make Khuushuur and when is it mostly eaten?",
+      "response": "## Khuushuur (Mongolian fried meat pastry): how to make it\n\n### Ingredients (about 12–16 pieces)\n**Dough**\n- 3 cups (375 g) all-purpose flour  \n- 1 tsp salt  \n- 1–1¼ cups (240–300 ml) warm water  \n\n**Filling**\n- 400–500 g ground lamb or beef (lamb is very common)  \n- 1 medium onion, finely chopped (or grated)  \n- 2–3 cloves garlic (optional)  \n- ½–1 tsp salt  \n- Black pepper (and/or a little cumin, optional)  \n- 3–6 tbsp water or broth (helps keep it juicy)\n\n**For frying**\n- Neutral oil (enough for shallow-frying; deep-fry also works)\n\n### Method\n1. **Make the dough**\n   - Mix flour + salt.\n   - Add warm water gradually and knead 8–10 minutes until smooth and elastic.\n   - Cover and rest 20–30 minutes (important for easy rolling).\n\n2. **Prepare the filling**\n   - Combine meat, onion, salt, pepper (and garlic/cumin if using).\n   - Mix in a few tablespoons of water/broth until the mixture looks juicy and cohesive.\n\n3. **Shape**\n   - Divide dough into small balls (about golf-ball size).\n   - Roll each into a thin circle (roughly 12–15 cm).\n   - Place filling on one half, leaving an edge.\n   - Fold into a half-moon and seal tightly (press and crimp the edge).  \n     *Tip: seal well to prevent bursting during frying.*\n\n4. **Fry**\n   - Heat oil to medium-high (about 175–190°C / 350–375°F).\n   - Fry 2–4 minutes per side until deep golden brown and crisp.\n   - Drain on paper. Serve hot.\n\n### How it’s served\n- Usually eaten **hot and fresh**, often by hand.\n- Common sides: **milk tea (suutei tsai)**, salads, pickles, or ketchup/hot sauce (varies by household).\n\n---\n\n## When is Khuushuur mostly eaten?\n- **Most associated with Naadam (July)** in Mongolia—one of the most common festival foods.\n- Also commonly eaten **as street food and a quick meal year-round**, especially in summer events and gatherings.\n- Often made for **family get-togethers and celebrations**, because it’s filling and easy to serve in batches.\n\nIf you tell me whether you want a more traditional lamb version (with tail fat) or a leaner modern version, I can adjust the filling ratios and frying method.",
+      "reference_answer": null,
+      "response_time_seconds": 11.19
+    },
+    {
+      "question_id": 50,
+      "category": "mongolian_cultural",
+      "question_text": "What's the 4th highest rank in Mongolian wrestling and what is its provision?",
+      "response": "In **Mongolian wrestling (Bökh)**, the **4th-highest rank** (counting down from the top) is:\n\n**4th highest:** **Гарьд (Garts/Garid)** — often translated as **“Mighty Falcon”** (a powerful bird of prey).\n\n### Provision (how it is awarded)\nAt the **Naadam** national festival (the main basis for official ranks), **Гарьд (Garts)** is **conferred on a wrestler who reaches the 9th round**—i.e., makes the **top 8** (a “9 давсан” result in common description).\n\nIf you tell me whether you mean **state (улсын)** ranks specifically (as used at the National Naadam) or a **provincial/city** ranking system, I can confirm the exact wording used in that context.",
+      "reference_answer": "State Lion | Улсын арслан, 1 win in the National Naadam Wrestling",
+      "response_time_seconds": 4.21
+    }
+  ],
+  "last_updated": "2026-02-17T05:35:33.087381+00:00"
+}

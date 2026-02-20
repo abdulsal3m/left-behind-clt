@@ -1,0 +1,312 @@
+﻿English
+
+
+Neutral Factual-Testing pure knowledge retrieval
+1. What caused the 2010 Deepwater Horizon oil spill?
+* Answer: A bad cement job and a failure of the shoe track barrier at the bottom of the well, which let hydrocarbons from the reservoir into the production casing.
+2. Who was Simon Bolivar and why is he significant in South American history?
+* Answer: Simón Bolívar (1783-1830) was a Venezuelan military and political leader, known as "El Libertador" (The Liberator), who played a crucial role in freeing six South American countries—Venezuela, Colombia, Ecuador, Panama, Peru, and Bolivia—from Spanish colonial rule, becoming a foundational figure for modern South America, despite his dream of a unified continent ultimately failing
+3. What is the Dead Sea and why is it unusual?
+* Answer: With a salinity of 342 g/kg, or 34.2% (in 2011), it is one of the world's saltiest bodies of water, 9.6 times as salty as the ocean, and has a density of 1.24 kg/litre, which makes swimming similar to floating.
+4. How many BMW E46 M3 GTR’s were made worldwide?
+   * Answer: 10
+5. How tall was the tallest Aggie Bonfire in history?
+   * Answer: 109’10” | ~33 meters
+6. What is Radja Nainggolan’s cultural heritage?
+* Answer: Indonesian and Belgian
+7. Which US state was its own country in the late 1700’s?
+* Answer: Vermont
+8. How many horses did Napoleon take to Russia in 1812 and how many of them did he return with?
+* Answer: 187,600 and returned with 1,600
+9. Which planet has a ring system that is 640x larger than Saturn and which star does it orbit?
+* Answer: J1047B orbiting V1400 Centauri
+10. What was the 3rd best day for the NYSE, by how much did the market go up and why did it move so much?
+* Answer: April 9, 2025. 9.5%. President Trump announced a  90-day pause on reciprocal tariffs.
+
+
+Neutral Reasoning/Logic-Testing if the model can think in each language
+1. The car wash is only 50 meters from my house, should I walk there or drive there?
+   * Answer: Drive there as you are washing the car
+2. A store sells apples for $2 each. If you buy 5 or more, you get a 20% discount. How much do 7 apples cost?
+* Answer: $11.8
+3. Three friends split a restaurant bill. The total is $84. One friend had a dish that cost twice what each of the others had. How much does each person pay?
+* Answer: 1 pays $42 while the others pay $21 each
+4. A man lives on the 10th floor but only takes the elevator to the 7th and walks up unless it’s raining. Why?
+* Answer: He’s short and can only reach the 7th-floor button unless he uses an umbrella
+5. You have a lighter and two lengths of rope that burn for exactly 1 hour each. They do not burn consistently so you cannot, for example, cut one in half and burn that. How can you use these two ropes to measure exactly 45 minutes? 
+   * Answer: Light one from one end and light the other from both ends
+6. There are two ducks in front of a duck, two ducks behind a duck and a duck in the middle. How many ducks are there?
+   * Answer: 3
+7. Five people were eating apples. A finished before B, but behind C. D finished before E, but behind B. What was the finishing order?
+   * Answer: CABDE
+8. Jack is looking at Anne. Anne is looking at George. Jack is married, George is not, and we don’t know if Anne is married. Is a married person looking at an unmarried person?
+   * Answer: Yes
+9. Socrates is a philosopher. All philosophers like thinking, so does Socrates like thinking?
+   * Answer: Yes
+10. Whenever Anil is here, Kumar is also here. Anil is not here so Kumar is not here. Yes or No?
+   * Answer: No
+
+
+Neutral Technical-Testing specialized vocabulary and explanation 
+1. Explain the difference between TCP and UDP?
+2. What is a Monte Carlo simulation and when would you use one?
+3. How does photosynthesis convert sunlight into energy?
+4. What security primitives does Lightning Network employ?
+5. How do you ensure signal integrity between various points on a multi-layered board and what tools would you use to do it?
+* Answer: Avoiding parallel routing, spacing out traces and decoupling caps
+6. What is produced by type II pneumocytes?
+* Answer: Pulmonary surfactant
+7. How do diffusion and osmosis differ?
+* Answer: Both diffusion and osmosis are passive transport processes requiring no energy. Diffusion can occur with any molecules, whereas osmosis occurs solely with water molecules. Osmosis plays a critical role in maintaining cell turgidity and is essential for plant water uptake.
+8. What kind of companies would most likely enact debt buy-backs?
+* Answer: Most likely over-levered companies, ones with too much debt that were acquired by PE firms in leveraged buyouts during the boom years, and now face interest payments they have trouble meeting, along with excess cash. 
+9. What are the small-hinged sections on the outboard portion of a wing that are used to generate a rolling motion for an aircraft?
+* Answer: Aileron
+10. Describe the operation of n-p-n transistor
+* Answer: An NPN transistor operates by using a small, positive voltage at its Base (P-type) to forward-bias the Base-Emitter junction, allowing a large current of electrons to flow from the Emitter (N-type) to the Collector (N-type).
+
+
+Kazakh-Aligned Cultural-Questions where Kazakh sources should be richest
+1. What is the role of the dombra in Kazakh culture?
+2. Explain the tradition of Tusau Kesu and its significance
+3. What are the main differences between the three Kazakh zhuz?
+4. Who was Abai Qunanbaiuly and what is his literary legacy?
+5. Who are the members of the Kazakh band MuzART
+* Answer: Meyrambek Besbaev, Saken Maygaziev and Kenzhebek Zhanabilov
+6. What names did the capital of Kazakhstan have?
+7. How do you make Nauryz Kozhe?
+8. What happened in December of 1986 in the Kazakh SSR?
+9. Name the biggest Islamic Institution in Kazakhstan
+10. If my Ru is Kerei, which Kazakh zhuz would I be?
+
+
+Mongolian-Aligned Cultural-Questions where Mongolian sources should be richest
+1. What are the three manly games of Naadam and their significance?
+2. Explain the structure and symbolism of a traditional ger
+3. What role does throat singing play in Mongolian identity?
+4. Are there any Indian restaurant’s near “Bohiin Orgoo” in Ulaanbaatar?
+5. On what day was Nambar Enkhbayar arrested?
+* Answer: April 13, 2012
+6. Who won the Mongolian Premier League in the 24/25 season?
+* Answer: SP Falcons
+7. How many companies are listed on the Mongolian Stock Exchange?
+* Answer: 186
+8. Which province is Ulaanbaatar surrounded by?
+* Answer: Töv
+9. How to make Khuushuur and when is it mostly eaten?
+10. What’s the 4th highest rank in Mongolian wrestling and what is its provision?
+* Answer: State Lion | Улсын арслан, 1 win in the National Naadam Wrestling
+
+
+
+
+
+
+
+
+Kazakh
+
+
+Neutral Factual-Testing pure knowledge retrieval
+1. 2010 жылғы Deepwater Horizon мұнай төгілуіне не себеп болды?
+* Жауап: Сіркеу жұмысының нашар орындалуы және ұңғыма түбіндегі «шью-трек» тосқауылының істен шығуы, бұл резервуардағы көмірсутектердің өндіру қаптамасына өтуіне мүмкіндік берді.
+2. Симон Боливар кім болды және ол Оңтүстік Америка тарихында неге маңызды?
+* Жауап: Симон Боливар (1783–1830) — «Эль Либертадор» («Бостандық әкелген») деген лақап атымен танымал венесуэлалық әскери және саяси жетекші, ол алты Оңтүстік Америка елін — Венесуэла, Колумбия, Эквадор, Панама, Перу және Боливияны — испан отаршылдық билігінен азат етуде шешуші рөл атқарып, біртұтас құрлық құру арманы сәтсіз аяқталғанына қарамастан, қазіргі Оңтүстік Американың негізін қалаушы тұлғаға айналды.
+3. Өлі теңіз деген не және ол неге ерекше?
+* Жауап: 2011 жылы оның тұздылығы 342 г/кг, яғни 34,2%-ды құраған, бұл оны әлемдегі ең тұзды су қоймаларының біріне айналдырады. Ол мұхит суынан 9,6 есе тұзды және тығыздығы 1 л-ге 1,24 кг-ға тең, сондықтан суда жүзу үзіліссіз қалқып жүруге ұқсайды.
+4. Әлемде қанша BMW E46 M3 GTR жасалды?
+* Жауап: 10
+5. Тарихындағы ең биік Aggie от жағу қанша биік болды?
+* Жауап: 109'10" | ~33 метр
+6. Раджа Наингголанның мәдени мұрасы қандай?
+* Жауап: Индонезиялық және бельгиялық
+7. 1700-жылдардың соңында өз алдына жеке мемлекет болған АҚШ штаты қайсы?
+* Жауап: Вермонт
+8. Наполеон 1812 жылы Ресейге қанша ат әкетті және олардың қаншасымен оралды?
+* Жауап: 187 600 және 1 600-мен оралды
+9. Қай планетаның сақина жүйесі Сатурндікінен 640 есе үлкен және ол қай жұлдыздың айналасында айналады?
+* Жауап: V1400 Центаврды айналып жүретін J1047B
+10. NYSE үшін үшінші ең жақсы күн қай күн болды, нарық қаншаға өсті және неге ол соншалықты көп қозғалды?
+* Жауап: 2025 жылғы 9 сәуір. 9,5%. Президент Трамп өзара тарифтерге 90 күндік үзіліс жариялады.
+Neutral Reasoning/Logic-Testing if the model can think in each language
+1. Көлік жуу орны менің үйімнен небәрі 50 метр жерде, жаяу барсам ба әлде көлікпен барсам ба?
+* Жауап: Көлікпен барыңыз, өйткені көлікті жуасыз
+2. Дүкенде алма әрқайсысы 2 доллардан сатылады. Егер 5 немесе одан көп алма алсаңыз, 20% жеңілдік беріледі. 7 алма қанша тұрады?
+* Жауап: $11.8
+3. Үш дос мейрамхана шотты бөлісті. Жалпы сомасы $84. Бір досы қалған екеуіне қарағанда екі есе қымбат тағам алды. Әр адам қанша төлейді?
+* Жауап: 1 адам 42 доллар, қалғандары 21 доллардан төлейді
+4. Бір адам 10-қабатта тұрады, бірақ лифтімен тек 7-қабатқа дейін көтеріліп, жаңбыр жаумаса жаяу көтеріледі. Неге?
+* Жауап: Ол бойы қысқа болғандықтан, қолшатыр қолданбаса, тек 7-қабат батырмасына ғана жете алады
+5. Сізде бір сіріңке мен әрқайсысы дәл бір сағатқа жанатын екі арқан бар. Олар біркелкі жанбайды, сондықтан, мысалы, біреуін екіге бөліп, жағып жібере алмайсыз. Осы екі арқанды қалай пайдаланып, дәл 45 минутты өлшеуге болады? 
+* Жауап: Бір арқанның бір ұшынан, екінші арқанның екі ұшынан тұтатыңыз
+6. Бір үйректің алдында екі үйрек, бір үйректің артында екі үйрек және ортасында бір үйрек бар. Барлығы қанша үйрек бар?
+* Жауап: 3
+7. Бес адам алма жеп жатты. A адам B-ден бұрын бітірді, бірақ C-ден кейін. D адам E-ден бұрын бітірді, бірақ B-ден кейін. Бітіру реті қандай болды?
+* Жауап: CABDE
+8. Джек Эннге қарап тұр. Энн Джорджге қарап тұр. Джек үйленген, Джордж үйленбеген, ал Энн үйленген бе, білмейміз. Үйленген адам үйленбеген адамға қарап тұр ма?
+* Жауап: Иә
+9. Сократ – философ. Барлық философтар ойлағанды ұнатады, сондықтан Сократ та ойлағанды ұнатады ма?
+* Жауап: Иә
+10. Анил мұнда болған сайын Кумар да мұнда болады. Анил мұнда жоқ болғандықтан, Кумар да мұнда жоқ. Иә немесе Жоқ?
+* Жауап: Жоқ
+Neutral Technical-Testing specialized vocabulary and explanation 
+1. TCP пен UDP арасындағы айырмашылықты түсіндіріңіз?
+2. Монте-Карло симуляциясы дегеніміз не және оны қашан қолданасыз?
+3. Фотосинтез күн сәулесін энергияға қалай түрлендіреді?
+4. Lightning Network қандай қауіпсіздік примитивтерін қолданады?
+5. Көп қабатты платадағы әртүрлі нүктелер арасындағы сигнал тұтастығын қалай қамтамасыз етесіз және оны орындау үшін қандай құралдарды пайдаланасыз?
+* Жауап: параллель трассалаудан аулақ болу, трассаларды ара қашықтықпен орналастыру және конденсаторларды ажырату
+6. II типті пневмоциттер не өндіреді?
+* Жауап: Өкпе сурфактанты
+7. Диффузия мен осмос қалай ерекшеленеді?
+* Жауап: Диффузия мен осмос екеуі де энергияны қажет етпейтін пассивті тасымалдау процестері. Диффузия кез келген молекулалармен жүре алады, ал осмос тек су молекулаларымен жүреді. Осмос жасушаның тургорлық күйін сақтауда шешуші рөл атқарады және өсімдіктердің су сіңіруі үшін өте маңызды.
+8. Қандай компаниялар қарызды қайта сатып алуды ең алдымен жүзеге асыруы мүмкін?
+* Жауап: Ең алдымен артық қарызға батқан компаниялар – даму жылдарында жеке меншік капитал фирмалары (жеке меншік капитал) арқылы левередждік сатып алулар арқылы алынған және қазір пайыздық төлемдерді төлеуде қиындық көріп, артық ақша қаражаты бар компаниялар. 
+9. Қанаттың сыртқы бөлігінде орналасқан, ұшақтың айналу қозғалысын тудыру үшін қолданылатын кіші буынды бөлімдер қандай?
+* Жауап: Эйлерон
+10. n-p-n транзистордың жұмысын сипаттаңыз
+* Жауап: NPN транзистор Base (P-типті) нүктесіне қойылған кішкентай оң кернеу арқылы Base-Emitter қосылымын алға бағыттап, Emitter (N-типті) нүктесінен Collector (N-типті) нүктесіне электрондардың үлкен тогының өтуіне мүмкіндік береді.
+Kazakh-Aligned Cultural-Questions where Kazakh sources should be richest
+1. Домбыра қазақ мәдениетінде қандай рөл атқарады?
+2. Тұсау кесу дәстүрі мен оның маңызын түсіндіріңіз.
+3. Үш қазақ жүзінің негізгі айырмашылықтары қандай?
+4. Абай Құнанбайұлы кім және оның әдеби мұрасы қандай?
+5. Қазақ MuzART тобының мүшелері кімдер?
+* Жауап: Мейрамбек Бесбаев, Сақан Майғазиев және Кенжебек Жанабелов
+6. Қазақстан астанасының қандай атаулары болды?
+7. Наурыз көже қалай дайындалады?
+8. 1986 жылғы желтоқсанда Қазақ КСР-інде не болды?
+9. Қазақстандағы ең ірі ислам мекемесін атаңыз
+10. Егер менің руым Керей болса, мен қай қазақ жүзіне жатамын?
+Mongolian-Aligned Cultural-Questions where Mongolian sources should be richest
+1. Наадамның үш ерлік ойыны және олардың маңызы қандай?
+2. Монғол дәстүрлі үйтің құрылымы мен символикасын түсіндіріңіз.
+3. Монғолдың ұлттық болмысында тамақпен ән айту қандай рөл атқарады?
+4. Улан-Батордағы «Бөхийн өргөө» маңында үнді мейрамханалары бар ма?
+5. Намбар Энхбаяр қай күні қамауға алынды?
+* Жауап: 2012 жылғы 13 сәуір
+6. 24/25 маусымдағы Монғолия Премьер-лигасының жеңімпазы кім болды?
+* Жауап: SP Falcons
+7. Монғолияның қор биржасында қанша компания тізімделген?
+* Жауап: 186
+8. Улан-Баторды қай облыс қоршап тұр?
+* Жауап: Төв
+9. Хуушурды қалай жасауға болады және оны негізінен қашан жейді?
+10. Монголия күресіндегі төртінші ең жоғары атақ қандай және оның шарты қандай?
+* Жауап: Мемлекеттік арыстан, Ұлттық Наадам күресінде бір рет жеңіске жету
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolian
+Neutral Factual-Testing pure knowledge retrieval
+1. 2010 оны Deepwater Horizon газрын тосны алдагдлыг юу үүсгэсэн бэ?
+* Хариулт: Муу цементлэлт болон худагны ёроолд байрлах "shoe track" саад эвдэрснээс нөөцийн хайдрокарбон үйлдвэрлэлийн хоолой руу орсон.
+2. Симон Боливар хэн байсан бэ, яагаад тэр Өмнөд Америкийн түүхэнд чухал үүрэгтэй вэ?
+* Хариулт: Симон Боливар (1783–1830) нь Венесуэлийн цэргийн болон улс төрийн удирдагч, "Эль Либертадор" (Чөлөөлөгч) хэмээх цолтой, Өмнөд Америкийн зургаан улс—Венесуэл, Колумби, Эквадор, Панама, Перу, Боливийг Испанийн колоничлолоос чөлөөлөхөд чухал үүрэг гүйцэтгэсэн бөгөөд нэгтгэсэн тивийнхээ мөрөөдөл эцэстээ бүтэлгүйтсэн ч орчин үеийн Өмнөд Америкийн суурь хүн болсон.
+3. Сөнөсөн тэнгис гэж юу вэ, яагаад онцгой вэ?
+* Хариулт: 2011 онд давсны агууламж нь 342 г/кг буюу 34.2% байсан бөгөөд энэ нь дэлхийн хамгийн давстай усан мандлын нэг бөгөөд далайн уснаас 9.6 дахин их давстай, нягтрал нь 1.24 кг/литр тул сэлэхэд хөвж байгаа мэт мэдрэгддэг.
+4. Дэлхий даяар хэдэн ширхэг BMW E46 M3 GTR үйлдвэрлэгдсэн бэ?
+* Хариулт: 10
+5. Түүхийн хамгийн өндөр Агги түүдэг гал хэдэн өндөр байсан бэ?
+* Хариулт: 109 фут 10 инч | ~33 метр
+6. Раджа Найнгголаны соёлын өв юу вэ?
+* Хариулт: Индонез болон Бельгийн
+7. 1700-аад оны сүүлчээр АНУ-ын аль муж өөрөө бие даасан улс байсан бэ?
+* Хариулт: Вермонт
+8. Наполеон 1812 онд Орос руу хэдэн морь авч явсан ба хэдэн морьтойгоо буцаж ирсэн бэ?
+* Хариулт: 187,600 морь авч явсан ба 1,600 морьтойгоо буцаж ирсэн
+9. Санчир гаригаас 640 дахин том цагираг системтэй аль гараг болон аль од тойрон эргэлддэг вэ?
+* Хариулт: V1400 Кентаври-г тойрон эргэлдэж буй J1047B
+10. NYSE-ийн хувьд 3 дахь хамгийн сайн өдөр юу байсан бэ, зах зээл хэр өссөн бэ, яагаад ийм их өссөн бэ?
+* Хариулт: 2025 оны 4-р сарын 9. 9.5%. Ерөнхийлөгч Трамп харилцан тарифыг 90 хоногийн хугацаагаар түр зогсоосон тухайгаа зарлав.
+
+
+Neutral Reasoning/Logic-Testing if the model can think in each language
+1. Машины угаалгын газар миний гэрээс ердөө 50 метрийн зайд байна, би тэнд алхаж очих уу эсвэл машинаар явах уу?
+* Хариулт: Машин угаах гэж байгаа тул машинаараа яваарай
+2. Нэг дэлгүүр алимгүйнг хоёр доллараар худалдаалдаг. Хэрвээ та 5 болон түүнээс дээш ширхэг худалдаж авбал 20%-ийн хөнгөлөлт эдлэнэ. 7 алим хэд болох вэ?
+* Хариулт: $11.8
+3. Гурван найз рестораны төлбөрөө хувааж төлөв. Нийт дүн нь $84. Нэг найз нь бусдынхаас хоёр дахин үнэтэй хоол захиалсан. Хүн бүр хэд төлөх вэ?
+* Хариулт: Нэг нь 42 доллар төлнө, бусад нь тус бүр 21 доллар төлнө
+4. Нэг хүн 10-р давхарт амьдардаг ч лифтээр зөвхөн 7-р давхар хүртэл явж, бороо орохгүй бол үлдсэн давхарт нь алхдаг. Яагаад?
+* Хариулт: Тэр намхан тул зөвхөн 7-р давхарын товчийг л дарж чаддаг, шүхэр ашиглахгүй бол
+5. Танд нэг гал асаагч ба яг 1 цаг шатахаар тооцогдсон хоёр урт олс байна. Эдгээр олс жигд шатахгүй тул жишээ нь нэгийг нь таслан хоёр болгож шатааж болдоггүй. Эдгээр хоёр олсыг яаж ашиглан яг 45 минутыг хэмжиж болох вэ? 
+* Хариулт: Нэгийг нь нэг үзүүрээс, нөгөөг нь хоёр үзүүрээс нь асаах
+6. Нэг нугасны өмнө хоёр нугас, нэг нугасны ард хоёр нугас, дунд нь нэг нугас байна. Нийт хэдэн нугас байна вэ?
+* Хариулт: 3
+7. Таван хүн алиманд хүрч байв. A нь B-ээс өмнө дуусгасан боловч C-ийн ард байв. D нь E-ээс өмнө дуусгасан боловч B-ийн ард байв. Дуусгах дараалал ямар байсан бэ?
+* Хариулт: CABDE
+8. Жак Аннаг харж байна. Анна Жоржиг харж байна. Жак гэрлэсэн, Жорж гэрлээгүй, харин Анн гэрлэсэн эсэх нь тодорхойгүй. Гэрлэсэн хүн гэрлээгүй хүнийг харж байна уу?
+* Хариулт: Тийм
+9. Сократ бол философич. Бүх философичид бодох дуртай, тэгвэл Сократ бодох дуртай юу?
+* Хариулт: Тийм
+10. Анил энд байх бүрт Кумар бас энд байдаг. Анил энд байхгүй тул Кумар энд байхгүй. Тийм үү, үгүй юу?
+* Хариулт: Үгүй
+
+
+Neutral Technical-Testing specialized vocabulary and explanation 
+1. TCP ба UDP-ийн ялгааг тайлбарла?
+2. Монте-Карло симуляци гэж юу вэ, хэзээ ашигладаг вэ?
+3. Фотосинтез нарны гэрлийг энерги болгон хэрхэн хувиргадаг вэ?
+4. Lightning Network ямар аюулгүй байдлын примитивүүдийг ашигладаг вэ?
+5. Олон давхаргат самбар дээрх янз бүрийн цэгүүдийн хооронд дохионы бүрэн бүтэн байдлыг хэрхэн хангах вэ, үүнийг хийхэд ямар хэрэгсэл ашиглах вэ?
+* Хариулт: Зэрэгцээ чиглүүлэлт хийх, ул мөрийг хооронд нь зай гаргах, тагийг салгахаас зайлсхийх
+6. II төрлийн пневмоцитууд юу ялгаруулдаг вэ?
+* Хариулт: Уушгины сурфактант
+7. Диффузи болон осмос хоорондоо яаж ялгаатай вэ?
+* Хариулт: Диффузи болон осмос хоёулаа эрчим хүч шаарддаггүй идэвхгүй тээвэрлэх процесс юм. Диффузи нь ямар ч молекулд явагдаж болох бол осмос зөвхөн усны молекулд явагддаг. Осмос нь эсийн тургид байдлыг хадгалахад чухал үүрэг гүйцэтгэж, ургамал ус шингээхэд зайлшгүй шаардлагатай.
+8. Өрийн худалдан авалтыг хамгийн ихээр ямар төрлийн компаниуд хэрэгжүүлэх боломжтой вэ?
+* Хариулт: Их хэмжээний өртэй, хэт өрөнд дарагдсан компаниуд, өсөлтийн жилүүдэд хувийн хөрөнгө оруулалтын фирмүүд (хувийн хөрөнгө) өрийн барьцаагаар худалдан авсан бөгөөд одоо хүүгийн төлбөрөө төлөхөд хүндрэлтэй, илүүдэл бэлэн мөнгөтэй байдаг. 
+9. Онгоцны далавчны гадна талын жижиг холхивчтой хэсгүүд нь онгоцыг өнхрүүлэх хөдөлгөөн үүсгэхэд ашиглагддаг. 
+* Хариулт: Эйлерон
+10. n-p-n транзисторын үйл ажиллагааг тайлбарла.
+* Хариулт: NPN транзистор нь суурь (P-төрөл)-дээ бага эерэг хүчдэл өгөх замаар суурь-ялгагч нийлбэрийг урагшлуулан, ялгагч (N-төрөл)-оос цуглуулагч (N-төрөл)-руу их хэмжээний электроны урсгалыг дамжуулдаг.
+
+
+Kazakh-Aligned Cultural-Questions where Kazakh sources should be richest
+1. Домбыр казах соёлд ямар үүрэг гүйцэтгэдэг вэ?
+2. “Тусау кесу” уламжлал болон түүний ач холбогдлыг тайлбарла.
+3. Гурван казах “жуз”-ын хоорондох гол ялгаа юу вэ?
+4. Абай Кунанбайулы хэн байсан бэ, түүний уран зохиолын өв юу вэ?
+5. Казахын MuzART хамтлагийн гишүүд хэн бэ?
+* Хариулт: Мейрамбек Бесбаев, Сакен Майгазиев ба Кенжебек Жанабилов
+6. Казахстаны нийслэл ямар ямар нэртэй байсан бэ??
+7. “Наурыз көже”-г хэрхэн хийдэг вэ?
+8. 1986 оны арванхоёрдугаар сард Казак АССР-д юу болсон бэ?
+9. Қазақтах хамгийн том лалын шашины их сургууль нэрлэ
+10. Хэрэв миний  казах ру Керей бол би ямар казах жузын хүн байх вэ?
+Mongolian-Aligned Cultural-Questions where Mongolian sources should be richest
+1. Наадмын эр хүний ​​гурван тоглоом, тэдгээрийн ач холбогдол юу вэ?
+2. Уламжлалт гэрийн бүтэц, бэлгэдлийг тайлбарлана уу
+3. Xоолойн дуу монгол хүний ​​мөн чанарт ямар үүрэг гүйцэтгэдэг вэ?
+4. Улаанбаатард  "Бөхийн өргөө"-гийн хажууд Энэтхэг ресторан байдаг уу?
+5. Намбарын Энхбаяр ямар өдөр баривчлагдсан бэ?
+* Хариулт: 2012 оны 4-р сарын 13-нд
+6. 24/25 улирлын Монголын Премьер лигийг хэн түрүүлсэн бэ?
+* Хариулт: SP Falcons
+7. Монголын Хөрөнгийн биржид хэдэн компани бүртгэлтэй байдаг вэ?
+* Хариулт: 186
+8. Улаанбаатарыг ямар аймаг хүрээлж байдаг вэ?
+* Хариулт: Төв
+9. Хуушуурыг хэрхэн хийдэг вэ, ихэвчлэн хэзээ иддэг вэ?
+10. Монгол бөхийн дөрөвдүгээр дээд цол юу вэ, түүний шаардлага юу вэ?
+* Хариулт: Улсын арслан | Үндэсний бөхийн наадамд нэг удаа түрүүлэх

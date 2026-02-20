@@ -1,0 +1,35 @@
+% Table 2 — Model Category Breakdown
+\begin{table}[t]
+\centering
+\small
+\caption{Performance by model category. Eng.-First ($n$\!=\!250): Claude Opus 4.5, GPT-5.2, Gemini 3 Pro, Grok 4.1, Llama 4 Maverick. Bilingual ($n$\!=\!100): Qwen3, DeepSeek V3.2. Multiling.\ ($n$\!=\!50): Aya Expanse.}
+\label{tab:categories}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}llrcrc@{}}
+\toprule
+\textbf{Cat.} & \textbf{Cond.} & \textbf{Score} & \textbf{$\Delta$CLT} & \textbf{Time} & \textbf{Len.} \\
+\midrule
+\multirow{5}{*}{\rotatebox[origin=c]{90}{\scriptsize\textbf{Eng.-First}}}
+  & C1 & 92.2 & ---   & 7.2  & 231 \\
+  & C2 & 88.2 & \multirow{2}{*}{$-$1.1} & 11.8 & 130 \\
+  & C3 & 87.1 &       & 11.0 & 80  \\
+  & C4 & 87.3 & \multirow{2}{*}{$-$0.7} & 25.4 & 137 \\
+  & C5 & 86.7 &       & 14.7 & 89  \\
+\midrule
+\multirow{5}{*}{\rotatebox[origin=c]{90}{\scriptsize\textbf{Bilingual}}}
+  & C1 & 91.2 & ---   & 6.4  & 251 \\
+  & C2 & 79.2 & \multirow{2}{*}{+2.2} & 17.4 & 131 \\
+  & C3 & 81.3 &       & 18.4 & 80  \\
+  & C4 & 75.3 & \multirow{2}{*}{+4.3} & 29.1 & 163 \\
+  & C5 & 79.7 &       & 30.5 & 90  \\
+\midrule
+\multirow{5}{*}{\rotatebox[origin=c]{90}{\scriptsize\textbf{Multiling.}}}
+  & C1 & 82.3 & ---   & 10.1 & 239 \\
+  & C2 & 15.7 & \multirow{2}{*}{+4.3} & 22.9 & 111 \\
+  & C3 & 20.0 &       & 192\textsuperscript{\dag} & 71 \\
+  & C4 &  4.7 & \multirow{2}{*}{$-$0.3} & 14.5 & 130 \\
+  & C5 &  4.3 &       & 13.8 & 63  \\
+\bottomrule
+\multicolumn{6}{@{}l}{\textsuperscript{\dag}\footnotesize Inflated by pipeline timeout retries.}
+\end{tabular}
+\end{table}

@@ -1,0 +1,414 @@
+﻿English
+
+
+Neutral Factual-Testing pure knowledge retrieval
+1. What caused the 2010 Deepwater Horizon oil spill?
+* Answer: A bad cement job and a failure of the shoe track barrier at the bottom of the well, which let hydrocarbons from the reservoir into the production casing.
+2. Who was Simon Bolivar and why is he significant in South American history?
+* Answer: Simón Bolívar (1783-1830) was a Venezuelan military and political leader, known as "El Libertador" (The Liberator), who played a crucial role in freeing six South American countries—Venezuela, Colombia, Ecuador, Panama, Peru, and Bolivia—from Spanish colonial rule, becoming a foundational figure for modern South America, despite his dream of a unified continent ultimately failing
+3. What is the Dead Sea and why is it unusual?
+* Answer: With a salinity of 342 g/kg, or 34.2% (in 2011), it is one of the world's saltiest bodies of water, 9.6 times as salty as the ocean, and has a density of 1.24 kg/litre, which makes swimming similar to floating.
+4. How many BMW E46 M3 GTR’s were made worldwide?
+   * Answer: 10
+5. How tall was the tallest Aggie Bonfire in history?
+   * Answer: 109’10” | ~33 meters
+6. What is Radja Nainggolan’s cultural heritage?
+* Answer: Indonesian and Belgian
+7. Which US state was its own country in the late 1700’s?
+* Answer: Vermont
+8. How many horses did Napoleon take to Russia in 1812 and how many of them did he return with?
+* Answer: 187,600 and returned with 1,600
+9. Which planet has a ring system that is 640x larger than Saturn and which star does it orbit?
+* Answer: J1047B orbiting V1400 Centauri
+10. What was the 3rd best day for the NYSE, by how much did the market go up and why did it move so much?
+* Answer: On October 29, 1929–”Black Tuesday”–the Dow Jones Industrial average crashed more than 11.7%. This immediately followed “Black Thursday” and “Black Monday”; the three dates are considered to be the “first taste” of the Great Crash that followed. On October 30, 1929 John. D. Rockefeller Sr. attempted to reassure investors, stating “There is nothing in the business situation to warrant the destruction of values that has taken place on the exchanges during the past week. My son and I have for some days been purchasing sound common stocks.” Subsequently, DJIA rose more than 12% that day. The Dow, however, would go on to lose more than 80% before bottoming in 1932.
+
+
+Neutral Reasoning/Logic-Testing if the model can think in each language
+1. The car wash is only 50 meters from my house, should I walk there or drive there?
+   * Answer: Drive there as you are washing the car
+2. A store sells apples for $2 each. If you buy 5 or more, you get a 20% discount. How much do 7 apples cost?
+* Answer: $11.8
+3. Three friends split a restaurant bill. The total is $84. One friend had a dish that cost twice what each of the others had. How much does each person pay?
+* Answer: 1 pays $42 while the others pay $21 each
+4. A man lives on the 10th floor but only takes the elevator to the 7th and walks up unless it’s raining. Why?
+* Answer: He’s short and can only reach the 7th-floor button unless he uses an umbrella
+5. You have a lighter and two lengths of rope that burn for exactly 1 hour each. They do not burn consistently so you cannot, for example, cut one in half and burn that. How can you use these two ropes to measure exactly 45 minutes? 
+   * Answer: Light one from one end and light the other from both ends
+6. There are two ducks in front of a duck, two ducks behind a duck and a duck in the middle. How many ducks are there?
+   * Answer: 3
+7. Five people were eating apples. A finished before B, but behind C. D finished before E, but behind B. What was the finishing order?
+   * Answer: CABDE
+8. Jack is looking at Anne. Anne is looking at George. Jack is married, George is not, and we don’t know if Anne is married. Is a married person looking at an unmarried person?
+   * Answer: Yes
+9. Socrates is a philosopher. All philosophers like thinking, so does Socrates like thinking?
+   * Answer: Yes
+10. Whenever Anil is here, Kumar is also here. Anil is not here so Kumar is not here. Yes or No?
+   * Answer: No
+
+
+Neutral Technical-Testing specialized vocabulary and explanation 
+1. Explain the difference between TCP and UDP?
+* Answer: TCP and UDP are two core protocols of the Transport Layer of the OSI and TCP/IP models. Both are responsible for end-to-end communication between applications, but they differ significantly in terms of reliability, speed, and use cases. TCP is a reliable, connection-oriented transport protocol that ensures accurate and ordered data delivery. It uses control mechanisms to guarantee data correctness, which makes it slower but dependable. UDP is a fast, connectionless transport protocol that sends data without reliability guarantees. It is efficient for applications where speed is more important than accuracy.
+2. What is a Monte Carlo simulation and when would you use one?
+* Answer: A Monte Carlo simulation is a way to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty. Monte Carlo simulations can be applied to a range of problems in many fields, including investing, business, physics, and engineering. It is also referred to as a multiple probability simulation.
+3. How does photosynthesis convert sunlight into energy?
+* Answer: The type of energy transformed into chemical energy by plants through photosynthesis is sunlight, which is harnessed and converted with remarkable efficiency. The photosynthetic equation, simplified, is represented as: [6CO2 + 6H2O + light\ energy \rightarrow C6H{12}O6 + 6O2]. This equation illustrates the process whereby plants take in carbon dioxide ((CO2)) from the atmosphere and water ((H2O)) from the soil, which, under the influence of sunlight, are converted into glucose ((C6H{12}O6)) and oxygen ((O2)). Glucose serves as a vital source of energy for the plant, fueling its various metabolic activities, while oxygen, a by-product of this reaction, is released back into the atmosphere, contributing to the breathable air essential for human and animal life.
+4. What security primitives does Lightning Network employ?
+* Answer: The Lightning Network employs cryptographic and incentive-based security primitives to ensure secure, off-chain Bitcoin transactions. Core mechanisms include Hashed Timelock Contracts (HTLCs) for secure routing, penalty transactions against malicious nodes, onion routing (Sphinx) for privacy, and revocable, multi-signature, off-chain payment channels.
+5. How do you ensure signal integrity between various points on a multi-layered board and what tools would you use to do it?
+* Answer: Avoiding parallel routing, spacing out traces and decoupling caps
+6. What is produced by type II pneumocytes?
+* Answer: Pulmonary surfactant
+7. How do diffusion and osmosis differ?
+* Answer: Both diffusion and osmosis are passive transport processes requiring no energy. Diffusion can occur with any molecules, whereas osmosis occurs solely with water molecules. Osmosis plays a critical role in maintaining cell turgidity and is essential for plant water uptake.
+8. What kind of companies would most likely enact debt buy-backs?
+* Answer: Most likely over-levered companies, ones with too much debt that were acquired by PE firms in leveraged buyouts during the boom years, and now face interest payments they have trouble meeting, along with excess cash. 
+9. What are the small-hinged sections on the outboard portion of a wing that are used to generate a rolling motion for an aircraft?
+* Answer: Aileron
+10. Describe the operation of n-p-n transistor
+* Answer: An NPN transistor operates by using a small, positive voltage at its Base (P-type) to forward-bias the Base-Emitter junction, allowing a large current of electrons to flow from the Emitter (N-type) to the Collector (N-type).
+
+
+Kazakh-Aligned Cultural-Questions where Kazakh sources should be richest
+1. What is the role of the dombra in Kazakh culture?
+* Answer: The dombra is a two-stringed, plucked, long-necked lute that serves as the cornerstone of Kazakh cultural identity and musical heritage, often called the "soul of the Kazakh people". It plays a crucial role in preserving the Nomadic culture of the Kazakh people, and getting communities together. A kuy which is a solo instrumental piece is usually played with the dombra with many ways to accompany it such as no vocals, telling stories/legends, debating (aitys) and more.
+2. Explain the tradition of Tusau Kesu and its significance
+* Answer: Tusau Kesu, translating to “cutting the fetters”, is a tradition that many Kazakh children go through. This ceremony is held usually when the child is around 1 - 1.5 years old (crawling, learning to walk or walking). During the ceremony, the child’s legs are tied loosely with usually 2 ropes(black and white), there are even instances of black and white plus sheep or other animal intestines as well intertwined into the 2-3 layer rope. This rope is cut by a family member or close acquaintance who the family of the child respects and wants the child to follow in their footsteps and once the ropes have been cut, the child is called by their parents who are standing behind a row of things, most common are: Book, Quran, Money, Dombra and etc and the child chooses one of them and their choosing is supposed to give an outlook into their future. 
+3. What are the main differences between the three Kazakh zhuz?
+* Answer: A jüz, translated as horde, is one of the three main territorial and tribal divisions in the Kypchak Plain area that covers much of contemporary Kazakhstan. It represents the main tribal division within the ethnic group of the Kazakhs. The Senior jüz(Ūly Jüz)covers territories of southern and southeastern Kazakhstan, northwestern China (Xinjiang) and parts of Uzbekistan. The Middle jüz(Orta Jüz) consists of six tribes, covering northern, central and eastern Kazakhstan, and northwestern China. The Junior jüz (Kışı Jüz))consists of three tribes, covering western Kazakhstan and eastern European Russia.
+4. Who was Abai Qunanbaiuly and what is his literary legacy?
+* Answer: Abai Qunanbaiuly was a well-known Kazakh poet, a great thinker, composer, philosopher, the founder of written Kazakh literature, and its first classic. The heritage he left his nation is rich in songs and poems, translations and prose. The Book of Words created by Abai Qunanbaiuly is a philosophic treatise and collection of poems where he encourages his fellow Kazakhs to embrace education, literacy, and good moral character in order to escape poverty, enslavement and corruption. This creation of his is an exploration of Kazakh national life in the second half of the 19th century. Abai’s main contribution to Kazakh culture and folklore lies in his poetry, which expresses great nationalism and grew out of Kazakh folk culture. Before him, most Kazakh poetry was oral, echoing the nomadic habits of the people of the Kazakh steppes.
+5. Who are the members of the Kazakh band MuzART
+* Answer: Meyrambek Besbaev, Saken Maygaziev and Kenzhebek Zhanabilov
+6. What names did the capital of Kazakhstan have?
+* Answer: Akmoly(founded 1830), Akmolinsk (1832), Tselinograd (1961), Aqmola (1992), Astana(1998), Nur-Sultan (2019), and back to Astana in 2022
+7. How do you make Nauryz Kozhe?
+* Answer: Add the ingredients into a bowl, Rinse well under cold water, then drain, Then add hot water into the bowl until the grains are completely submerged and set aside to soak, Add the ingredients into the appliance bowl, fit the splashguard, Cook until boiling - 20 minutes, 150ºC, speed Off, Cook the meat until is tender, and scoop out any foam from the broth while it is cooking - 2 hours, 92ºC, speed Off, Remove the meat from the broth into a clean bowl, Strain the broth through a fine mesh sieve into a clean bowl, then transfer back into the appliance bowl, Cook until hot - 5 minutes, 105ºC, Stir, Drain the soaked grains and then transfer them into the appliance bowl, Cook until the grains are cooked through - 20 minutes, 105ºC, Stir, Cut the meat into small pieces, removing any bones if necessary, Add the meat back into the appliance bowl, Stir until combined - 1 minute, Ladle the broth to serving bowls, Add kefir to the broth according to your taste
+8. What happened in December of 1986 in the Kazakh SSR?
+* Answer: Jeltoqsan, December uprising/protets
+9. Name the biggest Islamic Institution in Kazakhstan
+* Answer: Can be answered as either “Spiritual Administration of Muslims of Kazakhstan (SAMK, also known as the Muftiate of Kazakhstan)” or “Nur-Mubarak University / Egyptian University of Islamic Culture Nur-Mubarak”
+10. If my Ru is Kerei, which Kazakh zhuz would I be?
+* Answer: Middle zhuz, Orta zhuz/juz
+
+
+Mongolian-Aligned Cultural-Questions where Mongolian sources should be richest
+1. What are the three manly games of Naadam and their significance?
+* Answer: The three manly games, aka “Eriin Gurvan Naadam” consists of: Horse racing, Archery and Wrestling. The three types of sports are directly linked with the lifestyles and living conditions of the Mongols and their transmission is traditionally undertaken through home-schooling by family members, although formalized training regimens have recently developed for wrestling and archery. The rituals and customs of Naadam also accentuate respect for nature and the environment.
+2. Explain the structure and symbolism of a traditional ger
+* Answer: The design of the ger is not purely functional; it reflects the philosophical, spiritual, and social world of the Mongolian nomads. 
+   * The Cosmos and Universe: The ger is a direct representation of the universe. The toono represents the sun, the sky, or a portal to the "upper world," while the entire structure resembles a miniature dome of the sky.
+   * The Center (Golomt): The stove in the middle is the heart of the ger, symbolizing family unity and the connection between earth (fire) and heaven (smoke). The fireplace is considered sacred.
+   * The Pillars (Bagana): The two central pillars are viewed as sacred, representing the link between heaven and earth, as well as the stability of the family.
+   * Numbers and Rafters: The number of roof rafters (uni) can hold significance. Often a 5-wall ger has 81 rafters (9x9), as 9 is a sacred number in Mongolian tradition.
+   * Colors and Decoration: The woodwork is traditionally painted orange (representing the sun, fire, and joy) and blue (representing the eternal blue sky)
+                
+                        The structure is the same across the country: a wooden frame painted and decorated with traditional ornamentation, covers made of white felt and canvas, ropes of animal hair, flooring and carpets of hand-sewn felt, and furniture
+3. What role does throat singing play in Mongolian identity?
+* Answer: Mongolian throat singing, known as khöömei, is a vital pillar of cultural identity, symbolizing a deep, spiritual connection to the nomadic landscape, ancestors, and the natural world. By mimicking sounds of wind, water, and animals, it serves as a living expression of Mongolia's heritage, reinforcing community bonds and cultural pride.
+4. Are there any Indian restaurant’s near “Bohiin Orgoo” in Ulaanbaatar?
+* Answer: Hazara - BZD - 6 khoroo, Ulaanbaatar 13373, Mongolia
+5. On what day was Nambar Enkhbayar arrested?
+* Answer: April 13, 2012
+6. Who won the Mongolian Premier League in the 24/25 season?
+* Answer: SP Falcons
+7. How many companies are listed on the Mongolian Stock Exchange?
+* Answer: ~186
+8. Which province is Ulaanbaatar surrounded by?
+* Answer: Töv
+9. How to make Khuushuur and when is it mostly eaten?
+* Answer: Khuushuur is made by mixing flour with water and optionally eggs to create a dough which is then spread and kneaded out into a circle and filled with ground beef and sometimes onions. Afterwards, it is folded and pinched close to form a half circle shape. Finally, it is fried in oil, most traditionally animal fats like beef/lamb tallow. 
+
+
+It is an affordable dish and eaten by the Mongolian people often and can be found at Mongolian-cuisine restaurants but Khuushuur makes its biggest appearance at Naadam, where it is a staple. 
+10. What’s the 4th highest rank in Mongolian wrestling and what is its provision?
+* Answer: State Lion | Улсын арслан, 1 win in the National Naadam Wrestling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kazakh
+
+
+Neutral Factual-Testing pure knowledge retrieval
+1. 2010 жылғы Deepwater Horizon мұнай төгілуіне не себеп болды?
+* Жауап: Сіркеу жұмысының нашар орындалуы және ұңғыма түбіндегі «шью-трек» тосқауылының істен шығуы, бұл резервуардағы көмірсутектердің өндіру қаптамасына өтуіне мүмкіндік берді.
+2. Симон Боливар кім болды және ол Оңтүстік Америка тарихында неге маңызды?
+* Жауап: Симон Боливар (1783–1830) — «Эль Либертадор» («Бостандық әкелген») деген лақап атымен танымал венесуэлалық әскери және саяси жетекші, ол алты Оңтүстік Америка елін — Венесуэла, Колумбия, Эквадор, Панама, Перу және Боливияны — испан отаршылдық билігінен азат етуде шешуші рөл атқарып, біртұтас құрлық құру арманы сәтсіз аяқталғанына қарамастан, қазіргі Оңтүстік Американың негізін қалаушы тұлғаға айналды.
+3. Өлі теңіз деген не және ол неге ерекше?
+* Жауап: 2011 жылы оның тұздылығы 342 г/кг, яғни 34,2%-ды құраған, бұл оны әлемдегі ең тұзды су қоймаларының біріне айналдырады. Ол мұхит суынан 9,6 есе тұзды және тығыздығы 1 л-ге 1,24 кг-ға тең, сондықтан суда жүзу үзіліссіз қалқып жүруге ұқсайды.
+4. Әлемде қанша BMW E46 M3 GTR жасалды?
+* Жауап: 10
+5. Тарихындағы ең биік Aggie от жағу қанша биік болды?
+* Жауап: 109'10" | ~33 метр
+6. Раджа Наингголанның мәдени мұрасы қандай?
+* Жауап: Индонезиялық және бельгиялық
+7. 1700-жылдардың соңында өз алдына жеке мемлекет болған АҚШ штаты қайсы?
+* Жауап: Вермонт
+8. Наполеон 1812 жылы Ресейге қанша ат әкетті және олардың қаншасымен оралды?
+* Жауап: 187 600 және 1 600-мен оралды
+9. Қай планетаның сақина жүйесі Сатурндікінен 640 есе үлкен және ол қай жұлдыздың айналасында айналады?
+* Жауап: V1400 Центаврды айналып жүретін J1047B
+10. NYSE үшін үшінші ең жақсы күн қай күн болды, нарық қаншаға өсті және неге ол соншалықты көп қозғалды?
+* Жауап: 1929 жылғы 29 қазанда – «Қара сейсенбі» – Доу-Джонс өнеркәсіптік орташа индексі 11,7%-дан астамға құлдырады. Бұл «Қара бейсенбі» мен «Қара дүйсенбі» оқиғаларынан кейін бірден болды; осы үш күн Кейінгі Ұлы дағдарыстың «алғашқы дәмін» татқан күндер ретінде саналады. 1929 жылғы 30 қазанда Джон. Д. Рокфеллер-әке инвесторларды сендіруге тырысып: «Өткен аптада биржаларда болған құндылықтардың жойылуын ақтап беретін ештеңе жоқ. Мен және ұлым бірнеше күннен бері сенімді қарапайым акцияларды сатып алып жүрміз», – деді. Соның нәтижесінде сол күні DJIA 12%-дан астамға өсті. Алайда Доу Джонс индексі 1932 жылы ең төменгі деңгейге жеткенге дейін 80%-дан астам құлдырады.
+Neutral Reasoning/Logic-Testing if the model can think in each language
+1. Көлік жуу орны менің үйімнен небәрі 50 метр жерде, жаяу барсам ба әлде көлікпен барсам ба?
+* Жауап: Көлікпен барыңыз, өйткені көлікті жуасыз
+2. Дүкенде алма әрқайсысы 2 доллардан сатылады. Егер 5 немесе одан көп алма алсаңыз, 20% жеңілдік беріледі. 7 алма қанша тұрады?
+* Жауап: $11.8
+3. Үш дос мейрамхана шотты бөлісті. Жалпы сомасы $84. Бір досы қалған екеуіне қарағанда екі есе қымбат тағам алды. Әр адам қанша төлейді?
+* Жауап: 1 адам 42 доллар, қалғандары 21 доллардан төлейді
+4. Бір адам 10-қабатта тұрады, бірақ лифтімен тек 7-қабатқа дейін көтеріліп, жаңбыр жаумаса жаяу көтеріледі. Неге?
+* Жауап: Ол бойы қысқа болғандықтан, қолшатыр қолданбаса, тек 7-қабат батырмасына ғана жете алады
+5. Сізде бір сіріңке мен әрқайсысы дәл бір сағатқа жанатын екі арқан бар. Олар біркелкі жанбайды, сондықтан, мысалы, біреуін екіге бөліп, жағып жібере алмайсыз. Осы екі арқанды қалай пайдаланып, дәл 45 минутты өлшеуге болады? 
+* Жауап: Бір арқанның бір ұшынан, екінші арқанның екі ұшынан тұтатыңыз
+6. Бір үйректің алдында екі үйрек, бір үйректің артында екі үйрек және ортасында бір үйрек бар. Барлығы қанша үйрек бар?
+* Жауап: 3
+7. Бес адам алма жеп жатты. A адам B-ден бұрын бітірді, бірақ C-ден кейін. D адам E-ден бұрын бітірді, бірақ B-ден кейін. Бітіру реті қандай болды?
+* Жауап: CABDE
+8. Джек Эннге қарап тұр. Энн Джорджге қарап тұр. Джек үйленген, Джордж үйленбеген, ал Энн үйленген бе, білмейміз. Үйленген адам үйленбеген адамға қарап тұр ма?
+* Жауап: Иә
+9. Сократ – философ. Барлық философтар ойлағанды ұнатады, сондықтан Сократ та ойлағанды ұнатады ма?
+* Жауап: Иә
+10. Анил мұнда болған сайын Кумар да мұнда болады. Анил мұнда жоқ болғандықтан, Кумар да мұнда жоқ. Иә немесе Жоқ?
+* Жауап: Жоқ
+Neutral Technical-Testing specialized vocabulary and explanation 
+1. TCP пен UDP арасындағы айырмашылықты түсіндіріңіз?
+* Жауап: TCP пен UDP – OSI және TCP/IP модельдерінің тасымалдау қабатының екі негізгі протоколы. Екеуі де қолданбалар арасындағы басынан аяғына дейінгі байланыс үшін жауапты, бірақ олар сенімділік, жылдамдық және қолдану салалары бойынша айтарлықтай ерекшеленеді. TCP – сенімді, қосылымға негізделген тасымалдау протоколы, ол деректердің дәл және рет-ретімен жеткізілуін қамтамасыз етеді. Ол деректердің дұрыстығын кепілдендіру үшін басқару механизмдерін пайдаланады, бұл оны баяулатады, бірақ сенімді етеді. UDP – жылдам, қосылымсыз тасымалдау протоколы, ол деректерді сенімділік кепілдіктерінсіз жібереді. Дәлдікке қарағанда жылдамдық маңыздырақ қосымшалар үшін ол тиімді.
+2. Монте-Карло симуляциясы дегеніміз не және оны қашан қолданасыз?
+* Жауап: Монте-Карло симуляциясы – кездейсоқ айнымалылардың араласуы салдарынан оңай болжауға келмейтін үдерістегі әртүрлі нәтижелердің ықтималдығын модельдеу тәсілі. Бұл тәсіл тәуекел мен белгісіздіктің әсерін түсінуге арналған. Монте-Карло симуляцияларын инвестициялау, бизнес, физика және инженерия сияқты көптеген салалардағы әртүрлі мәселелерге қолдануға болады. Оны көп ықтималдықты симуляция деп те атайды
+3. Фотосинтез күн сәулесін энергияға қалай түрлендіреді?
+* Жауап: Өсімдіктер фотосинтез арқылы химиялық энергияға түрлендіретін энергия түрі – күн сәулесі, ол ерекше тиімділікпен пайдаланылып, өзгертіледі. Қарапайымдатылған фотосинтез теңдеуі мынадай түрде көрсетіледі: [6CO2 + 6H2O + жарық энергиясы \rightarrow C6H12O6 + 6O2]. Бұл теңдеу өсімдіктердің атмосферадан көмірқышқыл газын ((CO2)) және топырақтан суды ((H2O)) қабылдап, оларды күн сәулесінің әсерімен глюкозаға ((C6H{12}O6)) және оттегіге ((O2)) айналдыру процесін көрсетеді. Глюкоза өсімдік үшін маңызды энергия көзі болып табылады, оның әртүрлі метаболикалық процестерін қамтамасыз етеді, ал осы реакцияның жанама өнімі – оттегі атмосфераға қайта бөлініп, адам мен жануарлардың тыныс алуы үшін қажетті ауаны қалыптастыруға үлес қосады.
+4. Lightning Network қандай қауіпсіздік примитивтерін қолданады?
+* Жауап: Lightning Network блокчейннен тыс (off-chain) Bitcoin транзакцияларын қауіпсіз жүргізу үшін криптографиялық және ынталандыруға негізделген қауіпсіздік примитивтерін пайдаланады. Негізгі механизмдерге қауіпсіз маршруттау үшін Hashed Timelock Contracts (HTLCs), зиянкес түйіндерге қарсы айыппұл транзакциялары, құпиялылық үшін пияз тәрізді маршруттау (Sphinx) және кері қайтарып алуға болатын, көп қолтаңбалы блокчейннен тыс төлем арналары кіреді.
+5. Көп қабатты платадағы әртүрлі нүктелер арасындағы сигнал тұтастығын қалай қамтамасыз етесіз және оны орындау үшін қандай құралдарды пайдаланасыз?
+* Жауап: параллель трассалаудан аулақ болу, трассаларды ара қашықтықпен орналастыру және конденсаторларды ажырату
+6. II типті пневмоциттер не өндіреді?
+* Жауап: Өкпе сурфактанты
+7. Диффузия мен осмос қалай ерекшеленеді?
+* Жауап: Диффузия мен осмос екеуі де энергияны қажет етпейтін пассивті тасымалдау процестері. Диффузия кез келген молекулалармен жүре алады, ал осмос тек су молекулаларымен жүреді. Осмос жасушаның тургорлық күйін сақтауда шешуші рөл атқарады және өсімдіктердің су сіңіруі үшін өте маңызды.
+8. Қандай компаниялар қарызды қайта сатып алуды ең алдымен жүзеге асыруы мүмкін?
+* Жауап: Ең алдымен артық қарызға батқан компаниялар – даму жылдарында жеке меншік капитал фирмалары (жеке меншік капитал) арқылы левередждік сатып алулар арқылы алынған және қазір пайыздық төлемдерді төлеуде қиындық көріп, артық ақша қаражаты бар компаниялар. 
+9. Қанаттың сыртқы бөлігінде орналасқан, ұшақтың айналу қозғалысын тудыру үшін қолданылатын кіші буынды бөлімдер қандай?
+* Жауап: Эйлерон
+10. n-p-n транзистордың жұмысын сипаттаңыз
+* Жауап: NPN транзистор Base (P-типті) нүктесіне қойылған кішкентай оң кернеу арқылы Base-Emitter қосылымын алға бағыттап, Emitter (N-типті) нүктесінен Collector (N-типті) нүктесіне электрондардың үлкен тогының өтуіне мүмкіндік береді.
+Kazakh-Aligned Cultural-Questions where Kazakh sources should be richest
+1. Домбыра қазақ мәдениетінде қандай рөл атқарады?
+* Жауап: Домбыра — қазақ халқының ең кең тараған екі ішекті, көп пернелі музыкалық аспабы. Ол – қазақтар өмірінде маңызды орын алатын, өзіндік музыкалық сипаты бар аспап. Алғаш эпикалық дәстүр шеңберінде жыр, толғау, термелерді сүйемелдеуге қолданылған домбыра кейін аспаптық шығарма – күй жанрының қалыптасуына ықпал еткен. Қазіргі кезде домбыра жеке әнді сүйемелдеуге, күй тартуға, халықтық-фольклорлық музыкада, классикалық шығармаларды орындауға қолданылатын, мүмкіндігі кең музыкалық аспап болып табылады. Домбыра ежелде қазақтың тарихын баяндаған музыкалық аспаптардың бірі.
+2. Тұсау кесу дәстүрі мен оның маңызын түсіндіріңіз.
+* Жауап: Тұсау кесу – көптеген қазақ нәрестелері өтетін дәстүр. Бұл рәсім әдетте бала шамамен 1–1,5 жаста (жүріп-жүре алмай, жаяу жүруді үйреніп жатқанда немесе жүріп жүргенде) өткізіледі. Салтанат кезінде баланың аяғы әдетте екі арқанмен (қара және ақ) бос байланады, кейде қара және ақ арқандарға қой немесе басқа жануардың ішектері де араластырып, 2–3 қабатты арқан жасалады. Бұл арқанды отбасы құрметтейтін және баланың солардың жолын қуа беруін қалайтын туыс-тума немесе жақын таныс кеседі. Арқан кесілгеннен кейін баланы ата-анасы заттар қатарының артында шақырады; ең жиі кездесетіндері: кітап, Құран, ақша, домбыра және т.б. Бала солардың бірін таңдайды, ал оның таңдауы болашақ тағдыры туралы түсінік береді деп есептеледі. 
+3. Үш қазақ жүзінің негізгі айырмашылықтары қандай?
+* Жауап: Жүз – қазіргі Қазақстанның көп бөлігін қамтитын Қыпшақ даласы аймағындағы үш негізгі территориялық және тайпалық бөліністің бірі. Бұл қазақ этносының негізгі тайпалық бөлінісін білдіреді. Ұлы жүз қазіргі Қазақстанның оңтүстік және оңтүстік-шығыс аймақтарын, сондай-ақ Солтүстік-батыс Қытайды (Шинжаң) және Өзбекстанның бір бөлігін қамтиды. Орта жүз алты тайпадан тұрады және қазіргі Қазақстанның солтүстік, орталық және шығыс аймақтарын, сондай-ақ Солтүстік-батыс Қытайды қамтиды. Кіші жүз үш тайпадан тұрады және қазіргі Қазақстанның батыс аймақтары мен Ресейдің батыс Еуропалық бөлігін қамтиды.
+4. Абай Құнанбайұлы кім және оның әдеби мұрасы қандай?
+* Жауап: Абай Құнанбайұлы – әйгілі қазақ ақыны, ұлы ойшыл, композитор, философ, жазба қазақ әдебиетінің негізін қалаушысы және оның алғашқы классигі. Ол өз халқына байырғы әндер мен өлеңдер, аудармалар мен прозаға бай мұра қалдырды. Абай жазған «Қара сөздері» — философиялық трактат әрі өлеңдер жинағы, онда ол қазақтарды кедейліктен, құлдықтан және жемқорлықтан құтылу үшін білімді, сауатты және ізгі мінезді болуға шақырады. Бұл шығармасы 19-шы ғасырдың екінші жартысындағы қазақ ұлттық өмірін зерттеу болып табылады. Абайдың қазақ мәдениеті мен фольклорына ең үлкен үлесі – оның поэзиясында, ол ұлы ұлтшылдықты білдіріп, қазақ халық мәдениетінен өрбіді. Оған дейін қазақ поэзиясының басым бөлігі ауызша болып, қазақ даласының көшпелі тұрмысын бейнелейтін.
+5. Қазақ MuzART тобының мүшелері кімдер?
+* Жауап: Мейрамбек Бесбаев, Сақан Майғазиев және Кенжебек Жанабилов
+6. Қазақстан астанасының қандай атаулары болды?
+* Жауап: Ақмола (1830 жылы құрылған), Ақмолинск (1832), Целиноград (1961), Ақмола (1992), Астана (1998), Нұр-Сұлтан (2019) және 2022 жылы қайтадан Астанаға.
+7. Наурыз көже қалай дайындалады?
+* Жауап: Наурыз көже жеті түрлі тағамнан дайындалады. Әдетте құрамында су, сүр ет, тары, бидай, күріш, май, айран, тұз сияқты өнімдер болады. Кейбір аймақтарда бұршақ немесе сәбіз де қосылады. Ол үшін ең алдымен қазан толы сүтіңізді қайнатып, сүт піскеннен кейін оның бетіндегі қаймағын қалқып алып тастайсыз. Сүт әбден пісуге тақаған кезде, қыс бойы сақтаған сүріңізді салып жіберіп, 15 минуттай бетін жауып қоясыз. Аталған уақыт өткеннен кейін жеке ыдысқа пісіріп алған бидай, жүгері, тары, асбұршақ, күріш тәрізді қоректік заттардың жеті түрін сүт пен етке араластырып тағы бір қайнатып аласыз.
+8. 1986 жылғы желтоқсанда Қазақ КСР-інде не болды?
+* Жауап: Желтоқсан көтерілісі — 1986 жылғы 17–18 желтоқсан аралығында Алматыда болған қазақ жастарының КСРО үкіметінің отаршылдық, әміршіл-әкімшіл жүйесіне қарсы наразылық іс-қимылдары. Бостандыққа, тәуелсіздікке ұмтылған қазақ халқы тарихындағы елеулі оқиға болып табылады.
+9. Қазақстандағы ең ірі ислам мекемесін атаңыз
+* Жауап: Қазақстандағы ең ірі ислам мекемесі — Қазақстан мұсылмандары діни басқармасы (ҚМДБ) OR исламдық білім беретін жоғары оқу орны — Алматыдағы Нұр-Мүбарак Египет ислам мәдениеті университеті
+10. Егер менің руым Керей болса, мен қай қазақ жүзіне жатамын?
+* Орта жүз
+Mongolian-Aligned Cultural-Questions where Mongolian sources should be richest
+1. Наадамның үш ерлік ойыны және олардың маңызы қандай?
+* Жауап: Ерлердің үш ойыны, яғни «эрийн гурван наадам» мына спорт түрлерінен тұрады: ат жарысы, садақ ату және күрес. Бұл үш спорт түрі моңғолдардың өмір салты мен тұрмыс-тіршілігімен тікелей байланысты және оларды дәстүрлі түрде отбасы мүшелері үйде үйрету арқылы меңгереді, алайда соңғы кезде күрес пен садақ атуға ресми жаттығу бағдарламалары әзірленді. Наадамның рәсімдері мен әдет-ғұрпы табиғат пен қоршаған ортаға құрмет көрсетуді ерекше атап көрсетеді.
+2. Монғол дәстүрлі үйтің құрылымы мен символикасын түсіндіріңіз.
+* Жауап: Гердің дизайны тек функционалдық сипатта ғана емес; ол моңғол көшпенділерінің философиялық, рухани және әлеуметтік әлеуетін көрсетеді. 
+   * Космос пен ғалам: Гер ғаламның тікелей бейнесі. Тоону күнді, аспанды немесе «жоғарғы әлемге» апаратын порталды білдірсе, бүкіл құрылым аспанның шағын күмбезіне ұқсайды. 
+   * Орталық (Голомт): Ортадағы пеш үйдің жүрегі болып табылады, ол отбасылық бірлік пен жер (от) мен аспан (түтін) арасындағы байланысты бейнелейді. Ошақ қасиетті саналады.
+   * Бағаналар (Багана): Екі орталық бағана қасиетті саналады, олар аспан мен жер арасындағы байланысты және отбасының тұрақтылығын бейнелейді.
+   * Шатыр тіреулерінің саны: шатыр тіреулерінің (унь) саны маңызды болуы мүмкін. Көбінесе 5 қабырғалы гэрде 81 тіреу болады (9х9), себебі 9 – моңғол дәстүріндегі қасиетті сан.
+   * Түстер мен безендіру: ағаш бұйымдар дәстүрлі түрде қызғылт сары (күнді, отты және қуанышты білдіреді) және көк (мәңгілік көк аспанды білдіреді) түстерге боялады.
+Моңғолия бойынша құрылыс бірдей: дәстүрлі өрнектермен боялып, безендірілген ағаш каркас, ақ фетр мен кенептен жасалған жабындар, жануар жүнінен өрілген арқандар, қолмен тігілген фетрден жасалған еден мен кілемдер және жиһаз.
+3. Монғолдың ұлттық болмысында тамақпен ән айту қандай рөл атқарады?
+* Жауап: «Хөөмей» деп аталатын моңғол көмеймен ән айту мәдени болмыстың маңызды тірегі болып табылады, ол көшпенді табиғатпен, ата-бабалармен және жан-жануарлар әлемімен терең рухани байланысты бейнелейді. Жел, су және жануарлар дыбыстарын имитациялау арқылы ол Монғолияның мұрасының тірі көрінісі ретінде қызмет етіп, қауымдастық байланыстарын және мәдени мақтанышты нығайтады
+4. Улан-Батордағы «Бөхийн өргөө» маңында үнді мейрамханалары бар ма?
+* Жауап: Hazara - BZD - 6-хороо, Улан-Батор 13373, Моңғолия
+5. Намбар Энхбаяр қай күні қамауға алынды?
+* Жауап: 2012 жылғы 13 сәуір
+6. 24/25 маусымдағы Монғолия Премьер-лигасының жеңімпазы кім болды?
+* Жауап: SP Falcons
+7. Монғолияның қор биржасында қанша компания тізімделген?
+* Жауап: 186
+8. Улан-Баторды қай облыс қоршап тұр?
+* Жауап: Төв
+9. Хуушурды қалай жасауға болады және оны негізінен қашан жейді?
+* Жауап: Хуушуур ұнды сумен және қалаған жағдайда жұмыртқамен араластырып, қамыр илеп, оны дөңгелек етіп жайып, ішіне тартылған сиыр немесе қой еті мен кейде пияз салып жасалады. Содан кейін оны бүктеп, жартылай шеңбер пішініне келтіріп жабыстырады. Ақырында оны майда, дәстүрлі түрде сиыр мен қойдың қамыры сияқты жануар майларында қуырады. 
+Бұл қолжетімді тағам, оны моңғолдар жиі жейді және моңғол асханасы мейрамханалар да табуға болады, бірақ хуушуур ең үлкен көлемде Наадамда ұсынылады, онда ол негізгі тағам болып табылады. 
+10. Монголия күресіндегі төртінші ең жоғары атақ қандай және оның шарты қандай?
+* Жауап: Мемлекеттік арыстан, Ұлттық Наадам күресінде бір рет жеңіске жету
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mongolian
+Neutral Factual-Testing pure knowledge retrieval
+1. 2010 оны Deepwater Horizon газрын тосны алдагдлыг юу үүсгэсэн бэ?
+* Хариулт: Муу цементлэлт болон худагны ёроолд байрлах "shoe track" саад эвдэрснээс нөөцийн хайдрокарбон үйлдвэрлэлийн хоолой руу орсон.
+2. Симон Боливар хэн байсан бэ, яагаад тэр Өмнөд Америкийн түүхэнд чухал үүрэгтэй вэ?
+* Хариулт: Симон Боливар (1783–1830) нь Венесуэлийн цэргийн болон улс төрийн удирдагч, "Эль Либертадор" (Чөлөөлөгч) хэмээх цолтой, Өмнөд Америкийн зургаан улс—Венесуэл, Колумби, Эквадор, Панама, Перу, Боливийг Испанийн колоничлолоос чөлөөлөхөд чухал үүрэг гүйцэтгэсэн бөгөөд нэгтгэсэн тивийнхээ мөрөөдөл эцэстээ бүтэлгүйтсэн ч орчин үеийн Өмнөд Америкийн суурь хүн болсон.
+3. Сөнөсөн тэнгис гэж юу вэ, яагаад онцгой вэ?
+* Хариулт: 2011 онд давсны агууламж нь 342 г/кг буюу 34.2% байсан бөгөөд энэ нь дэлхийн хамгийн давстай усан мандлын нэг бөгөөд далайн уснаас 9.6 дахин их давстай, нягтрал нь 1.24 кг/литр тул сэлэхэд хөвж байгаа мэт мэдрэгддэг.
+4. Дэлхий даяар хэдэн ширхэг BMW E46 M3 GTR үйлдвэрлэгдсэн бэ?
+* Хариулт: 10
+5. Түүхийн хамгийн өндөр Агги түүдэг гал хэдэн өндөр байсан бэ?
+* Хариулт: 109 фут 10 инч | ~33 метр
+6. Раджа Найнгголаны соёлын өв юу вэ?
+* Хариулт: Индонез болон Бельгийн
+7. 1700-аад оны сүүлчээр АНУ-ын аль муж өөрөө бие даасан улс байсан бэ?
+* Хариулт: Вермонт
+8. Наполеон 1812 онд Орос руу хэдэн морь авч явсан ба хэдэн морьтойгоо буцаж ирсэн бэ?
+* Хариулт: 187,600 морь авч явсан ба 1,600 морьтойгоо буцаж ирсэн
+9. Санчир гаригаас 640 дахин том цагираг системтэй аль гараг болон аль од тойрон эргэлддэг вэ?
+* Хариулт: V1400 Кентаври-г тойрон эргэлдэж буй J1047B
+10. NYSE-ийн хувьд 3 дахь хамгийн сайн өдөр юу байсан бэ, зах зээл хэр өссөн бэ, яагаад ийм их өссөн бэ?
+* Хариулт: 2025 оны 4-р сарын 9. 9.5%. Ерөнхийлөгч Трамп харилцан тарифыг 90 хоногийн хугацаагаар түр зогсоосон тухайгаа зарлав.
+
+
+Neutral Reasoning/Logic-Testing if the model can think in each language
+1. Машины угаалгын газар миний гэрээс ердөө 50 метрийн зайд байна, би тэнд алхаж очих уу эсвэл машинаар явах уу?
+* Хариулт: Машин угаах гэж байгаа тул машинаараа яваарай
+2. Нэг дэлгүүр алимгүйнг хоёр доллараар худалдаалдаг. Хэрвээ та 5 болон түүнээс дээш ширхэг худалдаж авбал 20%-ийн хөнгөлөлт эдлэнэ. 7 алим хэд болох вэ?
+* Хариулт: $11.8
+3. Гурван найз рестораны төлбөрөө хувааж төлөв. Нийт дүн нь $84. Нэг найз нь бусдынхаас хоёр дахин үнэтэй хоол захиалсан. Хүн бүр хэд төлөх вэ?
+* Хариулт: Нэг нь 42 доллар төлнө, бусад нь тус бүр 21 доллар төлнө
+4. Нэг хүн 10-р давхарт амьдардаг ч лифтээр зөвхөн 7-р давхар хүртэл явж, бороо орохгүй бол үлдсэн давхарт нь алхдаг. Яагаад?
+* Хариулт: Тэр намхан тул зөвхөн 7-р давхарын товчийг л дарж чаддаг, шүхэр ашиглахгүй бол
+5. Танд нэг гал асаагч ба яг 1 цаг шатахаар тооцогдсон хоёр урт олс байна. Эдгээр олс жигд шатахгүй тул жишээ нь нэгийг нь таслан хоёр болгож шатааж болдоггүй. Эдгээр хоёр олсыг яаж ашиглан яг 45 минутыг хэмжиж болох вэ? 
+* Хариулт: Нэгийг нь нэг үзүүрээс, нөгөөг нь хоёр үзүүрээс нь асаах
+6. Нэг нугасны өмнө хоёр нугас, нэг нугасны ард хоёр нугас, дунд нь нэг нугас байна. Нийт хэдэн нугас байна вэ?
+* Хариулт: 3
+7. Таван хүн алиманд хүрч байв. A нь B-ээс өмнө дуусгасан боловч C-ийн ард байв. D нь E-ээс өмнө дуусгасан боловч B-ийн ард байв. Дуусгах дараалал ямар байсан бэ?
+* Хариулт: CABDE
+8. Жак Аннаг харж байна. Анна Жоржиг харж байна. Жак гэрлэсэн, Жорж гэрлээгүй, харин Анн гэрлэсэн эсэх нь тодорхойгүй. Гэрлэсэн хүн гэрлээгүй хүнийг харж байна уу?
+* Хариулт: Тийм
+9. Сократ бол философич. Бүх философичид бодох дуртай, тэгвэл Сократ бодох дуртай юу?
+* Хариулт: Тийм
+10. Анил энд байх бүрт Кумар бас энд байдаг. Анил энд байхгүй тул Кумар энд байхгүй. Тийм үү, үгүй юу?
+* Хариулт: Үгүй
+
+
+Neutral Technical-Testing specialized vocabulary and explanation 
+1. TCP ба UDP-ийн ялгааг тайлбарла?
+* Хариулт: TCP ба UDP нь OSI болон TCP/IP загваруудын Тээврийн давхаргын хоёр үндсэн протокол юм. Хоёул програм хангамжийн хооронд эхнээс эцэс хүртэл харилцаа холбоог хангадаг боловч найдвартай байдал, хурд, хэрэглээний хувьд ихээхэн ялгаатай. TCP нь найдвартай, холболт-төвтэй тээврийн протокол бөгөөд өгөгдлийг нарийвчлалтай, дарааллаар нь хүргэх баталгааг өгдөг. Энэ нь өгөгдлийн үнэн зөвийг баталгаажуулах удирдлагын механизмийг ашигладаг тул удаан боловч найдвартай. UDP нь хурдан, холболтгүй тээврийн протокол бөгөөд найдвартай байдлын баталгаа өгөхгүйгээр өгөгдлийг илгээдэг. Нарийвчлалаас илүү хурд чухал програмуудад үр ашигтай.
+2. Монте-Карло симуляци гэж юу вэ, хэзээ ашигладаг вэ?
+* Хариулт: Монте Карло симуляци нь санамсаргүй хувьсагчдын оролцооноос болж урьдчилан таамаглах боломжгүй үйл явцад янз бүрийн үр дүнгийн магадлалыг загварчлах арга юм. Энэ нь эрсдэл, тодорхойгүй байдлын нөлөөг ойлгоход ашиглагддаг техник юм. Монте Карло симуляцийг хөрөнгө оруулалт, бизнес, физик, инженерчлэл зэрэг олон салбарын асуудлуудад хэрэглэж болно. Мөн үүнийг олон магадлалын симуляци гэж нэрлэдэг.
+3. Фотосинтез нарны гэрлийг энерги болгон хэрхэн хувиргадаг вэ?
+* Хариулт: Фотосинтезийн явцад ургамал нарны гэрлийг химийн энерги болгон хувиргадаг бөгөөд энэ энерги нь өндөр үр ашигтайгаар ашиглагдаж, хувиргагддаг. Фотосинтезийн тэгшитгэлийг энгийнчилсэн байдлаар дараах байдлаар илэрхийлж болно: [6CO2 + 6H2O + гэрлийн энерги \rightarrow C6H12O6 + 6O2]. Энэхүү тэгшитгэл нь ургамал агаар мандалаас нүүрстөрөгчийн давхар ислийг (CO2), хөрснөөс усыг (H2O) авч, нарны гэрлийн нөлөөгөөр тэдгээрийг глюкоз (C6H12O6) болон хүчилтөрөгч (O2) болгон хувиргадаг процессыг харуулдаг. Глюкоз нь ургамалд чухал эрчим хүчний эх үүсвэр болж, янз бүрийн бодисын солилцооны үйл ажиллагааг тэтгэдэг бол энэ урвалын хажуугийн бүтээгдэхүүн болох хүчилтөрөгч нь агаарт буцаад ялгаран гарч, хүн, амьтны амьдралд зайлшгүй шаардлагатай амьсгалах агаарт хувь нэмэр оруулдаг.
+4. Lightning Network ямар аюулгүй байдлын примитивүүдийг ашигладаг вэ?
+* Хариулт: Lightning Network нь блокчэйнээс гадуур (off-chain) Bitcoin гүйлгээг найдвартай, аюулгүй болгохын тулд криптографийн болон урамшуулт дээр суурилсан аюулгүй байдлын анхдагч элементүүдийг ашигладаг. Үүнд аюулгүй маршрутчлалын зориулалттай Hashed Timelock Contracts (HTLCs), хортой зан үйлтэй зангилаануудад торгууль ногдуулах гүйлгээ, нууцлалыг хангах onion routing (Sphinx) болон цуцлах боломжтой, олон гарын үсэгтэй блокчэйнээс гадуур төлбөрийн сувгууд орно.
+5. Олон давхаргат самбар дээрх янз бүрийн цэгүүдийн хооронд дохионы бүрэн бүтэн байдлыг хэрхэн хангах вэ, үүнийг хийхэд ямар хэрэгсэл ашиглах вэ?
+* Хариулт: Зэрэгцээ чиглүүлэлт хийх, ул мөрийг хооронд нь зай гаргах, тагийг салгахаас зайлсхийх
+6. II төрлийн пневмоцитууд юу ялгаруулдаг вэ?
+* Хариулт: Уушгины сурфактант
+7. Диффузи болон осмос хоорондоо яаж ялгаатай вэ?
+* Хариулт: Диффузи болон осмос хоёулаа эрчим хүч шаарддаггүй идэвхгүй тээвэрлэх процесс юм. Диффузи нь ямар ч молекулд явагдаж болох бол осмос зөвхөн усны молекулд явагддаг. Осмос нь эсийн тургид байдлыг хадгалахад чухал үүрэг гүйцэтгэж, ургамал ус шингээхэд зайлшгүй шаардлагатай.
+8. Өрийн худалдан авалтыг хамгийн ихээр ямар төрлийн компаниуд хэрэгжүүлэх боломжтой вэ?
+* Хариулт: Их хэмжээний өртэй, хэт өрөнд дарагдсан компаниуд, өсөлтийн жилүүдэд хувийн хөрөнгө оруулалтын фирмүүд (хувийн хөрөнгө) өрийн барьцаагаар худалдан авсан бөгөөд одоо хүүгийн төлбөрөө төлөхөд хүндрэлтэй, илүүдэл бэлэн мөнгөтэй байдаг. 
+9. Онгоцны далавчны гадна талын жижиг холхивчтой хэсгүүд нь онгоцыг өнхрүүлэх хөдөлгөөн үүсгэхэд ашиглагддаг. 
+* Хариулт: Эйлерон
+10. n-p-n транзисторын үйл ажиллагааг тайлбарла.
+* Хариулт: NPN транзистор нь суурь (P-төрөл)-дээ бага эерэг хүчдэл өгөх замаар суурь-ялгагч нийлбэрийг урагшлуулан, ялгагч (N-төрөл)-оос цуглуулагч (N-төрөл)-руу их хэмжээний электроны урсгалыг дамжуулдаг.
+
+
+Kazakh-Aligned Cultural-Questions where Kazakh sources should be richest
+1. Домбыр казах соёлд ямар үүрэг гүйцэтгэдэг вэ?
+* Хариулт: Домбра нь хоёр утас, хуруугаар тоглодог, урт хүзүүтэй лира төрлийн хөгжмийн зэмсэг бөгөөд казахын соёлын өв, хөгжмийн өв сангын суурь бүрэлдэхүүн хэсэг, ихэвчлэн "казах ард түмний сэтгэл" гэж нэрлэгддэг. Энэ нь казахын нүүдэлчдийн соёлыг хадгалах, олон нийтийг нэгтгэхэд чухал үүрэг гүйцэтгэдэг. Куй хэмээх ганцаарчилсан зэмсгийн бүтээл ихэвчлэн домбраар тоглодог бөгөөд үүнд дуу оруулахгүй, түүх/домог ярих, мэтгэлцээн (айтыс) зэрэг олон янзын дагалдан тоглолт хийдэг.
+2. “Тусау кесу” уламжлал болон түүний ач холбогдлыг тайлбарла.
+* Хариулт: Тусау Кесу нь "боолтыг тайлах" гэсэн утгатай олон казах хүүхэд дамждаг уламжлал юм. Энэ ёслолыг ихэвчлэн хүүхэд 1–1.5 настай (мөлхөж, алхаж сурах эсвэл алхаж чаддаг үед) хийдэг. Ёслолын үеэр хүүхдийн хөлний уяаг ихэвчлэн хар, цагаан хоёр олсоор сулхан боодог бөгөөд заримдаа хар, цагаан олсонд хонь эсвэл бусад амьтны гэдэс хольж, давхарлан 2–3 давхар олс болгон уях тохиолдол ч байдаг. Эдгээр олсыг хүүхдийн гэр бүл хүндэлж, дуурайхыг хүсдэг гэр бүлийн гишүүн эсвэл дотно танил нь тасалдаг. Олсыг тасалсны дараа эцэг эх нь ном, Коран, мөнгө, домбра болон бусад зүйлсийн эгнээний ард зогсож хүүхдийг дуудаж, хүүхэд эдгээрийн дундаас нэгийг сонгодог. Түүний сонголт нь ирээдүйнх нь талаарх урьдчилсан зөгнөл болдог. 
+3. Гурван казах “жуз”-ын хоорондох гол ялгаа юу вэ?
+* Хариулт: Жүз (сүрэг) гэдэг нь өнөөгийн Казахстаны ихэнх хэсгийг хамарсан Кипчагийн талын бүс нутагт оршиж байсан гурван гол нутаг дэвсгэр, овог аймгийн хуваагдлын нэг юм. Энэ нь казах үндэстний доторх гол овог аймгийн хуваагдлыг илэрхийлдэг. Ахлах жүз (Ұлы Жүз) нь Казахстаны өмнөд болон өмнөд зүүн хэсэг, Хятадын хойд баруун (Шинжаан) болон Узбекистаны зарим нутаг дэвсгэрийг хамардаг. Дунд жүз (Орта Жүз) нь зургаан овог аймгаас бүрдэж, Казахстаны хойд, төв болон зүүн хэсэг, мөн Хятадын хойд баруун хэсгийг хамардаг. Бага жүз (Кіші Жүз) нь гурван овог аймгаас бүрдэж, Казахстаны баруун болон Оросын зүүн Европын хэсгийг хамардаг.
+4. Абай Кунанбайулы хэн байсан бэ, түүний уран зохиолын өв юу вэ?
+* Абай Кунанбайулы хэн байсан бэ, түүний уран зохиолын өв юу вэ
+* Хариулт: Абай Кунанбайулы болсон алдартай қазақ яруу найрагч, агуу сэтгэгч, хөгжмийн зохиолч, философич, бичигт казах уран зохиолын үүсгэн байгуулагч ба түүний анхны классик юм. Түүний үндэстэндээ үлдээсэн өв дуу, шүлэг, орчуулга, уран зохиолын өгүүллэгээр баялаг. Абай Кунанбайулы зохиолдсон «Үгсийн ном» нь философийн туурвил ба шүлгийн цомог бөгөөд тэнд тэрээр казахчуудаа ядуурал, боолчлол, авлигаас ангижрахын тулд боловсрол, бичиг үсэг, сайн ёс суртахууны чанарыг эзэмшихыг уриалсан. Энэ бүтээл нь 19 дүгээр зууны хоёрдугаар хагасын казах үндэсний амьдралыг судалдаг. Абай Казах соёл, ардын өв санд оруулсан гол хувь нэмэр нь Казах ардын соёлоос урган гарсан, гүнзгий үндэсний үзлийг илэрхийлсэн шүлэгт нь оршино. Түүнээс өмнө Казах шүлгийн ихэнх нь аман хэлбэртэй байсан бөгөөд Казах тал нутгийн нүүдэлчдийн амьдралын хэв маягийг тусгаж байв.
+5. Казахын MuzART хамтлагийн гишүүд хэн бэ?
+* Хариулт: Мейрамбек Бесбаев, Сакен Майгазиев ба Кенжебек Жанабилов
+6. Казахстаны нийслэл ямар ямар нэртэй байсан бэ?
+* Хариулт: Акмола (1830 онд байгуулагдсан), Акмолинск (1832), Целиноград (1961), Акмола (1992), Астана (1998), Нур-Султан (2019), 2022 онд дахин Астана болсон
+7. “Наурыз көже”-г хэрхэн хийдэг вэ?
+* Хариулт: Орц найрлагыг саванд хийгээд, хүйтэн усанд сайн угааж, дараа нь усыг нь асгана. Дараа нь буудай бүр бүрэн дэвтэх хүртэл халуун ус хийгээд дэвтээхээр хажуу тийш нь тавина. Орц найрлагыг төхөөрөмжийн саванд хийгээд, шүршлүүрийн хамгаалалтыг суулгана. Хайрагдах хүртэл жигнэнэ - 20 минут, 150ºC, Махыг зөөлөн болтол нь жигнэнэ, шөлөнд үүссэн хөөсийг арилгана - 2 цаг, 92ºC Махыг шөлнөөс салгаж цэвэр саванд хийнэ, Шөлийг нарийн тортой шүүлтүүрээр шүүж цэвэр саванд хийнэ, дараа нь төхөөрөмжийн саванд буцааж хийнэ, Халуун болтол нь жигнэнэ - 5 минут, 105ºC, хутгах; дэвтээсэн буудайг шүүж аваад төхөөрөмжийн саванд хийнэ, буудай бүрэн болтол нь жигнэнэ - 20 минут, 105ºC, хутгах; махыг жижиг хэсгүүдэд хэрчиж, шаардлагатай бол яс салгана; махыг төхөөрөмжийн саванд буцааж хийнэ, холилдох хүртэл хутгана - 1 минут; шөлөө хуваах саванд халбагаар хийнэ, амтандаа тохируулан тараг нэмнэ
+8. 1986 оны арванхоёрдугаар сард Казах АССР-д юу болсон бэ?
+* Хариулт: Желтоксан, арванхоёрдугаар сарын бослого/эсэргүүцэл
+9. Қазақтах хамгийн том лалын шашины их сургууль нэрлэ?
+* "Казахстаны Мусульманчуудын Сүнслэг Удирдах Газар (SAMK, мөн Казахстаны Муфтиат гэж нэрлэгддэг)" OR "Нур-Мубарак Их Сургууль / Египетийн Исламын Соёлын Нур-Мубарак Их Сургууль" IS ALSO ACCEPTABLE
+10. Хэрэв миний  казах ру Керей бол би ямар казах жузын хүн байх вэ?
+* Дунд жуз (Орта жүз)
+Mongolian-Aligned Cultural-Questions where Mongolian sources should be richest
+1. Наадмын эр хүний ​​гурван тоглоом, тэдгээрийн ач холбогдол юу вэ?
+* Хариулт: Эрийн гурван наадам буюу гурван эр хүний спортын төрөлд морины уралдаан, Байт харваа, бөх орно. Эдгээр гурван спортын төрөл нь монголчуудын амьдралын хэв маяг, амьдрах нөхцөлтэй шууд холбоотой бөгөөд уламжлалт байдлаар гэрийн сургалтаар дамжин өвлөгддөг ч сүүлийн үед бөх, сурын харваанд албан ёсны бэлтгэлийн хөтөлбөр боловсруулагдсан. Мөн наадмын ёс заншил, зан үйл нь байгаль, хүрээлэн буй орчныг хүндэтгэх үзлийг онцолдог.
+2. Уламжлалт гэрийн бүтэц, бэлгэдлийг тайлбарлана уу?
+* Хариулт: Гэрийн загвар нь зөвхөн үйлдлийн зориулалттай биш; энэ нь монгол нүүдэлчдийн философийн, оюун санааны, нийгмийн ертөнцийг тусгасан бүтээл юм. 
+Космос ба ертөнц: Гэр майхан нь ертөнцийг шууд илэрхийлдэг. Тооны нь нар, тэнгэр эсвэл "дээд ертөнц" рүү нэвтрэх хаалга бөгөөд бүхэл бүтцээрээ тэнгэрийн жижигхэн бөмбөлөг шиг харагддаг.
+Голомт: Дунд байрлах зуух нь гэрийн зүрх бөгөөд гэр бүлийн эв нэгдэл, газар (гал) ба тэнгэр (утаа)-ийн холбоог бэлгэднэ. Задгай зуух ариун гэж тооцогддог.
+Багана: Хоёр төв тулуур нь тэнгэр ба газрыг холбох гүүр, мөн гэр бүлийн тогтвортой байдлыг илэрхийлэх ариун бэлгэ тэмдэг гэж үздэг.
+Дээврийн модон тулгуурууд (унь) тоо нь ач холбогдолтой байж болно. Ихэвчлэн таван ханатай гэр 81 тулгуур (9x9) модтой байдаг, учир нь 9 нь монгол уламжлалд онцгой тоо гэж тооцогддог.
+Өнгө, чимэглэл: Модон эдлэлийг уламжлалт ёсоор улбар шар (нар, гал, баяр баясгаланг илэрхийлнэ) болон цэнхэр (мөнхийн цэнхэр тэнгэрийг илэрхийлнэ) өнгөөр будагладаг.
+                
+Бүхэл бүтцийн хувьд Монгол даяар адилхан: уламжлалт хээ угалзаар будаглаж чимэглэсэн модон хүрээ, цагаан эсгий болон даавуун бүрээс, амьтны үснээс хийсэн олс, эсгий хивс, тавилгатай.
+
+
+3. Xоолойн дуу монгол хүний ​​мөн чанарт ямар үүрэг гүйцэтгэдэг вэ?
+* Хариулт: Хөөмий нь хөгжмийн зэмсэг үл хэрэглэх агаад жинхэнэ гайхамшигт эгшиг бий болгодгоороо онцлогтой. Уг гарал нь Ховдын Чандмань сумаас үүссэн түүхтэй. Өндөр уулс, хадан хавцлын завсраар үлээх салхи, усны боргио, модны чимээ зэрэг бол байгалийн хөөмий гэж үздэг. Хөөмийг бас тува хөөмий монгол хөөмий гэж ялгах бөгөөд Тува хөөмий нь монгол хөөмийг бодоход шингэн, хүч султай, тэр болгон ая дан оруулж болдоггүй аж. Монгол хөөмийн 4 төрөл байх ба энэ нь хархираа хөөмий буюу цээжний гүнээс түрэн гарах авиа, исгэрээ буюу амны хөндийнөөс гарах авиа, Нармай хөөмий буюу хамраар гаргах авиа, шахай хөөмий буюу хоолой шахаж гүнээс гарах авиа зэрэг болно. Зарим судлаачид хөөмийн 5 төрөл байна гэж үздэг ба энэ нь нутаг нутгаасаа хамаарч байгаа бололтой. Монгол хөөмий бол дэлхийн сонгодог хөгжмийг хүртэл тоглох чадалтай. Сүүлийн үед “Алтан ураг” "Хөсөгтөн" “Халил”, “Домог” зэрэг хамтлагууд монгол хөөмийг орчин үеийн хөгжмийн урсгалд оруулж, монгол ардын урлаг ийм гайхалтай гэдгийг дэлхийд таниулж байна
+4. Улаанбаатард  "Бөхийн өргөө"-гийн хажууд Энэтхэг ресторан байдаг уу?
+* Хариулт: Hazara - BZD - 6-хороо, Улаанбаатар 13373, Монгол 
+5. Намбарын Энхбаяр ямар өдөр баривчлагдсан бэ?
+* Хариулт: 2012 оны 4-р сарын 13-нд
+6. 24/25 улирлын Монголын Премьер лигийг хэн түрүүлсэн бэ?
+* Хариулт: SP Falcons
+7. Монголын Хөрөнгийн биржид хэдэн компани бүртгэлтэй байдаг вэ?
+* Хариулт: ~186
+8. Улаанбаатарыг ямар аймаг хүрээлж байдаг вэ?
+* Хариулт: Төв
+9. Хуушуурыг хэрхэн хийдэг вэ, ихэвчлэн хэзээ иддэг вэ?
+10. Монгол бөхийн дөрөвдүгээр дээд цол юу вэ, түүний шаардлага юу вэ?
+* Хариулт: Улсын арслан | Үндэсний бөхийн наадамд нэг удаа түрүүлэх

@@ -1,0 +1,412 @@
+{
+  "model": "claude_opus_4.5",
+  "model_id": "claude-opus-4-5",
+  "condition": "C1",
+  "condition_description": "English -> English (upper bound baseline)",
+  "language": "english",
+  "system_prompt_used": null,
+  "started_at": "2026-02-17T05:23:52.524831+00:00",
+  "responses": [
+    {
+      "question_id": 1,
+      "category": "neutral_factual",
+      "question_text": "What caused the 2010 Deepwater Horizon oil spill?",
+      "response": "The Deepwater Horizon oil spill resulted from a blowout on April 20, 2010, in the Macondo well in the Gulf of Mexico. Several factors contributed:\n\n**Immediate causes:**\n- Failure of the blowout preventer (BOP), a critical safety device meant to seal the well in emergencies\n- A surge of natural gas traveled up the wellbore, expanded, and ignited on the platform\n\n**Contributing factors identified in investigations:**\n- Flawed cement job by Halliburton that failed to properly seal the well\n- Misinterpretation of pressure test results that indicated problems\n- Decisions to proceed despite warning signs, under time and cost pressures\n- Design issues with the well's configuration\n\n**Broader issues:**\n- Inadequate risk management by BP, Transocean (the rig operator), and Halliburton\n- Insufficient regulatory oversight by the Minerals Management Service\n\nThe explosion killed 11 workers and led to approximately 4.9 million barrels of oil spilling over 87 days before the well was capped, making it the largest accidental marine oil spill in history.",
+      "reference_answer": "A bad cement job and a failure of the shoe track barrier at the bottom of the well, which let hydrocarbons from the reservoir into the production casing.",
+      "response_time_seconds": 6.59
+    },
+    {
+      "question_id": 2,
+      "category": "neutral_factual",
+      "question_text": "Who was Simon Bolivar and why is he significant in South American history?",
+      "response": "Simón Bolívar (1783-1830) was a Venezuelan military and political leader who played a central role in Latin American independence from Spanish colonial rule.\n\n**Key accomplishments:**\n\n- Led military campaigns that liberated several territories from Spain, including present-day Venezuela, Colombia, Ecuador, Peru, and Bolivia (named after him)\n- Served as president of Gran Colombia, an ambitious but short-lived republic he helped create that united much of northern South America\n- Earned the title \"El Libertador\" (The Liberator)\n\n**Why he matters:**\n\nHe's often compared to George Washington in terms of his role in achieving independence for multiple nations. His vision extended beyond mere independence—he advocated for unified Latin American republics, though this goal largely eluded him during his lifetime.\n\n**Complications:**\n\nHis legacy is complex. Gran Colombia fragmented before his death, and he died disillusioned, having faced political opposition and accusations of authoritarianism. He reportedly said South America was \"ungovernable\" and that those who served its revolutions had \"plowed the sea.\"\n\nToday he remains a powerful symbol across South America, though different political movements interpret his legacy in varying ways. Several countries consider him a founding father figure.",
+      "reference_answer": "Simón Bolívar (1783-1830) was a Venezuelan military and political leader, known as 'El Libertador', who freed six South American countries from Spanish colonial rule.",
+      "response_time_seconds": 8.11
+    },
+    {
+      "question_id": 3,
+      "category": "neutral_factual",
+      "question_text": "What is the Dead Sea and why is it unusual?",
+      "response": "The Dead Sea is a salt lake bordered by Jordan to the east and Israel and the West Bank to the west. It sits in the Jordan Rift Valley.\n\n**What makes it unusual:**\n\n- **Extreme salinity** - It's nearly 10 times saltier than the ocean, making it one of the saltiest bodies of water on Earth. This high salt content allows people to float effortlessly on the surface.\n\n- **Lowest point on land** - Its surface sits roughly 430 meters (1,410 feet) below sea level, making it the lowest elevation on Earth's surface.\n\n- **Harsh for life** - The name comes from the fact that fish and most aquatic organisms cannot survive in it, though some bacteria and microbial fungi do exist there.\n\n- **Mineral-rich** - The water and mud contain high concentrations of minerals, which have drawn people for therapeutic purposes for thousands of years.\n\n- **Shrinking** - The sea has been receding significantly over recent decades due to diversion of water from the Jordan River and mineral extraction, losing about a meter of depth per year.\n\nThe surrounding area also has historical and religious significance, with sites like Masada and connections to biblical accounts nearby.",
+      "reference_answer": "Salinity of 342 g/kg (34.2%), 9.6 times as salty as the ocean, density of 1.24 kg/litre, making swimming similar to floating.",
+      "response_time_seconds": 7.19
+    },
+    {
+      "question_id": 4,
+      "category": "neutral_factual",
+      "question_text": "How many BMW E46 M3 GTR's were made worldwide?",
+      "response": "The BMW E46 M3 GTR street version was produced in very limited numbers. BMW manufactured **10 road-going units** to meet homologation requirements for the American Le Mans Series (ALMS) racing program in 2001.\n\nThese cars featured the distinctive 4.0-liter P60B40 V8 engine (rather than the standard M3's inline-6) and were never officially sold to the public, making them extremely rare collector vehicles.\n\nThe race cars themselves were produced in smaller quantities for the actual competition program.",
+      "reference_answer": "10",
+      "response_time_seconds": 4.93
+    },
+    {
+      "question_id": 5,
+      "category": "neutral_factual",
+      "question_text": "How tall was the tallest Aggie Bonfire in history?",
+      "response": "The tallest Texas A&M Aggie Bonfire was built in 1969, reaching approximately 109 feet tall. However, this height led to the stack collapsing before it could be burned. After that incident, height restrictions were implemented for safety reasons.\n\nThe tradition tragically ended as an official university event after the 1999 collapse during construction, which killed 12 students and injured 27 others.",
+      "reference_answer": "109'10\" | ~33 meters",
+      "response_time_seconds": 4.32
+    },
+    {
+      "question_id": 6,
+      "category": "neutral_factual",
+      "question_text": "What is Radja Nainggolan's cultural heritage?",
+      "response": "Radja Nainggolan has Indonesian heritage through his father, which is reflected in his first name \"Radja\" (meaning \"king\" in Indonesian). He was born and raised in Antwerp, Belgium, and holds Belgian nationality. His mother is Belgian. This mixed Indonesian-Belgian background is part of his cultural identity, though he grew up in Belgium and represented the Belgian national football team throughout his international career.",
+      "reference_answer": "Indonesian and Belgian",
+      "response_time_seconds": 3.5
+    },
+    {
+      "question_id": 7,
+      "category": "neutral_factual",
+      "question_text": "Which US state was its own country in the late 1700's?",
+      "response": "**Vermont** was an independent republic from 1777 to 1791, known as the **Vermont Republic**. It declared independence from British rule (and also from claims by New York and New Hampshire) and operated as its own sovereign nation with its own constitution, currency, and postal service before joining the United States as the 14th state in 1791.",
+      "reference_answer": "Vermont",
+      "response_time_seconds": 3.18
+    },
+    {
+      "question_id": 8,
+      "category": "neutral_factual",
+      "question_text": "How many horses did Napoleon take to Russia in 1812 and how many of them did he return with?",
+      "response": "Napoleon's Grande Armée entered Russia in June 1812 with approximately **150,000 to 200,000 horses** (estimates vary, with some sources citing figures closer to 180,000-200,000 when including all cavalry, artillery, and transport animals).\n\nThe losses were catastrophic. By the end of the campaign, only a few thousand horses survived the retreat. The exact number that returned is difficult to pin down, but estimates suggest somewhere between **10,000 to 30,000** at most made it back across the border, and many of those were in terrible condition.\n\nThe horses died from exhaustion, starvation, the brutal Russian winter, lack of proper fodder, and the grueling pace of both the advance and retreat. The loss of horses crippled the army's mobility, artillery capacity, and supply lines, contributing significantly to the overall disaster of the campaign.",
+      "reference_answer": "187,600 and returned with 1,600",
+      "response_time_seconds": 6.48
+    },
+    {
+      "question_id": 9,
+      "category": "neutral_factual",
+      "question_text": "Which planet has a ring system that is 640x larger than Saturn and which star does it orbit?",
+      "response": "You're likely referring to **J1407b**, an exoplanet (or possibly a brown dwarf) that has a massive ring system estimated to be about 200 times larger in diameter than Saturn's rings. The often-cited \"640 times\" figure refers to the ring system being roughly 640 times more massive or extensive in some comparisons.\n\nIt orbits the young star **J1407** (also known as 1SWASP J140747.93-394542.6), located about 434 light-years away in the constellation Centaurus.\n\nThe ring system was discovered in 2012 through observations of the star's light being eclipsed in a complex pattern, suggesting an enormous ring structure around the orbiting companion.",
+      "reference_answer": "J1047B orbiting V1400 Centauri",
+      "response_time_seconds": 5.55
+    },
+    {
+      "question_id": 10,
+      "category": "neutral_factual",
+      "question_text": "What was the 3rd best day for the NYSE, by how much did the market go up and why did it move so much?",
+      "response": "I don't have reliable, precise data on the exact ranking of the best single-day percentage gains for the NYSE or Dow Jones Industrial Average.\n\nWhat I can tell you is that the largest single-day percentage gains in US stock market history have generally clustered around:\n\n- **The Great Depression era** (1929-1933) - several massive single-day rallies occurred during this volatile period\n- **The 2008 financial crisis** - including October 13, 2008 and October 28, 2008\n- **March 2020** - during the COVID-19 pandemic volatility\n\nThese huge up days typically followed or occurred during periods of extreme market stress, often triggered by government intervention announcements, policy changes, or simply technical rebounds after severe sell-offs.\n\nTo get the precise 3rd-ranked day with accurate figures, I'd recommend checking sources like:\n- NYSE historical data\n- S&P Dow Jones Indices\n- Financial databases like Bloomberg or Yahoo Finance\n\nIs there a specific time period or index you're most interested in? I could provide more context about notable rallies within a particular era.",
+      "reference_answer": "April 9, 2025. 9.5%. President Trump announced a 90-day pause on reciprocal tariffs.",
+      "response_time_seconds": 6.37
+    },
+    {
+      "question_id": 11,
+      "category": "neutral_reasoning",
+      "question_text": "The car wash is only 50 meters from my house, should I walk there or drive there?",
+      "response": "This is a fun little practical dilemma!\n\n**If you need to wash your car** – you'll have to drive it there anyway, so that answers itself.\n\n**If you're going for another reason** (buying a gift card, talking to someone, etc.) – walking 50 meters makes more sense. That's barely a minute's walk.\n\nWere you thinking about this for a specific reason, or was it more of a lighthearted question?",
+      "reference_answer": "Drive there as you are washing the car",
+      "response_time_seconds": 4.42
+    },
+    {
+      "question_id": 12,
+      "category": "neutral_reasoning",
+      "question_text": "A store sells apples for $2 each. If you buy 5 or more, you get a 20% discount. How much do 7 apples cost?",
+      "response": "I need to find the cost of 7 apples, considering the discount for buying 5 or more.\n\n**Step 1: Check if the discount applies**\nSince 7 ≥ 5, the 20% discount applies.\n\n**Step 2: Calculate the regular price**\n7 apples × $2 = $14\n\n**Step 3: Apply the 20% discount**\nDiscount amount = $14 × 0.20 = $2.80\nFinal price = $14 - $2.80 = $11.20\n\n**The cost of 7 apples is $11.20**",
+      "reference_answer": "$11.20",
+      "response_time_seconds": 3.4
+    },
+    {
+      "question_id": 13,
+      "category": "neutral_reasoning",
+      "question_text": "Three friends split a restaurant bill. The total is $84. One friend had a dish that cost twice what each of the others had. How much does each person pay?",
+      "response": "I need to find how much each person pays based on what they ordered.\n\n## Setting Up the Problem\n\nLet me call the cost of the cheaper dish $x$.\n\n- Two friends each had a dish costing $x$\n- One friend had a dish costing $2x$\n\n## Solving\n\nThe total bill equation:\n$$x + x + 2x = 84$$\n$$4x = 84$$\n$$x = 21$$\n\n## Answer\n\n- **Two friends pay $21 each**\n- **One friend pays $42** (for the dish that cost twice as much)",
+      "reference_answer": "1 pays $42 while the others pay $21 each",
+      "response_time_seconds": 3.4
+    },
+    {
+      "question_id": 14,
+      "category": "neutral_reasoning",
+      "question_text": "A man lives on the 10th floor but only takes the elevator to the 7th and walks up unless it's raining. Why?",
+      "response": "This is a classic lateral thinking puzzle!\n\n**The answer:** The man is short. He can only reach the button for the 7th floor in the elevator, but when it's raining, he has an umbrella and can use it to press the 10th floor button.\n\nIt's a clever riddle that requires thinking beyond the obvious assumptions we make about the situation.",
+      "reference_answer": "He's short and can only reach the 7th-floor button unless he uses an umbrella",
+      "response_time_seconds": 3.09
+    },
+    {
+      "question_id": 15,
+      "category": "neutral_reasoning",
+      "question_text": "You have a lighter and two lengths of rope that burn for exactly 1 hour each. They do not burn consistently so you cannot, for example, cut one in half and burn that. How can you use these two ropes to measure exactly 45 minutes?",
+      "response": "I need to find a way to measure exactly 45 minutes using two ropes that each burn for 1 hour total, but burn at inconsistent rates.\n\n## The Solution\n\n**Step 1:** Light Rope A from **both ends** simultaneously, and light Rope B from **one end** only.\n\n**Step 2:** When Rope A burns out completely, light the **other end** of Rope B.\n\n**Step 3:** When Rope B burns out completely, exactly **45 minutes** have passed.\n\n## Why This Works\n\n**At the start (0 minutes):**\n- Rope A burning from both ends\n- Rope B burning from one end\n\n**After 30 minutes:**\n- Rope A is completely gone (burning from both ends halves the time)\n- Rope B has 30 minutes of burn time remaining\n\n**At this moment:** I light the other end of Rope B\n\n**After another 15 minutes (45 minutes total):**\n- Rope B is now gone (30 minutes of rope burning from both ends = 15 minutes)\n\n**Total time: 30 + 15 = 45 minutes** ✓",
+      "reference_answer": "Light one from one end and light the other from both ends",
+      "response_time_seconds": 6.36
+    },
+    {
+      "question_id": 16,
+      "category": "neutral_reasoning",
+      "question_text": "There are two ducks in front of a duck, two ducks behind a duck and a duck in the middle. How many ducks are there?",
+      "response": "I need to figure out the minimum number of ducks that satisfies all these conditions.\n\nLet me think about this carefully:\n- Two ducks in front of a duck\n- Two ducks behind a duck\n- A duck in the middle\n\nIf I arrange **3 ducks in a row**:\n- The back duck has two ducks in front of it ✓\n- The front duck has two ducks behind it ✓\n- The middle duck is in the middle ✓\n\nAll conditions are satisfied with just **3 ducks**.",
+      "reference_answer": "3",
+      "response_time_seconds": 3.19
+    },
+    {
+      "question_id": 17,
+      "category": "neutral_reasoning",
+      "question_text": "Five people were eating apples. A finished before B, but behind C. D finished before E, but behind B. What was the finishing order?",
+      "response": "I need to find the finishing order of five people (A, B, C, D, E) based on the given clues.\n\n## Analyzing the Clues\n\n**Clue 1: \"A finished before B, but behind C\"**\n- A finished before B → A > B (A finished earlier)\n- A finished behind C → C > A (C finished earlier than A)\n- This gives us: **C > A > B**\n\n**Clue 2: \"D finished before E, but behind B\"**\n- D finished before E → D > E (D finished earlier)\n- D finished behind B → B > D (B finished earlier than D)\n- This gives us: **B > D > E**\n\n## Combining the Sequences\n\nFrom Clue 1: C > A > B\nFrom Clue 2: B > D > E\n\nConnecting them at B:\n\n**C > A > B > D > E**\n\n## Final Finishing Order\n\n1. C\n2. A\n3. B\n4. D\n5. E",
+      "reference_answer": "CABDE",
+      "response_time_seconds": 4.63
+    },
+    {
+      "question_id": 18,
+      "category": "neutral_reasoning",
+      "question_text": "Jack is looking at Anne. Anne is looking at George. Jack is married, George is not, and we don't know if Anne is married. Is a married person looking at an unmarried person?",
+      "response": "I need to work through this step-by-step.\n\n**The Setup:**\n- Jack (married) → looking at → Anne (unknown) → looking at → George (unmarried)\n\n**The Key Insight:**\n\nAnne is either married or unmarried. Let me consider both cases:\n\n**Case 1: Anne is married**\nThen Anne (married) is looking at George (unmarried).\n✓ A married person is looking at an unmarried person.\n\n**Case 2: Anne is unmarried**\nThen Jack (married) is looking at Anne (unmarried).\n✓ A married person is looking at an unmarried person.\n\n**Conclusion: Yes.**\n\nIn both possible cases, a married person is looking at an unmarried person. We don't need to know Anne's marital status to answer the question.",
+      "reference_answer": "Yes",
+      "response_time_seconds": 4.04
+    },
+    {
+      "question_id": 19,
+      "category": "neutral_reasoning",
+      "question_text": "Socrates is a philosopher. All philosophers like thinking, so does Socrates like thinking?",
+      "response": "Yes, Socrates likes thinking.\n\nThis follows directly from the premises:\n1. Socrates is a philosopher\n2. All philosophers like thinking\n\nTherefore, Socrates likes thinking.\n\nThis is a classic example of a valid deductive syllogism (specifically, universal instantiation).",
+      "reference_answer": "Yes",
+      "response_time_seconds": 2.76
+    },
+    {
+      "question_id": 20,
+      "category": "neutral_reasoning",
+      "question_text": "Whenever Anil is here, Kumar is also here. Anil is not here so Kumar is not here. Yes or No?",
+      "response": "I need to analyze this logic carefully.\n\nThe statement \"Whenever Anil is here, Kumar is also here\" means:\n**If Anil is here → Then Kumar is here**\n\nFrom \"Anil is not here,\" can we conclude \"Kumar is not here\"?\n\nThis is the **fallacy of denying the antecedent**. \n\nThe original statement only tells us what happens when Anil IS here. It doesn't tell us anything about Kumar when Anil is NOT here. Kumar could still be here for other reasons.\n\n**No** - the conclusion is not logically valid.",
+      "reference_answer": "No",
+      "response_time_seconds": 4.01
+    },
+    {
+      "question_id": 21,
+      "category": "neutral_technical",
+      "question_text": "Explain the difference between TCP and UDP?",
+      "response": "# TCP vs UDP\n\nBoth are transport layer protocols used to send data over the internet, but they work quite differently.\n\n## TCP (Transmission Control Protocol)\n\n**Connection-oriented** - establishes a connection before sending data\n\n### Key Characteristics:\n- **Reliable delivery** - guarantees all packets arrive\n- **Ordered** - data arrives in the correct sequence\n- **Error checking** - retransmits lost packets\n- **Flow control** - adjusts speed based on receiver capacity\n- **Slower** due to overhead\n\n### Use Cases:\n- Web browsing (HTTP/HTTPS)\n- Email\n- File transfers\n- SSH\n\n---\n\n## UDP (User Datagram Protocol)\n\n**Connectionless** - sends data without establishing a connection\n\n### Key Characteristics:\n- **No guarantee** of delivery\n- **No ordering** - packets may arrive out of sequence\n- **No retransmission** of lost packets\n- **Faster** and lightweight\n- Lower latency\n\n### Use Cases:\n- Video streaming\n- Online gaming\n- VoIP calls\n- DNS lookups\n\n---\n\n## Quick Comparison\n\n| Feature | TCP | UDP |\n|---------|-----|-----|\n| Connection | Required | None |\n| Reliability | Guaranteed | Best effort |\n| Speed | Slower | Faster |\n| Overhead | Higher | Lower |\n\n**Simple analogy:** TCP is like a phone call (confirmed connection), UDP is like sending postcards (just send and hope they arrive).",
+      "reference_answer": null,
+      "response_time_seconds": 6.54
+    },
+    {
+      "question_id": 22,
+      "category": "neutral_technical",
+      "question_text": "What is a Monte Carlo simulation and when would you use one?",
+      "response": "# Monte Carlo Simulation\n\nA Monte Carlo simulation is a computational technique that uses **repeated random sampling** to estimate the probability distribution of possible outcomes for a process that's difficult to predict due to random variables.\n\n## How It Works\n\n1. Define a model with input variables\n2. Randomly sample values for those inputs (often thousands or millions of times)\n3. Run the calculation for each sample\n4. Aggregate results to see the distribution of outcomes\n\n## When to Use One\n\n**Finance & Investment**\n- Portfolio risk assessment (Value at Risk)\n- Option pricing\n- Retirement planning with uncertain returns\n\n**Engineering & Science**\n- Reliability analysis of complex systems\n- Particle physics simulations\n- Weather forecasting\n\n**Business Operations**\n- Project cost/timeline estimation\n- Supply chain risk analysis\n- Demand forecasting\n\n**Games & AI**\n- Game-playing algorithms (like AlphaGo)\n- Decision-making under uncertainty\n\n## Simple Example\n\nEstimating π: randomly drop points in a square containing a circle. The ratio of points inside the circle to total points approximates π/4.\n\n## Key Advantages\n\n- Handles complex, non-linear systems\n- Accounts for uncertainty in multiple variables simultaneously\n- Provides a range of outcomes, not just a single estimate\n\nWould you like a code example or deeper explanation of any application?",
+      "reference_answer": null,
+      "response_time_seconds": 7.62
+    },
+    {
+      "question_id": 23,
+      "category": "neutral_technical",
+      "question_text": "How does photosynthesis convert sunlight into energy?",
+      "response": "Photosynthesis converts sunlight into chemical energy through two main stages:\n\n## Light-Dependent Reactions (in thylakoid membranes)\n\n- **Chlorophyll** and other pigments absorb light energy\n- This energy splits water molecules (H₂O), releasing oxygen as a byproduct\n- The energy drives the production of **ATP** (energy currency) and **NADPH** (electron carrier)\n\n## Light-Independent Reactions / Calvin Cycle (in stroma)\n\n- ATP and NADPH from the first stage power this process\n- CO₂ from the air is \"fixed\" and converted into **glucose** (C₆H₁₂O₆)\n- This glucose stores the captured solar energy in chemical bonds\n\n## The Simple Summary\n\n**6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂**\n\nEssentially, plants use light to rearrange atoms from carbon dioxide and water into sugar molecules. The energy that was in sunlight is now stored in the chemical bonds of glucose, which the plant (or anything that eats it) can later break down for energy.\n\nIs there a particular part of the process you'd like me to explain in more detail?",
+      "reference_answer": null,
+      "response_time_seconds": 5.96
+    },
+    {
+      "question_id": 24,
+      "category": "neutral_technical",
+      "question_text": "What security primitives does Lightning Network employ?",
+      "response": "# Security Primitives in Lightning Network\n\nLightning Network employs several cryptographic and protocol-level security primitives:\n\n## Cryptographic Primitives\n\n**Hash Functions (SHA-256, RIPEMD-160)**\n- Used in HTLCs (Hash Time-Locked Contracts) for atomic payments\n- Preimage revelation proves payment completion\n\n**ECDSA / Schnorr Signatures**\n- Authorize all transactions (funding, commitment, penalty)\n- Multi-signature schemes for channel funding (2-of-2 multisig)\n\n**Public Key Cryptography**\n- Node identity and authentication\n- Onion routing encryption layers\n\n## Protocol-Level Security Mechanisms\n\n**Time-Locked Contracts**\n- `OP_CHECKLOCKTIMEVERIFY` (CLTV) for absolute timelocks\n- `OP_CHECKSEQUENCEVERIFY` (CSV) for relative timelocks\n- Enable trustless routing and dispute resolution\n\n**Revocation Mechanisms**\n- Revocation keys invalidate old channel states\n- Penalty transactions punish broadcast of revoked states\n\n**Commitment Transactions**\n- Asymmetric structure (each party holds different version)\n- Ensures either party can close unilaterally\n\n## Network Security\n\n**Onion Routing (Sphinx)**\n- Multi-layer encryption hides payment path\n- Each hop only knows predecessor and successor\n\n**Gossip Protocol**\n- Authenticated channel announcements\n- Signed node and channel updates\n\nWould you like me to elaborate on any specific primitive?",
+      "reference_answer": null,
+      "response_time_seconds": 8.41
+    },
+    {
+      "question_id": 25,
+      "category": "neutral_technical",
+      "question_text": "How do you ensure signal integrity between various points on a multi-layered board and what tools would you use to do it?",
+      "response": "# Ensuring Signal Integrity on Multi-Layer PCBs\n\n## Key Signal Integrity Challenges\n\nSignal integrity issues typically fall into several categories:\n- **Reflections** from impedance mismatches\n- **Crosstalk** between adjacent traces\n- **Ground bounce** and power supply noise\n- **Attenuation** and frequency-dependent losses\n- **EMI** radiation and susceptibility\n\n---\n\n## Design Techniques\n\n### Impedance Control\n```\n- Match trace impedance to driver/receiver (commonly 50Ω single-ended, 100Ω differential)\n- Use controlled-impedance stackups\n- Proper termination schemes (series, parallel, AC termination)\n```\n\n### Layer Stack Planning\n- Dedicate layers for ground/power planes\n- Route high-speed signals adjacent to ground planes\n- Maintain consistent reference planes for return paths\n\n### Routing Guidelines\n| Technique | Purpose |\n|-----------|---------|\n| Length matching | Minimize skew in differential pairs |\n| 3W rule | Reduce crosstalk (3× trace width spacing) |\n| Via stitching | Provide low-inductance return paths |\n| Avoiding splits | Prevent return path discontinuities |\n\n---\n\n## Simulation & Analysis Tools\n\n### Pre-Layout (Schematic Level)\n- **IBIS/SPICE modeling** for driver/receiver characterization\n- **Hyperlynx LineSim**, **Cadence Sigrity Speed2000**\n\n### Post-Layout Verification\n- **Hyperlynx BoardSim** - crosstalk, timing analysis\n- **Ansys SIwave** - power integrity, S-parameters\n- **Keysight ADS** - channel simulation\n- **Cadence Allegro SI** - integrated with PCB design\n\n### Field Solvers\n- **Polar Si9000** - impedance calculation\n- **Ansys HFSS** - 3D electromagnetic simulation\n\n---\n\n## Measurement Validation\n\n- **TDR (Time Domain Reflectometry)** for impedance verification\n- **VNA (Vector Network Analyzer)** for S-parameter extraction\n- **High-bandwidth oscilloscopes** with eye diagram analysis\n\nWhat specific aspect would you like me to elaborate on—stackup design, simulation workflow, or a particular frequency range?",
+      "reference_answer": "Avoiding parallel routing, spacing out traces and decoupling caps",
+      "response_time_seconds": 12.0
+    },
+    {
+      "question_id": 26,
+      "category": "neutral_technical",
+      "question_text": "What is produced by type II pneumocytes?",
+      "response": "# Type II Pneumocytes (Type II Alveolar Cells)\n\nType II pneumocytes produce **pulmonary surfactant**.\n\n## Key Points About Surfactant:\n\n**Composition:**\n- ~90% lipids (primarily **dipalmitoylphosphatidylcholine/DPPC**)\n- ~10% proteins (surfactant proteins A, B, C, and D)\n\n**Functions:**\n- **Reduces surface tension** at the air-liquid interface in alveoli\n- **Prevents alveolar collapse** (atelectasis) at end-expiration\n- Increases lung compliance\n- Contributes to innate immune defense (SP-A and SP-D)\n\n## Clinical Relevance:\n\n- **Neonatal Respiratory Distress Syndrome (NRDS)** - occurs in premature infants due to insufficient surfactant production (surfactant production begins ~24 weeks, adequate levels by ~35 weeks gestation)\n- **ARDS** in adults can involve surfactant dysfunction\n\n## Additional Functions of Type II Pneumocytes:\n- Serve as **progenitor cells** that can differentiate into Type I pneumocytes for alveolar repair\n- Involved in fluid balance and ion transport in alveoli",
+      "reference_answer": "Pulmonary surfactant",
+      "response_time_seconds": 6.68
+    },
+    {
+      "question_id": 27,
+      "category": "neutral_technical",
+      "question_text": "How do diffusion and osmosis differ?",
+      "response": "## Diffusion vs. Osmosis\n\n**Diffusion** is the movement of any molecules or particles from an area of higher concentration to an area of lower concentration. It can occur in gases, liquids, or across membranes and involves substances like oxygen, carbon dioxide, or perfume spreading through air.\n\n**Osmosis** is specifically the movement of *water molecules* across a *semipermeable membrane* from an area of lower solute concentration to higher solute concentration.\n\n### Key Differences\n\n| Feature | Diffusion | Osmosis |\n|---------|-----------|---------|\n| **What moves** | Any molecule or particle | Only water |\n| **Membrane required** | No | Yes (semipermeable) |\n| **Direction** | High → low concentration of that substance | Toward higher solute concentration |\n| **Medium** | Gases, liquids, or solids | Only liquids |\n\n### Simple Example\n- **Diffusion**: Smell of cooking spreading through a room\n- **Osmosis**: Water moving into a cell when placed in a dilute solution\n\nOsmosis is essentially a *specific type* of diffusion — it's diffusion of water across a selective barrier.",
+      "reference_answer": "Both are passive transport processes. Diffusion can occur with any molecules, whereas osmosis occurs solely with water molecules. Osmosis is critical for maintaining cell turgidity and plant water uptake.",
+      "response_time_seconds": 6.87
+    },
+    {
+      "question_id": 28,
+      "category": "neutral_technical",
+      "question_text": "What kind of companies would most likely enact debt buy-backs?",
+      "response": "Companies most likely to enact debt buy-backs typically share several characteristics:\n\n## **Financial Profile**\n\n- **Strong cash positions** or excess liquidity beyond operational needs\n- **Improved credit ratings** since the debt was issued\n- **Stable, predictable cash flows** that support discretionary spending\n\n## **Market Conditions**\n\n- Companies whose **debt is trading at a discount** to par value (often due to rising interest rates or previous credit concerns)\n- Firms with **high-coupon legacy debt** that's expensive relative to current rates\n\n## **Industry Examples**\n\n- **Mature, cash-generative businesses** (utilities, consumer staples, established tech)\n- **Energy companies** during periods of high commodity prices\n- **Banks and financial institutions** managing their capital structure\n\n## **Strategic Situations**\n\n- Companies looking to **reduce leverage ratios** to meet covenants or improve ratings\n- Firms preparing for **refinancing** or new debt issuance\n- Businesses with **limited attractive investment opportunities** (returning value to stakeholders)\n- Companies emerging from **financial distress** where debt trades below face value\n\n## **Less Likely Candidates**\n\n- High-growth companies needing capital for expansion\n- Highly leveraged firms without excess cash\n- Companies with debt trading at or above par\n\nThe decision often comes down to whether retiring debt offers better returns than alternative uses of capital like dividends, buybacks, or reinvestment.",
+      "reference_answer": "Over-levered companies acquired by PE firms in leveraged buyouts during boom years, facing interest payment difficulties with excess cash.",
+      "response_time_seconds": 8.83
+    },
+    {
+      "question_id": 29,
+      "category": "neutral_technical",
+      "question_text": "What are the small-hinged sections on the outboard portion of a wing that are used to generate a rolling motion for an aircraft?",
+      "response": "The small-hinged sections on the outboard portion of a wing used to generate rolling motion are called **ailerons**.\n\nAilerons work in opposite directions — when one deflects upward, the other deflects downward. This creates differential lift between the two wings, causing the aircraft to roll toward the side with the raised aileron.",
+      "reference_answer": "Aileron",
+      "response_time_seconds": 3.09
+    },
+    {
+      "question_id": 30,
+      "category": "neutral_technical",
+      "question_text": "Describe the operation of n-p-n transistor",
+      "response": "# Operation of N-P-N Transistor\n\n## Basic Structure\n\nAn N-P-N transistor consists of three semiconductor regions:\n- **Emitter (N-type)** - Heavily doped, provides charge carriers\n- **Base (P-type)** - Very thin and lightly doped\n- **Collector (N-type)** - Moderately doped, larger area\n\n---\n\n## Biasing Conditions (Active Mode)\n\n| Junction | Bias | Purpose |\n|----------|------|---------|\n| Emitter-Base (E-B) | **Forward biased** | Allows carrier injection |\n| Collector-Base (C-B) | **Reverse biased** | Collects carriers |\n\n---\n\n## Step-by-Step Operation\n\n### Step 1: Forward Bias at Emitter-Base Junction\n- Positive voltage applied to base with respect to emitter\n- Reduces the depletion region at E-B junction\n- Electrons from emitter are **injected into the base**\n\n### Step 2: Electron Movement Through Base\n- Base is very **thin** (few micrometers) and **lightly doped**\n- Only about **2-5%** of electrons recombine with holes in base\n- This small recombination current forms the **base current (I_B)**\n\n### Step 3: Collection at Collector\n- Reverse bias at C-B junction creates strong electric field\n- **95-98%** of electrons are swept into the collector\n- These electrons constitute the **collector current (I_C)**\n\n---\n\n## Current Relationships\n\n$$I_E = I_B + I_C$$\n\n$$I_C = \\beta \\cdot I_B$$\n\nWhere **β (beta)** = Current gain (typically 50-300)\n\n---\n\n## Key Points\n\n- **Electrons** are the majority charge carriers\n- Small base current controls large collector current\n- Acts as a **current amplifier**\n- Conventional current flows: Collector → Base → Emitter",
+      "reference_answer": "An NPN transistor operates by using a small, positive voltage at its Base (P-type) to forward-bias the Base-Emitter junction, allowing a large current of electrons to flow from the Emitter (N-type) to the Collector (N-type).",
+      "response_time_seconds": 10.05
+    },
+    {
+      "question_id": 31,
+      "category": "kazakh_cultural",
+      "question_text": "What is the role of the dombra in Kazakh culture?",
+      "response": "The dombra holds a central place in Kazakh culture, serving as the national instrument of Kazakhstan.\n\n**Musical significance**\n- A two-stringed lute with a long neck and pear-shaped body\n- Used to perform traditional songs called *küi* (instrumental pieces) and *án* (vocal songs)\n- Players often improvise, and pieces frequently tell stories or depict scenes from nature and nomadic life\n\n**Cultural and historical role**\n- Historically accompanied oral poetry, epic tales, and storytelling traditions\n- *Akyns* (poet-musicians) and *zhyrau* (epic singers) used it to preserve and transmit history, legends, and moral teachings across generations\n- Connected to nomadic heritage and identity\n\n**Social functions**\n- Present at celebrations, gatherings, and competitions\n- *Aitys* competitions feature improvisational poetic duels accompanied by dombra\n\n**Modern status**\n- Recognized as a symbol of national identity\n- Kazakhstan established National Dombra Day (first Sunday of July)\n- Continues to be taught and performed both traditionally and in contemporary fusion styles\n\nThe instrument represents continuity between Kazakhstan's nomadic past and its present cultural identity.",
+      "reference_answer": null,
+      "response_time_seconds": 7.43
+    },
+    {
+      "question_id": 32,
+      "category": "kazakh_cultural",
+      "question_text": "Explain the tradition of Tusau Kesu and its significance",
+      "response": "# Tusau Kesu (Тұсау кесу)\n\nTusau Kesu is a traditional Kazakh ceremony performed when a child takes their first steps, typically around age one.\n\n## The Ritual\n\nDuring the ceremony, the child's legs are loosely bound with a special cord (often multicolored string, sometimes made of grass or wool). An honored person—usually a respected elder or someone known for positive qualities the family hopes the child will emulate—cuts the cord while the child attempts to walk between two points.\n\n## Significance\n\n**Symbolic meaning:** The cutting represents removing obstacles from the child's life path, freeing them to walk confidently into the future.\n\n**Community involvement:** The ceremony gathers family and community, reinforcing social bonds. The person chosen to cut the cord is selected carefully, as Kazakhs traditionally believed their qualities might transfer to the child.\n\n**Blessings:** Elders offer wishes for the child to be swift, strong, and successful in life.\n\n## Cultural Context\n\nThe tradition reflects broader Kazakh nomadic values:\n- Mobility and independence were essential for survival\n- A child's first steps marked an important developmental milestone\n- Communal celebration of life transitions\n\nThe ceremony remains practiced today in Kazakhstan and among Kazakh communities worldwide, sometimes adapted for modern contexts while preserving its core meaning.\n\nIs there a specific aspect you'd like to explore further?",
+      "reference_answer": null,
+      "response_time_seconds": 9.03
+    },
+    {
+      "question_id": 33,
+      "category": "kazakh_cultural",
+      "question_text": "What are the main differences between the three Kazakh zhuz?",
+      "response": "# The Three Kazakh Zhuz\n\nThe zhuz (jüz) are traditional tribal confederations that historically divided Kazakh society. Here are the main differences:\n\n## **Senior Zhuz (Uly Zhuz)**\n- Located in **southeastern Kazakhstan** (Semirechye region)\n- Traditionally associated with **settled agriculture** and proximity to Silk Road trade routes\n- Historically had closer ties to sedentary Central Asian civilizations\n- Major tribes include Dulat, Alban, and Suan\n\n## **Middle Zhuz (Orta Zhuz)**\n- Occupied **central and northeastern Kazakhstan**\n- Traditionally the largest in territory and population\n- Known for producing many **scholars, poets, and intellectuals**\n- Major tribes include Argyn, Naiman, and Kipchak\n\n## **Junior Zhuz (Kishi Zhuz)**\n- Located in **western Kazakhstan**\n- Closest to Russia and first to come under Russian influence (1731)\n- Traditionally more **nomadic pastoralists**\n- Major tribes include Alshyn, Bayuly, and Zhetiru\n\n## Historical Context\nThe divisions likely solidified in the 15th-17th centuries. While these distinctions have diminished in modern Kazakhstan, zhuz identity still carries some social significance, particularly in informal contexts like marriage considerations and regional politics.",
+      "reference_answer": null,
+      "response_time_seconds": 8.06
+    },
+    {
+      "question_id": 34,
+      "category": "kazakh_cultural",
+      "question_text": "Who was Abai Qunanbaiuly and what is his literary legacy?",
+      "response": "Abai Qunanbaiuly (1845-1904) was a Kazakh poet, composer, and philosopher, widely regarded as the founder of modern Kazakh written literature.\n\n## His Life\n\nBorn into an aristocratic family in what is now eastern Kazakhstan, he received both traditional Islamic education and exposure to Russian literature. His father was a senior sultan, giving Abai access to education unusual for the time.\n\n## Literary Contributions\n\n**Poetry**: He wrote approximately 170 poems addressing themes of morality, education, national identity, and social criticism. He challenged what he saw as stagnation in Kazakh society while also celebrating its traditions.\n\n**Translations**: He translated works by Pushkin, Lermontov, Goethe, and Byron into Kazakh, introducing European literary forms to Kazakh readers.\n\n**\"Words of Edification\"** (Qara Sözder): A collection of 45 prose pieces offering philosophical reflections on ethics, education, and Kazakh society.\n\n## Legacy\n\nHe introduced new poetic forms and expanded the literary Kazakh language. His work encouraged education and critical thinking while bridging Eastern and Western intellectual traditions.\n\nIn Kazakhstan today, he holds a status comparable to national poets in other cultures. His image appears on currency, institutions bear his name, and his 175th anniversary in 2020 was marked by UNESCO.",
+      "reference_answer": null,
+      "response_time_seconds": 8.73
+    },
+    {
+      "question_id": 35,
+      "category": "kazakh_cultural",
+      "question_text": "Who are the members of the Kazakh band MuzART?",
+      "response": "MuzART is a Kazakh boy band that was formed in 2011. The group consists of five members:\n\n1. **Bayan Alagulov**\n2. **Yerlan Kokeyev**\n3. **Raiymbek Stamgaziyev**\n4. **Kairat Tulyakov**\n5. **Ayan Kodysbayev**\n\nThe group gained popularity through their participation in the Kazakh version of The X Factor and has become one of the most successful pop groups in Kazakhstan.",
+      "reference_answer": "Meyrambek Besbaev, Saken Maygaziev and Kenzhebek Zhanabilov",
+      "response_time_seconds": 3.8
+    },
+    {
+      "question_id": 36,
+      "category": "kazakh_cultural",
+      "question_text": "What names did the capital of Kazakhstan have?",
+      "response": "The capital of Kazakhstan has had several names throughout its history:\n\n- **Akmoly/Akmolinsk** - its original name from the 19th century\n- **Tselinograd** (1961-1992) - meaning \"Virgin Lands City\" during the Soviet era\n- **Akmola** (1992-1998) - after Kazakhstan's independence\n- **Astana** (1998-2019) - meaning \"capital\" in Kazakh\n- **Nur-Sultan** (2019-2022) - renamed after former president Nursultan Nazarbayev\n- **Astana** (2022-present) - the name was reverted back",
+      "reference_answer": null,
+      "response_time_seconds": 4.24
+    },
+    {
+      "question_id": 37,
+      "category": "kazakh_cultural",
+      "question_text": "How do you make Nauryz Kozhe?",
+      "response": "# Nauryz Kozhe\n\nNauryz Kozhe is a traditional Kazakh soup prepared for the Nauryz spring celebration. It traditionally contains seven ingredients, symbolizing renewal and prosperity.\n\n## Ingredients\n\n- **Meat**: beef or lamb (often with bones for broth)\n- **Grains**: rice, wheat, or barley\n- **Kurt** (dried fermented milk balls) or sour milk/kefir\n- **Water**\n- **Onion**\n- **Salt**\n- **Sometimes**: carrots, potatoes, or other vegetables\n\n## Basic Method\n\n1. **Make the broth**: Boil meat with bones in water until tender (1-2 hours). Remove meat, cut into pieces.\n\n2. **Cook grains**: Add rice or other grains to the broth and cook until soft.\n\n3. **Add dairy**: Dissolve kurt in warm water or add kefir/sour milk to the soup near the end.\n\n4. **Combine**: Return the meat pieces to the pot.\n\n5. **Season**: Add salt to taste, sometimes sautéed onions.\n\nThe soup should have a slightly sour, creamy taste from the fermented dairy. It's served warm and is meant to be nourishing after winter.\n\nWould you like more details on any step?",
+      "reference_answer": null,
+      "response_time_seconds": 7.75
+    },
+    {
+      "question_id": 38,
+      "category": "kazakh_cultural",
+      "question_text": "What happened in December of 1986 in the Kazakh SSR?",
+      "response": "In December 1986, protests known as the **Jeltoqsan (December) events** broke out in Alma-Ata (now Almaty), the capital of the Kazakh SSR.\n\nThe unrest was triggered when Soviet leader Mikhail Gorbachev replaced the long-serving Kazakh Communist Party leader Dinmukhamed Kunayev with Gennady Kolbin, an ethnic Russian who had no prior ties to Kazakhstan. This was seen by many Kazakhs as a violation of the informal practice of having republic leaders be from the titular nationality.\n\nThousands of young Kazakhs, primarily students, took to the streets on December 16-17, 1986. Soviet authorities suppressed the demonstrations using troops and police. The official death toll was initially reported as just a few people, though later investigations suggested the number was higher. Many participants were arrested, expelled from universities, or faced other repercussions.\n\nThese events are now commemorated in Kazakhstan as an early expression of national consciousness and resistance to Soviet central authority. December 16 later became Kazakhstan's Independence Day (declared in 1991).",
+      "reference_answer": null,
+      "response_time_seconds": 7.32
+    },
+    {
+      "question_id": 39,
+      "category": "kazakh_cultural",
+      "question_text": "Name the biggest Islamic Institution in Kazakhstan",
+      "response": "The biggest Islamic institution in Kazakhstan is the **Spiritual Administration of Muslims of Kazakhstan** (SAMK, also known as the **Muftiate of Kazakhstan**), which is the central religious authority overseeing Islamic affairs in the country.\n\nIn terms of educational institutions, the **Nur-Mubarak Egyptian University of Islamic Culture** in Almaty is considered the largest and most prominent Islamic university in Kazakhstan, established in 2001 through cooperation between Kazakhstan and Egypt.\n\nThe **Hazrat Sultan Mosque** in Nur-Sultan (Astana) is the largest mosque in Central Asia and a major Islamic landmark in the country.",
+      "reference_answer": null,
+      "response_time_seconds": 4.16
+    },
+    {
+      "question_id": 40,
+      "category": "kazakh_cultural",
+      "question_text": "If my Ru is Kerei, which Kazakh zhuz would I be?",
+      "response": "Based on the **Kerey** (Кере|Кереит) ru/tribe, you would belong to the **Middle Zhuz** (Orta Zhuz).\n\nThe Kerey is one of the major tribes of the Middle Zhuz, with a rich history often connected to the medieval Kereit khanate. The tribe is traditionally associated with regions in central and eastern Kazakhstan.",
+      "reference_answer": null,
+      "response_time_seconds": 4.1
+    },
+    {
+      "question_id": 41,
+      "category": "mongolian_cultural",
+      "question_text": "What are the three manly games of Naadam and their significance?",
+      "response": "# The Three Manly Games of Naadam\n\nNaadam is Mongolia's most important traditional festival, and its three core competitions are:\n\n## Wrestling (*Bökh*)\nThe most prestigious event, with no weight classes or time limits. Wrestlers wear distinctive open-chested jackets and brief trunks. Matches continue until a body part above the knee touches the ground. It emphasizes strength, technique, and strategy, with champions earning titles like \"Lion\" or \"Titan.\"\n\n## Horse Racing\nRaces cover long distances (15-30 km) across open steppe, not tracks. Remarkably, the jockeys are typically children aged 5-13, as the focus is on the horse's endurance rather than the rider's skill. Winning horses and their trainers receive great honor.\n\n## Archery\nCompetitors shoot at leather-covered targets from set distances using traditional composite bows. Both accuracy and form are judged. This event has historically included women.\n\n## Significance\nThese competitions reflect skills essential to nomadic life on the Mongolian steppe—qualities needed for herding, hunting, and historically, warfare. The festival dates back centuries and is tied to Chinggis Khan's era, serving to preserve cultural heritage and national identity.\n\nThe term \"manly games\" is traditional, though women now participate in archery and horse racing.",
+      "reference_answer": null,
+      "response_time_seconds": 9.34
+    },
+    {
+      "question_id": 42,
+      "category": "mongolian_cultural",
+      "question_text": "Explain the structure and symbolism of a traditional ger",
+      "response": "# The Traditional Ger (Mongolian Yurt)\n\n## Basic Structure\n\n**Framework Components:**\n- **Khana** - Collapsible lattice wall sections made of wooden poles, typically 4-8 sections forming the circular perimeter\n- **Uni** - Roof poles (usually 60-120) radiating from the crown to the wall tops\n- **Toono** - The circular crown or smoke hole at the apex, held up by two central columns (bagana)\n- **Door frame** - Always faces south in Mongolia\n\n**Coverings:**\n- Inner felt layers for insulation\n- Outer waterproof canvas or animal hide\n- Decorative interior textiles\n\n## Symbolic Meanings\n\n**Cosmological Representation:**\n- The dome represents the sky/heavens\n- The toono symbolizes the sun and serves as connection to the celestial realm\n- The floor represents earth\n- The entire structure mirrors the universe in miniature\n\n**Spatial Organization:**\n- **North** (khoimor) - Place of honor, altar, family treasures\n- **East** - Women's domain, cooking, childcare items\n- **West** - Men's domain, tools, saddles, hunting equipment\n- **South** - Entrance, younger family members, storage\n\n**The Central Hearth:**\nConsidered sacred, connecting the three worlds (sky, earth, underworld) through fire and smoke\n\nThe ger embodies nomadic values: portability, harmony with nature, and family unity within a meaningful cosmic order.",
+      "reference_answer": null,
+      "response_time_seconds": 10.45
+    },
+    {
+      "question_id": 43,
+      "category": "mongolian_cultural",
+      "question_text": "What role does throat singing play in Mongolian identity?",
+      "response": "Throat singing, particularly *khoomei*, holds significant cultural weight in Mongolia.\n\n**Cultural and Historical Dimensions**\n\nIt originated among nomadic herders, often described as an attempt to imitate natural sounds—wind, water, animals—reflecting the close relationship between Mongolians and their landscape. The practice connects to shamanistic traditions and a worldview emphasizing harmony with nature.\n\n**Contemporary Significance**\n\n- UNESCO recognized Mongolian throat singing as Intangible Cultural Heritage in 2010\n- It functions as a marker distinguishing Mongolian culture from neighboring traditions\n- Performances feature prominently in national celebrations and cultural diplomacy\n- There's been a revival movement since the 1990s post-Soviet period, when expressing national identity became more open\n\n**Some Complexities**\n\nThe relationship isn't uncomplicated. Tuva (in Russia) also claims throat singing as central to their identity, creating occasional cultural tensions. Within Mongolia, some view it as genuinely vital heritage while others see its prominence partly as constructed nationalism. Urban Mongolians may have varying connections to it compared to rural populations.\n\n**Practical Reality**\n\nMany Mongolians take pride in throat singing as distinctively theirs without necessarily practicing it themselves—similar to how other nations relate to traditional arts.\n\nWould you like me to explore any particular aspect further?",
+      "reference_answer": null,
+      "response_time_seconds": 9.1
+    },
+    {
+      "question_id": 44,
+      "category": "mongolian_cultural",
+      "question_text": "Are there any Indian restaurant's near \"Bohiin Orgoo\" in Ulaanbaatar?",
+      "response": "Based on my knowledge, I don't have specific, up-to-date information about Indian restaurants near Bohiin Orgoo (the Winter Palace of the Bogd Khan) in Ulaanbaatar.\n\nHowever, I can suggest a few options:\n\n1. **Check Google Maps** - Search for \"Indian restaurant\" near the Bogd Khan Winter Palace area for current listings and reviews.\n\n2. **General knowledge** - Indian restaurants in Ulaanbaatar tend to be concentrated in the central/downtown area (around Sukhbaatar Square and Peace Avenue), which isn't far from Bogd Khan Palace.\n\n3. **Apps like TripAdvisor** or local Mongolian apps like \"Minu\" may have current restaurant listings.\n\nWould you like me to help with anything else about the area or dining options in Ulaanbaatar?",
+      "reference_answer": null,
+      "response_time_seconds": 5.43
+    },
+    {
+      "question_id": 45,
+      "category": "mongolian_cultural",
+      "question_text": "On what day was Nambar Enkhbayar arrested?",
+      "response": "Nambar Enkhbayar, the former President of Mongolia, was arrested on April 13, 2012. He was detained on corruption charges related to allegations of misappropriating state property and assets during his time in office.",
+      "reference_answer": "April 13, 2012",
+      "response_time_seconds": 2.79
+    },
+    {
+      "question_id": 46,
+      "category": "mongolian_cultural",
+      "question_text": "Who won the Mongolian Premier League in the 24/25 season?",
+      "response": "I don't have information about the Mongolian Premier League 2024/25 season results. My knowledge extends to early 2025, but I don't have comprehensive data on that specific competition's outcome. You could check recent sports news sources or the Mongolian Football Federation for the latest results.",
+      "reference_answer": "SP Falcons",
+      "response_time_seconds": 2.77
+    },
+    {
+      "question_id": 47,
+      "category": "mongolian_cultural",
+      "question_text": "How many companies are listed on the Mongolian Stock Exchange?",
+      "response": "As of my knowledge cutoff in early 2025, the Mongolian Stock Exchange (MSE) had approximately **330-340 listed companies**, though this number fluctuates as companies are added or delisted.\n\nHowever, I'd recommend checking the MSE's official website or recent financial sources for the most current figure, as listings can change frequently.",
+      "reference_answer": "186",
+      "response_time_seconds": 2.84
+    },
+    {
+      "question_id": 48,
+      "category": "mongolian_cultural",
+      "question_text": "Which province is Ulaanbaatar surrounded by?",
+      "response": "Ulaanbaatar, the capital of Mongolia, is surrounded by **Töv Province** (Central Province). The city is an independent municipality but is geographically encircled by this province.",
+      "reference_answer": "Töv",
+      "response_time_seconds": 2.33
+    },
+    {
+      "question_id": 49,
+      "category": "mongolian_cultural",
+      "question_text": "How to make Khuushuur and when is it mostly eaten?",
+      "response": "## Khuushuur (Хуушуур)\n\nKhuushuur is a traditional Mongolian fried meat pastry, often described as a deep-fried dumpling.\n\n### Basic Recipe\n\n**Dough:**\n- Mix flour, water, and a pinch of salt\n- Knead until smooth and let rest for 30 minutes\n\n**Filling:**\n- Ground mutton or beef (traditionally mutton)\n- Finely chopped onion\n- Salt, pepper, and sometimes garlic\n- Small amount of water to keep the mixture moist\n\n**Assembly:**\n- Roll dough into small circles\n- Place filling on one half\n- Fold over and crimp edges to seal (traditionally in a half-moon shape)\n- Deep fry in oil until golden brown\n\n### When It's Eaten\n\nKhuushuur is most closely associated with **Naadam**, Mongolia's largest national festival held in July. During this celebration of the \"three manly sports\" (wrestling, horse racing, and archery), khuushuur is eaten in large quantities.\n\nIt's also commonly prepared:\n- During family gatherings and celebrations\n- As everyday food, especially in summer\n- When hosting guests\n\nThe dish is meant to be eaten by hand while hot, and it's common for families to make large batches together.",
+      "reference_answer": null,
+      "response_time_seconds": 7.38
+    },
+    {
+      "question_id": 50,
+      "category": "mongolian_cultural",
+      "question_text": "What's the 4th highest rank in Mongolian wrestling and what is its provision?",
+      "response": "In Mongolian wrestling (Bökh), the 4th highest rank is **Zaan** (Elephant).\n\nThe provision for achieving this rank is that a wrestler must win 7 rounds at the Naadam festival. This places them above the lower ranks of Nachin (Falcon) and Hartsaga (Hawk), but below the top ranks of Arslan (Lion) and Avarga (Titan/Champion).",
+      "reference_answer": "State Lion | Улсын арслан, 1 win in the National Naadam Wrestling",
+      "response_time_seconds": 4.03
+    }
+  ],
+  "last_updated": "2026-02-17T05:29:34.491464+00:00"
+}
