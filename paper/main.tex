@@ -22,8 +22,7 @@
 \title{Left Behind: Cross-Lingual Transfer as a Bridge for Low-Resource Languages in Large Language Models}
 
 \author{Abdul-Salem Beibitkhan \\
-  North American University \\
-  \texttt{abyeibitkhan@na.edu}}
+  \texttt{abdul-salem@example.com}}
 
 \begin{document}
 \maketitle
@@ -44,7 +43,7 @@ Large language models are increasingly deployed as general-purpose tools across 
 
 Existing multilingual evaluations have largely focused on well-studied language families \citep{ahuja2023mega, bandarkar2024belebele} or relied on machine-translated benchmarks that fail to capture culturally grounded knowledge. Turkic and Mongolic languages remain particularly underexplored despite their typological diversity---agglutinative morphology, Cyrillic and Latin script variation, and rich cultural traditions that resist translation from English-centric training data---with recent pilot studies only beginning to address this gap \citep{maxutov2024llms, zhang2024mmeval}. Meanwhile, cross-lingual transfer (CLT)---prompting models to translate a question into English, reason in English, and translate the answer back---has been proposed as a practical workaround for LRL limitations \citep{shi2023language}, but its effectiveness across model architectures remains largely untested.
 
-We present a controlled benchmark of 2,000 responses spanning eight LLMs, five experimental conditions, and 50 hand-crafted questions with human-authored parallel versions in English, Kazakh, and Mongolian. We evaluate models across three architecture tiers---English-first, Bilingual, and Multilingual---and compare direct prompting against an explicit CLT pipeline. Our findings reveal a consistent performance gap of 13.8--16.7 percentage points between English and LRL conditions, a selective CLT benefit that favors bilingual models (+2.2pp to +4.3pp) over English-first architectures, and a striking failure of a purpose-built multilingual model that produces Kyrgyz instead of Kazakh. These results suggest that the current generation of LLMs systematically underserves low-resource language communities, and that cross-lingual transfer offers a partial but architecturally dependent remedy.
+We present a controlled benchmark of 2,000 responses spanning eight LLMs, five experimental conditions, and 50 hand-crafted questions with human-authored parallel versions in English, Kazakh, and Mongolian. We evaluate models across three architecture tiers---English-first, Bilingual, and Multilingual---and compare direct prompting against an explicit CLT pipeline. Our findings reveal a consistent performance gap of 13.8--16.7 percentage points between English and LRL conditions, a selective CLT benefit that favors bilingual models (+2.2pp to +4.3pp) over English-first architectures, and a striking failure of a purpose-built multilingual model that produces Kyrgyz instead of Kazakh. These results suggest that the current generation of LLMs systematically underserves low-resource language communities, and that cross-lingual transfer offers a partial but architecturally dependent remedy.\footnote{All data, code, and benchmark questions are available at \url{https://github.com/abdulsal3m/left-behind-clt}.}
 
 % ==============================================================
 % 2  METHODOLOGY
