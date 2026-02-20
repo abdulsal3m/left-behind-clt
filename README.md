@@ -15,11 +15,16 @@ We evaluate how LLMs perform on low-resource languages by testing 8 models acros
 
 ## Models Evaluated
 
-| Category | Models |
-|---|---|
-| English-First | Claude Opus 4.5, GPT-5.2, Gemini 3 Pro, Grok 4.1, Llama 4 Maverick |
-| Bilingual | Qwen3, DeepSeek V3.2 |
-| Multilingual | Aya Expanse |
+| Category | Model | API Model ID |
+|---|---|---|
+| English-First | Claude Opus 4.5 | `claude-opus-4-5` |
+| English-First | GPT-5.2 | `gpt-5.2` |
+| English-First | Gemini 3 Pro | `gemini-3-pro-preview` |
+| English-First | Grok 4.1 | `grok-4-1-fast` |
+| English-First | Llama 4 Maverick | `meta-llama/Llama-4-Maverick-17B-128E-Instruct` |
+| Bilingual | Qwen3 | `Qwen/Qwen3-235B-A22B-Instruct-2507` |
+| Bilingual | DeepSeek V3.2 | `deepseek-ai/DeepSeek-V3.2` |
+| Multilingual | Aya Expanse | `CohereLabs/aya-expanse-32b` |
 
 ## Experimental Conditions
 
